@@ -1,0 +1,1329 @@
+date,fire_scar,site,plot,location,site_notes,shrub_regen_present,shrub_regen_species,shrub_regen_count,shrub_notes,s_bd1,s_bd2,s_bd3,photos
+2021-07-17,Aggie Creek,AgCr1,A,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr1,A,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr1,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,2a9f2885-8ca3-4981-ba48-b89f458a7ff0
+2025-07-21,Aggie Creek,AgCr1,A,6 m,Seedling hand recorded,no,NA,NA,NA,NA,NA,NA,45774de1-12d6-48eb-ae6d-ac3216c481a2
+2025-07-21,Aggie Creek,AgCr1,A,3 m,"Took seedlings and shrub data separately on notebook, photo has iPad cover smudge",no,NA,NA,NA,NA,NA,NA,bcc59194-ee4c-45b8-8ac7-692d4beddf11
+2021-07-17,Aggie Creek,AgCr1,B,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr1,B,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr1,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,b1bbe74e-c98a-4db5-a7cf-eeb434ea13a5
+2025-07-21,Aggie Creek,AgCr1,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,9c7c1428-d6e9-40b2-b8b2-992749b8ac5d
+2025-07-21,Aggie Creek,AgCr1,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,30052869-fbcb-4da7-93ac-b4265b1a7388
+2021-07-17,Aggie Creek,AgCr1,C,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr1,C,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr1,C,3 m,NA,yes,Salix,2,NA,2.13,2.19,NA,7800d39c-3283-4ca6-8835-44889778a8cd
+2025-07-21,Aggie Creek,AgCr1,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,f0cbb759-4e9c-4764-9986-849abcd62030
+2025-07-21,Aggie Creek,AgCr1,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,6d9d7124-7b62-40b6-aa2f-9e0ea1732b7c
+2021-07-17,Aggie Creek,AgCr2,A,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr2,A,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr2,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,2f345618-7263-404d-b401-9f44b898a806
+2025-07-21,Aggie Creek,AgCr2,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,"aa34a63f-26f4-466e-9a6e-e38a288823f5,9e71f1c4-3cec-4015-88a4-52ea5e420d43"
+2025-07-21,Aggie Creek,AgCr2,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,116742f7-8fab-4c4f-aabc-bf7b2bc649dd
+2021-07-17,Aggie Creek,AgCr2,B,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr2,B,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr2,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,215bf254-71a4-4b26-b140-6e94d31cecee
+2025-07-21,Aggie Creek,AgCr2,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,892fefc6-4eaf-4b33-a775-a66b7a87ef4b
+2025-07-21,Aggie Creek,AgCr2,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,"07bbb6fb-7fc2-4c59-a0fd-53a6241b3b87,07bbb6fb-7fc2-4c59-a0fd-53a6241b3b87,07bbb6fb-7fc2-4c59-a0fd-53a6241b3b87,07bbb6fb-7fc2-4c59-a0fd-53a6241b3b87"
+2021-07-17,Aggie Creek,AgCr2,C,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr2,C,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr2,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,c6fc386b-bfef-4b3b-835c-9e91964c0159
+2025-07-21,Aggie Creek,AgCr2,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,bf21288b-04ab-40ae-bccb-5c100af8f1b7
+2025-07-21,Aggie Creek,AgCr2,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,fde07251-a462-40fa-af26-d486b4136ab1
+2021-07-17,Aggie Creek,AgCr3,A,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr3,A,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr3,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,37f47232-ea2e-44f0-97af-1d0acfe1211c
+2025-07-21,Aggie Creek,AgCr3,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,6a8f0565-e74a-4bcc-b8fd-ecfa6cd52348
+2025-07-21,Aggie Creek,AgCr3,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,a9d44164-245a-41e4-bc04-74e1d2a1c607
+2021-07-17,Aggie Creek,AgCr3,B,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr3,B,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr3,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,988858d9-535d-4775-ac5a-d821febbb83d
+2025-07-21,Aggie Creek,AgCr3,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,"f13d86d8-e473-478b-8512-ae0a7c08d5ff,273b4093-647a-4c9f-81fb-eadb3be2dc5e"
+2025-07-21,Aggie Creek,AgCr3,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,ae060b28-2402-48b4-aad2-40039f5f0111
+2021-07-17,Aggie Creek,AgCr3,C,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr3,C,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr3,C,3 m,"
+",no,NA,NA,NA,NA,NA,NA,80593d5d-922d-42cc-97a9-031b552251ed
+2025-07-21,Aggie Creek,AgCr3,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,1c7101de-0762-4ee7-b753-8fb26f9b4654
+2025-07-21,Aggie Creek,AgCr3,C,9 m,Written,no,NA,NA,NA,NA,NA,NA,919af289-174f-4fe2-9737-107ad6c68e63
+2021-07-18,Aggie Creek,AgCr4,A,NA,NA,yes,Betula,5,NA,0.5,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,A,NA,NA,yes,Betula,5,NA,0.5,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,A,NA,NA,yes,Betula,8,NA,0.6,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,A,NA,NA,yes,Betula,8,NA,0.6,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr4,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,ee362ef1-6d8f-4999-83a2-2e188c27f634
+2025-07-22,Aggie Creek,AgCr4,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,461f6c8d-cb96-4b3e-bf3f-824850d13055
+2025-07-22,Aggie Creek,AgCr4,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,c4bdcf19-9426-4b3f-9e42-4401111651ee
+2021-07-18,Aggie Creek,AgCr4,B,NA,NA,yes,Betula,7,NA,0.6,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,B,NA,NA,yes,Betula,7,NA,0.6,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,B,NA,NA,yes,Betula,4,NA,0.4,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,B,NA,NA,yes,Betula,4,NA,0.4,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,B,NA,NA,yes,Betula,4,NA,0.6,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,B,NA,NA,yes,Betula,4,NA,0.6,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,B,NA,NA,yes,Betula,1,NA,0.6,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,B,NA,NA,yes,Betula,1,NA,0.6,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,B,NA,NA,yes,Betula,5,NA,0.5,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,B,NA,NA,yes,Betula,5,NA,0.5,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr4,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,e38281c0-4ff9-4fef-ad2e-6c3447abd499
+2025-07-22,Aggie Creek,AgCr4,B,6 m,"
+",no,NA,NA,NA,NA,NA,NA,b4aca940-defb-4f72-a8ad-ca9554b83414
+2025-07-22,Aggie Creek,AgCr4,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,5d0db7d3-926f-482f-92c9-947d6eea0560
+2021-07-18,Aggie Creek,AgCr4,C,NA,NA,yes,Betula,1,NA,0.4,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,C,NA,NA,yes,Betula,1,NA,0.4,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,C,NA,NA,yes,Betula,1,NA,0.65,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,C,NA,NA,yes,Betula,1,NA,0.65,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr4,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,bb2d3ea5-e145-4e10-95ef-ab989d02acd1
+2025-07-22,Aggie Creek,AgCr4,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,917d14fb-8613-4df6-ae12-558ccba0196a
+2025-07-22,Aggie Creek,AgCr4,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,70aced45-de23-4c76-bb7e-38c58a484a54
+2021-07-18,Aggie Creek,AgCr5,A,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr5,A,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr5,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,f3d519e8-608a-47ed-88b0-75d9902c525c
+2025-07-22,Aggie Creek,AgCr5,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,7fb893a2-b620-410b-9482-d94c1885101f
+2025-07-22,Aggie Creek,AgCr5,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,393ea78d-8dd5-4f8b-ac9d-905a59a16777
+2021-07-18,Aggie Creek,AgCr5,B,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr5,B,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr5,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,f68da3da-a4e1-424d-b63c-4a69e5732fa7
+2025-07-22,Aggie Creek,AgCr5,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,274367f3-2dea-483d-b27b-0cc58a04db67
+2025-07-22,Aggie Creek,AgCr5,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,a50ca880-f6ff-4eb9-a299-7f4ddcb3b93b
+2021-07-18,Aggie Creek,AgCr5,C,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr5,C,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr5,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,18022e29-b77c-4222-910c-4b89cf6bb6ed
+2025-07-22,Aggie Creek,AgCr5,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,b72dece9-66af-45e1-9ef9-91c85759c355
+2025-07-22,Aggie Creek,AgCr5,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,62c741f4-f461-456b-a94b-c3228e7402ae
+2021-07-18,Aggie Creek,AgCr6,A,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr6,A,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr6,A,6 m,NA,yes,Alder,2,NA,1.53,2.56,NA,e8e6f9ca-a71f-45b5-8d1d-f08681e39d8a
+2025-07-22,Aggie Creek,AgCr6,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,f57988cd-c095-467b-85cd-0ab16a451301
+2025-07-22,Aggie Creek,AgCr6,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,07163a30-345d-4e7b-813e-965618fb8d28
+2021-07-18,Aggie Creek,AgCr6,B,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr6,B,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr6,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,baf2a6f7-57e4-495c-9c66-64ba90e54079
+2025-07-22,Aggie Creek,AgCr6,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,c9be6532-c75f-47df-afdd-48afe14def28
+2025-07-22,Aggie Creek,AgCr6,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,a9dc5026-2fca-4aef-a521-3b623775c1eb
+2021-07-18,Aggie Creek,AgCr6,C,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr6,C,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr6,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,e7aa7304-409c-4c59-b0e0-4d3639675a1b
+2025-07-22,Aggie Creek,AgCr6,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,301d26de-03e0-429e-998c-f05f7601245c
+2025-07-22,Aggie Creek,AgCr6,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,6c6516ff-f6d5-4007-a7d5-3460528449ce
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Betula,10,NA,0.5,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Betula,10,NA,0.5,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Betula,11,NA,1.1,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Betula,11,NA,1.1,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Betula,4,NA,0.8,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Betula,4,NA,0.8,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Salix,6,NA,0.3,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Salix,6,NA,0.3,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Salix,3,NA,0.6,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Salix,3,NA,0.6,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Betula,9,NA,0.7,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Betula,9,NA,0.7,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Salix,1,NA,0.3,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Salix,1,NA,0.3,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Betula,10,NA,0.5,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Betula,10,NA,0.5,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Betula,11,NA,1.1,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Betula,11,NA,1.1,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Betula,4,NA,0.8,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Betula,4,NA,0.8,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Salix,6,NA,0.3,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Salix,6,NA,0.3,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Salix,3,NA,0.6,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Salix,3,NA,0.6,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Betula,9,NA,0.7,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Betula,9,NA,0.7,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Salix,1,NA,0.3,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,yes,Salix,1,NA,0.3,NA,NA,NA
+2025-08-03,Chitanana,Chit1,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,8a115506-58f2-42df-b69c-64009c87c3a6
+2025-08-03,Chitanana,Chit1,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,08cd0f0f-2107-4af6-bc44-debb127147eb
+2025-08-03,Chitanana,Chit1,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,d7de1911-5967-4350-94f6-777d3818202f
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Salix,6,NA,0.7,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Salix,6,NA,0.7,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Betula,5,NA,1,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Betula,5,NA,1,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Betula,9,NA,0.7,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Betula,9,NA,0.7,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Betula,2,NA,0.2,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Betula,2,NA,0.2,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Salix,4,NA,0.5,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Salix,4,NA,0.5,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Salix,5,NA,0.9,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Salix,5,NA,0.9,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Salix,6,NA,0.5,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Salix,6,NA,0.5,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Salix,5,NA,0.9,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Salix,5,NA,0.9,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Betula,5,NA,1,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Betula,5,NA,1,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Betula,9,NA,0.7,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Betula,9,NA,0.7,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Betula,2,NA,0.2,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Betula,2,NA,0.2,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Salix,6,NA,0.7,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Salix,6,NA,0.7,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Salix,5,NA,0.9,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Salix,5,NA,0.9,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Salix,6,NA,0.5,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Salix,6,NA,0.5,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Salix,5,NA,0.9,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Salix,5,NA,0.9,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Salix,4,NA,0.5,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Salix,4,NA,0.5,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Betula,3,NA,0.7,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Betula,3,NA,0.7,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Betula,5,NA,0.4,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Betula,5,NA,0.4,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Betula,3,NA,0.7,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Betula,3,NA,0.7,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Betula,5,NA,0.4,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,yes,Betula,5,NA,0.4,NA,NA,NA
+2025-08-03,Chitanana,Chit1,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,43570a51-59e8-4ed6-a2da-3f4fb91a6cc3
+2025-08-03,Chitanana,Chit1,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,ddf74c3a-aa86-4168-811d-9a1b3cf511e6
+2025-08-03,Chitanana,Chit1,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,8fc7a548-c9d2-44f4-8aeb-e708b8111c17
+2023-07-08,Chitanana,Chit1,C,NA,NA,yes,Betula,2,NA,0.6,NA,NA,NA
+2023-07-08,Chitanana,Chit1,C,NA,NA,yes,Betula,2,NA,0.6,NA,NA,NA
+2023-07-08,Chitanana,Chit1,C,NA,NA,yes,Betula,9,NA,0.9,NA,NA,NA
+2023-07-08,Chitanana,Chit1,C,NA,NA,yes,Betula,9,NA,0.9,NA,NA,NA
+2023-07-08,Chitanana,Chit1,C,NA,NA,yes,Betula,5,NA,0.8,NA,NA,NA
+2023-07-08,Chitanana,Chit1,C,NA,NA,yes,Betula,5,NA,0.8,NA,NA,NA
+2023-07-08,Chitanana,Chit1,C,NA,NA,yes,Betula,2,NA,0.6,NA,NA,NA
+2023-07-08,Chitanana,Chit1,C,NA,NA,yes,Betula,2,NA,0.6,NA,NA,NA
+2023-07-08,Chitanana,Chit1,C,NA,NA,yes,Betula,9,NA,0.9,NA,NA,NA
+2023-07-08,Chitanana,Chit1,C,NA,NA,yes,Betula,9,NA,0.9,NA,NA,NA
+2023-07-08,Chitanana,Chit1,C,NA,NA,yes,Betula,5,NA,0.8,NA,NA,NA
+2023-07-08,Chitanana,Chit1,C,NA,NA,yes,Betula,5,NA,0.8,NA,NA,NA
+2025-08-03,Chitanana,Chit1,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,ef7b21b5-6175-4059-92ed-633c50320b38
+2025-08-03,Chitanana,Chit1,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,85223fca-78e7-4496-a941-5bba3c2c3f51
+2025-08-03,Chitanana,Chit1,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,bfbd076c-c141-453f-aab1-95be30dbd8a0
+2023-07-09,Chitanana,Chit3,A,NA,NA,yes,Alder,2,NA,1.3,NA,NA,NA
+2023-07-09,Chitanana,Chit3,A,NA,NA,yes,Alder,2,NA,1.3,NA,NA,NA
+2023-07-09,Chitanana,Chit3,A,NA,NA,yes,Alder,5,NA,0.2,NA,NA,NA
+2023-07-09,Chitanana,Chit3,A,NA,NA,yes,Alder,5,NA,0.2,NA,NA,NA
+2023-07-09,Chitanana,Chit3,A,NA,NA,yes,Alder,2,NA,0.5,NA,NA,NA
+2023-07-09,Chitanana,Chit3,A,NA,NA,yes,Alder,2,NA,0.5,NA,NA,NA
+2025-08-03,Chitanana,Chit3,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,43a8d8a5-734c-487a-8568-8bf17103f9c4
+2025-08-03,Chitanana,Chit3,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,5a8e4859-5421-4c46-8248-d9a48ff04919
+2025-08-03,Chitanana,Chit3,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,c4ea78f0-a72d-4db4-92c4-7e2933033b5a
+2023-07-09,Chitanana,Chit3,B,NA,NA,yes,Betula,5,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit3,B,NA,NA,yes,Betula,5,NA,0.3,NA,NA,NA
+2025-08-03,Chitanana,Chit3,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,19a40605-1d04-4fa7-b144-d0257817aa69
+2025-08-03,Chitanana,Chit3,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,b394fc3b-6ece-4557-a3da-c29fcb2fb553
+2025-08-03,Chitanana,Chit3,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,32e8a67d-bc5c-466f-8d9b-9209d47726cb
+2023-07-09,Chitanana,Chit3,C,NA,NA,yes,Betula,6,NA,0.4,NA,NA,NA
+2023-07-09,Chitanana,Chit3,C,NA,NA,yes,Betula,6,NA,0.4,NA,NA,NA
+2023-07-09,Chitanana,Chit3,C,NA,NA,yes,Betula,3,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit3,C,NA,NA,yes,Betula,3,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit3,C,NA,NA,yes,Alder,1,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit3,C,NA,NA,yes,Alder,1,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit3,C,NA,NA,yes,Alder,14,NA,0.7,NA,NA,NA
+2023-07-09,Chitanana,Chit3,C,NA,NA,yes,Alder,14,NA,0.7,NA,NA,NA
+2023-07-09,Chitanana,Chit3,C,NA,NA,yes,Betula,11,NA,0.6,NA,NA,NA
+2023-07-09,Chitanana,Chit3,C,NA,NA,yes,Betula,11,NA,0.6,NA,NA,NA
+2023-07-09,Chitanana,Chit3,C,NA,NA,yes,Betula,1,NA,0.4,NA,NA,NA
+2023-07-09,Chitanana,Chit3,C,NA,NA,yes,Betula,1,NA,0.4,NA,NA,NA
+2023-07-09,Chitanana,Chit3,C,NA,NA,yes,Betula,1,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit3,C,NA,NA,yes,Betula,1,NA,0.3,NA,NA,NA
+2025-08-03,Chitanana,Chit3,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,8810451b-4cb3-44a5-b42e-4b435fa75404
+2025-08-03,Chitanana,Chit3,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,78915e4e-284b-4cf1-932a-f4c339a4d4ac
+2025-08-03,Chitanana,Chit3,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,bb5394e4-c540-4dd6-afa3-3a7b409af61a
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,1,NA,0.4,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,1,NA,0.4,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Uknown,1,NA,0.4,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Uknown,1,NA,0.4,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,4,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,4,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,3,NA,0.5,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,3,NA,0.5,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,4,NA,0.6,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,4,NA,0.6,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,2,NA,0.4,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,2,NA,0.4,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,20,NA,0.7,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,20,NA,0.7,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,3,NA,0.7,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,3,NA,0.7,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Uknown,1,NA,2.2,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Uknown,1,NA,2.2,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Uknown,3,NA,0.5,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Uknown,3,NA,0.5,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,34,NA,0.5,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,34,NA,0.5,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,10,NA,0.5,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,10,NA,0.5,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,2,NA,0.6,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,2,NA,0.6,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Uknown,2,NA,1.3,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Uknown,2,NA,1.3,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,4,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,4,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,4,NA,0.5,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,4,NA,0.5,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,7,NA,1,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,7,NA,1,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,2,NA,0.8,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,2,NA,0.8,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,18,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,yes,Betula,18,NA,0.3,NA,NA,NA
+2025-08-03,Chitanana,Chit4,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,f7cb04e5-fb4f-46d6-9542-66e424f24f5c
+2025-08-03,Chitanana,Chit4,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,af6c06e1-5066-4435-94a6-40089f5158dc
+2025-08-03,Chitanana,Chit4,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,9a98616d-043a-4756-97b1-50c97c58f9ba
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Betula,1,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Betula,1,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Uknown,6,NA,0.4,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Uknown,6,NA,0.4,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Uknown,5,NA,0.2,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Uknown,5,NA,0.2,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Uknown,6,NA,0.4,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Uknown,6,NA,0.4,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Alder,11,NA,1.1,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Alder,11,NA,1.1,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Alder,4,NA,1,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Alder,4,NA,1,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Uknown,5,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Uknown,5,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Alder,1,NA,0.8,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Alder,1,NA,0.8,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Alder,5,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Alder,5,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Alder,4,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Alder,4,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Alder,9,NA,0.8,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Alder,9,NA,0.8,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Alder,6,NA,0.6,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Alder,6,NA,0.6,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Alder,1,NA,0.4,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Alder,1,NA,0.4,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Betula,4,NA,0.5,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,yes,Betula,4,NA,0.5,NA,NA,NA
+2025-08-03,Chitanana,Chit4,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,66e1e7f2-f83f-4918-b578-a47594f9c36d
+2025-08-03,Chitanana,Chit4,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,5f01c616-3aed-4747-b628-37c9b64ad09a
+2025-08-03,Chitanana,Chit4,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,c790047f-d542-427d-a8cd-88205888837c
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Betula,1,NA,0.5,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Betula,1,NA,0.5,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Alder,11,NA,0.8,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Alder,11,NA,0.8,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Betula,8,NA,0.8,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Betula,8,NA,0.8,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Betula,2,NA,0.4,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Betula,2,NA,0.4,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Betula,5,NA,0.4,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Betula,5,NA,0.4,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Betula,4,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Betula,4,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Betula,3,NA,0.5,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Betula,3,NA,0.5,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Betula,3,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Betula,3,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Uknown,7,NA,0.5,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Uknown,7,NA,0.5,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Uknown,1,NA,0.5,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Uknown,1,NA,0.5,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Betula,2,NA,1.8,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Betula,2,NA,1.8,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Uknown,10,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Uknown,10,NA,0.3,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Betula,6,NA,0.6,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,yes,Betula,6,NA,0.6,NA,NA,NA
+2025-08-03,Chitanana,Chit4,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,e16de8eb-7eda-4504-87c0-2ba6ae2a465d
+2025-08-03,Chitanana,Chit4,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,c775b4b4-7d56-46ce-9a82-79bdeb3c4da4
+2025-08-03,Chitanana,Chit4,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,f1dd5e08-5fb4-4553-ac06-e1f2775c08e2
+2024-08-05,Dry Creek,DrCr1,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-05,Dry Creek,DrCr1,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-05,Dry Creek,DrCr1,B,6 m,NA,yes,Salix,1,NA,0.64,NA,NA,NA
+2024-08-05,Dry Creek,DrCr1,B,3 m,NA,yes,Salix,6,NA,0.75,0.38,0.54,NA
+2024-08-05,Dry Creek,DrCr1,C,6 m,Betula neoalaskana seedlings barely beginning to sprout so unclear whether neoalaskana or nana. Seedlings as pictured in photo under plants section.,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-05,Dry Creek,DrCr1,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-05,Dry Creek,DrCr2,A,6 m,NA,yes,NA,NA,NA,NA,NA,NA,NA
+2024-08-05,Dry Creek,DrCr2,A,3 m,NA,yes,Salix,5,NA,0.62,0.54,0.32,NA
+2024-08-05,Dry Creek,DrCr2,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-05,Dry Creek,DrCr2,B,6 m,NA,yes,Salix,4,NA,0.79,0.68,0.51,NA
+2024-08-05,Dry Creek,DrCr2,B,6 m,NA,yes,Salix,2,NA,0.21,0.19,NA,NA
+2024-08-05,Dry Creek,DrCr2,C,3 m,NA,yes,Salix,3,NA,0.52,0.43,0.21,NA
+2024-08-05,Dry Creek,DrCr2,C,3 m,NA,yes,Salix,5,NA,0.85,0.62,0.55,NA
+2024-08-05,Dry Creek,DrCr2,C,6 m,NA,yes,Salix,1,NA,0.51,NA,NA,NA
+2024-08-05,Dry Creek,DrCr2,C,6 m,NA,yes,Salix,5,NA,0.29,0.17,0.23,NA
+2024-08-05,Dry Creek,DrCr3,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-05,Dry Creek,DrCr3,A,6 m,NA,yes,Salix,9,NA,0.56,0.5,0.27,NA
+2024-08-05,Dry Creek,DrCr3,B,3 m,NA,yes,Salix,8,NA,0.46,0.51,0.23,NA
+2024-08-05,Dry Creek,DrCr3,B,6 m,NA,yes,Salix,3,NA,0.29,0.33,0.31,NA
+2024-08-05,Dry Creek,DrCr3,C,3 m,NA,yes,Salix,3,NA,0.37,0.39,0.4,NA
+2024-08-05,Dry Creek,DrCr3,C,3 m,NA,yes,Salix,4,NA,0.77,0.35,0.65,NA
+2024-08-05,Dry Creek,DrCr3,C,3 m,NA,yes,Salix,2,NA,0.47,0.76,NA,NA
+2024-08-05,Dry Creek,DrCr3,C,3 m,NA,yes,Salix,13,NA,0.65,0.1,0.56,NA
+2024-08-05,Dry Creek,DrCr3,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr4,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr4,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr4,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr4,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr4,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr4,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr5,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr5,A,3 m,NA,yes,Salix,1,NA,1.03,NA,NA,NA
+2024-08-06,Dry Creek,DrCr5,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr5,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr5,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr5,C,6 m,NA,yes,Salix,8,NA,0.87,1.08,1.06,NA
+2024-08-06,Dry Creek,DrCr6,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr6,A,6 m,NA,yes,Salix,7,NA,0.57,0.43,0.53,NA
+2024-08-06,Dry Creek,DrCr6,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr6,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr6,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr6,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob1,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,0a7d080f-302a-4cd7-814a-8502f1ba5d9e
+2025-07-31,Globe,Glob1,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,3997a584-889f-4728-9b4b-b98350300cb2
+2025-07-31,Globe,Glob1,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,72239516-0d89-4646-b743-ef6306ced6b8
+2025-07-31,Globe,Glob1,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,2a190c42-7939-43ef-8253-b393142f2d03
+2025-07-31,Globe,Glob1,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,2d98273e-7a0b-4ac3-9b89-839e97f38386
+2025-07-31,Globe,Glob1,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,3b4b421a-5460-4194-983e-cd236fe72569
+2025-07-31,Globe,Glob1,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,87948154-e354-490c-8908-0a9304bbb179
+2025-07-31,Globe,Glob1,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,421eb974-3c63-49e7-8ef6-843488ac73fe
+2025-07-31,Globe,Glob1,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,e4a91a97-959f-4899-a49f-7f9f7722165f
+2025-07-31,Globe,Glob2,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,0b785af4-8205-4835-abbf-48f58936783b
+2025-07-31,Globe,Glob2,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,8d347d92-ed28-46b2-9f4f-1c9891406bcd
+2025-07-31,Globe,Glob2,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,f091afe2-0e33-4f5f-a8b1-dc464ec7c2df
+2025-07-31,Globe,Glob2,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,dcec60ed-73bd-44ca-a17d-b84da24d046e
+2025-07-31,Globe,Glob2,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,f28e99e7-0caf-4006-ae3a-8cb44f812816
+2025-07-31,Globe,Glob2,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,e5ebfb9d-a7b9-4770-8e15-96716169c3a6
+2025-07-31,Globe,Glob2,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,56abd580-a1c7-43ba-b0c5-a292e69399dd
+2025-07-31,Globe,Glob2,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,c2793b64-4543-4a41-b57c-32ac92be5e53
+2025-07-31,Globe,Glob2,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,b0d9b157-1264-4a58-bd41-f9501a296431
+2025-07-31,Globe,Glob3,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,203c1d28-5ae5-43c7-af19-df2a7b1efcf8
+2025-07-31,Globe,Glob3,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,ca9a492f-6540-43e6-b88d-ac5eb7febac8
+2025-07-31,Globe,Glob3,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,c84a075f-48ab-48c1-b6fa-408ebdc447e9
+2025-07-31,Globe,Glob3,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,73fdd7cb-f361-4b36-8b84-688e86a84b7c
+2025-07-31,Globe,Glob3,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,8a8b35b5-9964-4f55-87ea-76f46327fc38
+2025-07-31,Globe,Glob3,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,f3057d6e-9d67-4e6a-9334-ed891b5bafb6
+2025-07-31,Globe,Glob3,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,e7c47e22-4a45-48a5-b6b6-3be77c4645b9
+2025-07-31,Globe,Glob3,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,f49014f3-ab9d-406d-9540-298d0637f0a3
+2025-07-31,Globe,Glob3,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,343e728d-6a63-4650-bf18-fa29c0b05080
+2025-07-23,Globe,Glob4,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,c25c9459-66fd-4377-a313-88a9e5bf0c1f
+2025-07-23,Globe,Glob4,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,911e1b6c-9c02-459d-813e-3ac0f0f79be9
+2025-07-23,Globe,Glob4,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,31a086a6-28f7-42c2-8abb-130202de58a6
+2025-07-23,Globe,Glob4,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,a7aa85cc-2b83-4799-8dfd-e8b0b24b87a2
+2025-07-23,Globe,Glob4,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,8eeb3d23-ae7b-4657-a31c-df85dc2a1852
+2025-07-23,Globe,Glob4,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,3d40449c-e3b9-467f-a8c0-6c8076d60fff
+2025-07-23,Globe,Glob4,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,f6f7a054-8703-4c6d-b07a-c2a757182a68
+2025-07-23,Globe,Glob4,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,19a4c725-ae09-4df2-92e0-0b6d79e60a0e
+2025-07-23,Globe,Glob4,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,673ff0dc-b3eb-4efb-9ac1-4b4349cda52c
+2025-07-23,Globe,Glob5,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,e027991b-bb7e-4d79-ad86-8d351a327a7f
+2025-07-23,Globe,Glob5,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,ee2f06ce-93d8-41c2-ae52-7d9340635780
+2025-07-23,Globe,Glob5,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,7ac81787-5898-42a1-9364-819191dfb25e
+2025-07-23,Globe,Glob5,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,69b44721-7cb2-4e97-b91d-da84bc339812
+2025-07-23,Globe,Glob5,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,e82ebfc6-b2cf-4a90-b631-348d289d6ee5
+2025-07-23,Globe,Glob5,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,72229ad7-0aca-411e-8f79-6ff1b57e8b7a
+2025-07-23,Globe,Glob5,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,6632bc47-b439-4306-adbf-068dc2dc682d
+2025-07-23,Globe,Glob5,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,fdabf80a-dd1f-4463-8705-e8c0caef0851
+2025-07-23,Globe,Glob5,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,38d3918f-3363-4181-949f-62cc6db4b070
+2025-07-23,Globe,Glob6,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,915b43e2-ad80-4db2-a1a0-3da065efebb3
+2025-07-23,Globe,Glob6,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,4bba1e9a-f3e1-410a-b61a-11de115e33ce
+2025-07-23,Globe,Glob6,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,1cc07b79-7416-4b46-8509-a87cb72da2f8
+2025-07-23,Globe,Glob6,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,d93ce559-08a1-4db4-9f59-1d3c78d3256d
+2025-07-23,Globe,Glob6,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,713d5cfa-1244-43a9-a4b9-dffa8df0d792
+2025-07-23,Globe,Glob6,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,54fed941-fbfb-438b-920f-5fbd0ffdc9da
+2025-07-23,Globe,Glob6,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,6a67563f-3e25-4526-bcdf-fa62c9becdf3
+2025-07-23,Globe,Glob6,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,a9242768-8101-46ca-b2b8-d1b7dfc27c74
+2025-07-23,Globe,Glob6,C,9 m,This plot is like a mini meadow. A lot of vascular plant diversity was found when compared to the rest of the site,no,NA,NA,NA,NA,NA,NA,5b5367fd-c959-41a0-a59e-ff36e5aec4e2
+2024-07-14,Haystack,Hays1,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays1,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays1,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays1,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays1,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays1,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays1,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays2,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays2,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays2,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays2,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays2,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays2,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays2,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays2,C,9 m,Photo taken from far side,yes,Salix,51,NA,1.48,1.45,1.63,NA
+2024-07-14,Haystack,Hays2,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays3,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays3,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays3,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays3,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays3,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays3,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays3,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays3,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays3,C,3 m,NA,yes,Salix,1,NA,0.9,NA,NA,NA
+2024-07-25,Haystack,Hays4,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays4,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays4,A,8,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays4,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays4,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays4,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays4,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays4,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays4,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays4,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays5,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays5,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays5,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays5,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays5,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays5,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays5,C,6 m,NA,yes,Salix,1,NA,1.29,NA,NA,NA
+2024-07-25,Haystack,Hays5,C,6 m,NA,yes,Salix,7,NA,0.64,1.15,0.93,NA
+2024-07-25,Haystack,Hays5,C,3 m,NA,yes,Salix,3,NA,1.45,1.28,1.62,NA
+2024-07-25,Haystack,Hays5,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays6,A,6 m,NA,yes,Salix,11,NA,0.8,1.52,0.93,NA
+2024-07-25,Haystack,Hays6,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays6,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays6,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays6,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays6,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays6,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays6,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays6,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,A,NA,NA,yes,Betula,2,NA,0.6,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,A,NA,NA,yes,Betula,2,NA,0.6,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,A,NA,NA,yes,Alder,1,NA,1.8,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,A,NA,NA,yes,Alder,1,NA,1.8,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,A,NA,NA,yes,Alder,1,NA,1.1,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,A,NA,NA,yes,Alder,1,NA,1.1,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,A,NA,NA,yes,Salix,3,NA,3.4,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,A,NA,NA,yes,Salix,3,NA,3.4,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,A,NA,NA,yes,Betula,14,NA,1.2,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,A,NA,NA,yes,Betula,14,NA,1.2,NA,NA,NA
+2024-07-22,Hess Creek,HeCr1,A,6 m,NA,yes,Alder,10,Some above dbh,1.97,1.28,1.59,NA
+2024-07-22,Hess Creek,HeCr1,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr1,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,B,NA,NA,yes,Alder,8,NA,1.4,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,B,NA,NA,yes,Alder,8,NA,1.4,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,B,NA,NA,yes,Alder,2,NA,1,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,B,NA,NA,yes,Alder,2,NA,1,NA,NA,NA
+2024-07-22,Hess Creek,HeCr1,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr1,B,9 m,NA,yes,Alder,2,NA,0.74,0.63,NA,NA
+2024-07-22,Hess Creek,HeCr1,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,C,NA,NA,yes,Alder,9,NA,0.8,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,C,NA,NA,yes,Alder,9,NA,0.8,NA,NA,NA
+2024-07-22,Hess Creek,HeCr1,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr1,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr1,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr2,A,6 m,NA,yes,Salix,1,NA,0.82,NA,NA,NA
+2024-07-22,Hess Creek,HeCr2,A,6 m,NA,yes,Salix,1,NA,0.52,NA,NA,NA
+2024-07-22,Hess Creek,HeCr2,A,6 m,NA,yes,Salix,2,NA,1.46,1.2,NA,NA
+2024-07-22,Hess Creek,HeCr2,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr2,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr2,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr2,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr2,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr2,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr2,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr2,C,3 m,NA,yes,Salix,1,NA,0.6,NA,NA,NA
+2024-07-22,Hess Creek,HeCr2,C,3 m,NA,yes,Salix,1,NA,0.34,NA,NA,NA
+2021-07-11,Hess Creek,HeCr3,A,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-11,Hess Creek,HeCr3,A,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,A,6 m,NA,yes,Salix,1,NA,0.46,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,A,6 m,NA,yes,Salix,1,NA,0.52,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,A,6 m,NA,yes,Salix,1,NA,0.31,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,A,6 m,NA,yes,Salix,1,NA,0.25,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,A,3 m,NA,yes,Salix,5,NA,0.4,0.33,0.44,NA
+2024-07-22,Hess Creek,HeCr3,A,3 m,NA,yes,Salix,1,NA,0.22,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,A,3 m,NA,yes,Salix,1,NA,0.18,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,A,3 m,NA,yes,Salix,1,NA,0.2,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,A,3 m,NA,yes,Salix,1,NA,0.14,NA,NA,NA
+2021-07-11,Hess Creek,HeCr3,B,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-11,Hess Creek,HeCr3,B,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,B,9 m,NA,yes,Salix,1,NA,0.15,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,B,6 m,NA,yes,Salix,1,NA,0.11,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,B,3 m,NA,yes,Salix,3,NA,0.77,0.43,0.61,NA
+2024-07-22,Hess Creek,HeCr3,B,3 m,NA,yes,Salix,1,NA,0.3,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,B,3 m,NA,yes,Salix,1,NA,0.36,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,B,3 m,NA,yes,Salix,1,NA,0.24,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,B,3 m,NA,yes,Salix,2,NA,0.25,0.17,NA,NA
+2024-07-22,Hess Creek,HeCr3,B,3 m,NA,yes,Salix,1,NA,0.25,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,B,3 m,NA,yes,Salix,2,NA,0.17,0.15,NA,NA
+2021-07-11,Hess Creek,HeCr3,C,NA,NA,yes,Salix,7,NA,1.1,NA,NA,NA
+2021-07-11,Hess Creek,HeCr3,C,NA,NA,yes,Salix,7,NA,1.1,NA,NA,NA
+2021-07-11,Hess Creek,HeCr3,C,NA,NA,yes,Salix,3,NA,1.4,NA,NA,NA
+2021-07-11,Hess Creek,HeCr3,C,NA,NA,yes,Salix,3,NA,1.4,NA,NA,NA
+2021-07-11,Hess Creek,HeCr3,C,NA,NA,yes,Salix,2,NA,0.9,NA,NA,NA
+2021-07-11,Hess Creek,HeCr3,C,NA,NA,yes,Salix,2,NA,0.9,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,C,3 m,NA,yes,Salix,1,NA,0.1,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,A,NA,NA,yes,Salix,1,NA,1,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,A,NA,NA,yes,Salix,1,NA,1,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,A,NA,NA,yes,Betula,10,NA,1.2,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,A,NA,NA,yes,Betula,10,NA,1.2,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,A,NA,NA,yes,Salix,2,NA,0.6,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,A,NA,NA,yes,Salix,2,NA,0.6,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,A,NA,NA,yes,Betula,4,NA,0.4,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,A,NA,NA,yes,Betula,4,NA,0.4,NA,NA,NA
+2024-07-23,Hess Creek,HeCr4,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr4,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr4,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,B,NA,NA,yes,Salix,2,NA,0.8,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,B,NA,NA,yes,Salix,2,NA,0.8,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,B,NA,NA,yes,Betula,8,NA,0.6,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,B,NA,NA,yes,Betula,8,NA,0.6,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,B,NA,NA,yes,Betula,4,NA,0.8,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,B,NA,NA,yes,Betula,4,NA,0.8,NA,NA,NA
+2024-07-23,Hess Creek,HeCr4,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr4,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr4,B,6 m,LC soil sample hole in plot,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,C,NA,NA,yes,Betula,12,NA,1,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,C,NA,NA,yes,Betula,12,NA,1,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,C,NA,NA,yes,Betula,1,NA,1.5,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,C,NA,NA,yes,Betula,1,NA,1.5,NA,NA,NA
+2024-07-23,Hess Creek,HeCr4,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr4,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr4,C,3 m,Old soil sampling hole in plot from LC,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,A,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,A,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr5,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr5,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr5,A,6 m,LC soil sample at 7.3,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,B,NA,NA,yes,Salix,3,NA,0.6,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,B,NA,NA,yes,Salix,3,NA,0.6,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,B,NA,NA,yes,Salix,2,NA,1,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,B,NA,NA,yes,Salix,2,NA,1,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,B,NA,NA,yes,Salix,1,NA,1.4,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,B,NA,NA,yes,Salix,1,NA,1.4,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,B,NA,NA,yes,Salix,1,NA,0.9,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,B,NA,NA,yes,Salix,1,NA,0.9,NA,NA,NA
+2024-07-23,Hess Creek,HeCr5,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr5,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr5,B,6 m,NA,yes,Salix,2,NA,1.07,1.45,NA,NA
+2024-07-23,Hess Creek,HeCr5,B,6 m,NA,yes,Salix,7,NA,NA,NA,1.58,NA
+2021-07-10,Hess Creek,HeCr5,C,NA,NA,yes,Salix,6,NA,1.4,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,C,NA,NA,yes,Salix,6,NA,1.4,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,C,NA,NA,yes,Salix,1,NA,2,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,C,NA,NA,yes,Salix,1,NA,2,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,C,NA,NA,yes,Salix,4,NA,2,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,C,NA,NA,yes,Salix,4,NA,2,NA,NA,NA
+2024-07-23,Hess Creek,HeCr5,C,3 m,NA,yes,Salix,1,NA,0.1,NA,NA,NA
+2024-07-23,Hess Creek,HeCr5,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr5,C,6 m,NA,yes,Salix,3,.2,0.7,0.8,0.2,NA
+2021-07-10,Hess Creek,HeCr6,A,NA,NA,yes,Betula,3,NA,1.3,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,A,NA,NA,yes,Betula,3,NA,1.3,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,A,NA,NA,yes,Salix,5,NA,0.8,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,A,NA,NA,yes,Salix,5,NA,0.8,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,A,NA,NA,yes,Betula,2,NA,1.4,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,A,NA,NA,yes,Betula,2,NA,1.4,NA,NA,NA
+2024-07-23,Hess Creek,HeCr6,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr6,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr6,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,B,NA,NA,yes,Salix,1,NA,0.4,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,B,NA,NA,yes,Salix,1,NA,0.4,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,B,NA,NA,yes,Betula,10,NA,1.2,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,B,NA,NA,yes,Betula,10,NA,1.2,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,B,NA,NA,yes,Betula,4,NA,1,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,B,NA,NA,yes,Betula,4,NA,1,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,B,NA,NA,yes,Betula,3,NA,1.1,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,B,NA,NA,yes,Betula,3,NA,1.1,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,B,NA,NA,yes,Salix,3,NA,1.6,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,B,NA,NA,yes,Salix,3,NA,1.6,NA,NA,NA
+2024-07-23,Hess Creek,HeCr6,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr6,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr6,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,C,NA,NA,yes,Betula,24,NA,1.5,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,C,NA,NA,yes,Betula,24,NA,1.5,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,C,NA,NA,yes,Unknown,6,NA,1.1,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,C,NA,NA,yes,Unknown,6,NA,1.1,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,C,NA,NA,yes,Betula,6,NA,1.4,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,C,NA,NA,yes,Betula,6,NA,1.4,NA,NA,NA
+2024-07-23,Hess Creek,HeCr6,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr6,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr6,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2023-06-17,Isom,Isom1,A,NA,NA,yes,Salix,1,NA,1.4,NA,NA,NA
+2023-06-17,Isom,Isom1,A,NA,NA,yes,Salix,1,NA,1.4,NA,NA,NA
+2023-06-17,Isom,Isom1,A,NA,NA,yes,Salix,2,NA,1.2,NA,NA,NA
+2023-06-17,Isom,Isom1,A,NA,NA,yes,Salix,2,NA,1.2,NA,NA,NA
+2023-06-17,Isom,Isom1,A,NA,NA,yes,Salix,1,NA,2.2,NA,NA,NA
+2023-06-17,Isom,Isom1,A,NA,NA,yes,Salix,1,NA,2.2,NA,NA,NA
+2023-06-17,Isom,Isom1,A,NA,NA,yes,Salix,3,NA,0.7,NA,NA,NA
+2023-06-17,Isom,Isom1,A,NA,NA,yes,Salix,3,NA,0.7,NA,NA,NA
+2023-06-17,Isom,Isom1,A,NA,NA,yes,Salix,1,NA,2.6,NA,NA,NA
+2023-06-17,Isom,Isom1,A,NA,NA,yes,Salix,1,NA,2.6,NA,NA,NA
+2025-08-08,Isom,Isom1,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,e422620c-4054-44da-ba68-11261f1778fc
+2025-08-08,Isom,Isom1,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,5fb6c0e9-618e-41f6-8fd3-8d890934bfc1
+2025-08-08,Isom,Isom1,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,326b752e-9f8c-4a34-b682-264e71354345
+2023-06-17,Isom,Isom1,B,NA,NA,yes,Salix,2,NA,2.2,NA,NA,NA
+2023-06-17,Isom,Isom1,B,NA,NA,yes,Salix,2,NA,2.2,NA,NA,NA
+2023-06-17,Isom,Isom1,B,NA,NA,yes,Salix,2,NA,0.9,NA,NA,NA
+2023-06-17,Isom,Isom1,B,NA,NA,yes,Salix,2,NA,0.9,NA,NA,NA
+2023-06-17,Isom,Isom1,B,NA,NA,yes,Salix,1,NA,2.6,NA,NA,NA
+2023-06-17,Isom,Isom1,B,NA,NA,yes,Salix,1,NA,2.6,NA,NA,NA
+2025-08-08,Isom,Isom1,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,cf6dc780-7af4-4e25-9aa2-fbe1efa0a4c3
+2025-08-08,Isom,Isom1,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,085bb670-e60c-4899-8191-1021daf02e83
+2025-08-08,Isom,Isom1,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,138bf8f4-60db-49e5-a2dd-3c2e434c60f2
+2023-06-17,Isom,Isom1,C,NA,NA,yes,Salix,2,NA,4,NA,NA,NA
+2023-06-17,Isom,Isom1,C,NA,NA,yes,Salix,2,NA,4,NA,NA,NA
+2023-06-17,Isom,Isom1,C,NA,NA,yes,Salix,1,NA,1.3,NA,NA,NA
+2023-06-17,Isom,Isom1,C,NA,NA,yes,Salix,1,NA,1.3,NA,NA,NA
+2023-06-17,Isom,Isom1,C,NA,NA,yes,Salix,2,NA,1.3,NA,NA,NA
+2023-06-17,Isom,Isom1,C,NA,NA,yes,Salix,2,NA,1.3,NA,NA,NA
+2023-06-17,Isom,Isom1,C,NA,NA,yes,Salix,1,NA,0.6,NA,NA,NA
+2023-06-17,Isom,Isom1,C,NA,NA,yes,Salix,1,NA,0.6,NA,NA,NA
+2025-08-08,Isom,Isom1,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,7b43f317-efc7-4f15-9ac3-66588f4b90dd
+2025-08-08,Isom,Isom1,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,113418da-df31-4033-bceb-9ca52a8ad63c
+2025-08-08,Isom,Isom1,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,a77c15d8-1daf-4a3a-b168-d82b7d3c45d5
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,2,NA,2,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,2,NA,2,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,1,NA,1.8,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,1,NA,1.8,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,1,NA,0.5,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,1,NA,0.5,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,3,NA,1.7,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,3,NA,1.7,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,1,NA,1.6,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,1,NA,1.6,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,1,NA,2.2,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,1,NA,2.2,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,1,NA,1.8,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,1,NA,1.8,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,2,NA,0.7,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,2,NA,0.7,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,2,NA,0.5,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,2,NA,0.5,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,1,NA,1,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,1,NA,1,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,1,NA,0.6,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,1,NA,0.6,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,1,NA,1.4,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,1,NA,1.4,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,1,NA,1.5,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,yes,Salix,1,NA,1.5,NA,NA,NA
+2025-08-08,Isom,Isom2,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,f53a8866-0591-4809-abd8-bfd1ccd19443
+2025-08-08,Isom,Isom2,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,125e3a0a-57c0-4914-a564-c1f3e9d79695
+2025-08-08,Isom,Isom2,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,ab84d6b4-bfba-45f7-af47-207f64e71eca
+2023-06-18,Isom,Isom2,B,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2023-06-18,Isom,Isom2,B,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom2,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,33efcef7-3ce2-410b-91a3-64852228e780
+2025-08-08,Isom,Isom2,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,495ea034-ea48-4a51-9f79-c09a036d766b
+2025-08-08,Isom,Isom2,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,809d775b-165e-41f8-b119-d988b43dcb18
+2023-06-18,Isom,Isom2,C,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2023-06-18,Isom,Isom2,C,NA,NA,no,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom2,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,6644b51e-a353-42cf-a71a-7c0496ade280
+2025-08-08,Isom,Isom2,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,1726cc28-8462-437f-b258-63c8929919e3
+2025-08-08,Isom,Isom2,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,57b9b685-e194-4f8e-a780-3fda89de97f4
+2023-07-24,Isom,Isom3,A,NA,NA,yes,Salix,2,NA,2,NA,NA,NA
+2023-07-24,Isom,Isom3,A,NA,NA,yes,Salix,2,NA,2,NA,NA,NA
+2025-08-08,Isom,Isom3,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,d5245426-b5ba-4582-8f4b-255b3f53e8fe
+2025-08-08,Isom,Isom3,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,4655dffb-a166-4e06-b3f2-33a9983ecf67
+2025-08-08,Isom,Isom3,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,b1cc4558-10de-4844-aadc-93121e7342d8
+2023-07-24,Isom,Isom3,B,NA,NA,yes,Betula,13,NA,0.8,NA,NA,NA
+2023-07-24,Isom,Isom3,B,NA,NA,yes,Betula,13,NA,0.8,NA,NA,NA
+2025-08-08,Isom,Isom3,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,d92b8f66-ddb6-4e7f-8008-3c02fe493ab5
+2025-08-08,Isom,Isom3,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,5bafe49d-2964-462f-8e96-e67585bdfb56
+2025-08-08,Isom,Isom3,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,d283db12-d71c-4c35-990a-cc2813590557
+2023-07-24,Isom,Isom3,C,NA,NA,yes,Betula,6,NA,0.8,NA,NA,NA
+2023-07-24,Isom,Isom3,C,NA,NA,yes,Betula,6,NA,0.8,NA,NA,NA
+2023-07-24,Isom,Isom3,C,NA,NA,yes,Betula,2,NA,0.7,NA,NA,NA
+2023-07-24,Isom,Isom3,C,NA,NA,yes,Betula,2,NA,0.7,NA,NA,NA
+2023-07-24,Isom,Isom3,C,NA,NA,yes,Betula,6,NA,1.8,NA,NA,NA
+2023-07-24,Isom,Isom3,C,NA,NA,yes,Betula,6,NA,1.8,NA,NA,NA
+2025-08-08,Isom,Isom3,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,ae73e0d4-edb2-49bd-bdd9-49f6e6058e23
+2025-08-08,Isom,Isom3,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,f3abc84d-e75f-496e-82e6-171ace10378f
+2025-08-08,Isom,Isom3,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,c9f661f9-ac88-4f42-84b7-3dd4c066217f
+2023-07-24,Isom,Isom4,A,NA,NA,yes,Betula,5,NA,0.3,NA,NA,NA
+2023-07-24,Isom,Isom4,A,NA,NA,yes,Betula,5,NA,0.3,NA,NA,NA
+2023-07-24,Isom,Isom4,A,NA,NA,yes,Betula,5,NA,0.5,NA,NA,NA
+2023-07-24,Isom,Isom4,A,NA,NA,yes,Betula,5,NA,0.5,NA,NA,NA
+2023-07-24,Isom,Isom4,A,NA,NA,yes,Betula,3,NA,0.6,NA,NA,NA
+2023-07-24,Isom,Isom4,A,NA,NA,yes,Betula,3,NA,0.6,NA,NA,NA
+2025-08-08,Isom,Isom4,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,fb1ac576-dd2b-4173-97c0-a66608bb62f5
+2025-08-08,Isom,Isom4,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,c7675241-7d04-441b-bbe8-1bc2406a8df5
+2025-08-08,Isom,Isom4,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,54672702-01fa-4cd9-a321-cc19d93d2307
+2023-07-24,Isom,Isom4,B,NA,NA,yes,Betula,3,NA,0.4,NA,NA,NA
+2023-07-24,Isom,Isom4,B,NA,NA,yes,Betula,3,NA,0.4,NA,NA,NA
+2023-07-24,Isom,Isom4,B,NA,NA,yes,Salix,3,NA,0.6,NA,NA,NA
+2023-07-24,Isom,Isom4,B,NA,NA,yes,Salix,3,NA,0.6,NA,NA,NA
+2023-07-24,Isom,Isom4,B,NA,NA,yes,Betula,3,NA,0.6,NA,NA,NA
+2023-07-24,Isom,Isom4,B,NA,NA,yes,Betula,3,NA,0.6,NA,NA,NA
+2023-07-24,Isom,Isom4,B,NA,NA,yes,Salix,1,NA,1.9,NA,NA,NA
+2023-07-24,Isom,Isom4,B,NA,NA,yes,Salix,1,NA,1.9,NA,NA,NA
+2023-07-24,Isom,Isom4,B,NA,NA,yes,Salix,2,NA,3,NA,NA,NA
+2023-07-24,Isom,Isom4,B,NA,NA,yes,Salix,2,NA,3,NA,NA,NA
+2023-07-24,Isom,Isom4,B,NA,NA,yes,Salix,1,NA,2,NA,NA,NA
+2023-07-24,Isom,Isom4,B,NA,NA,yes,Salix,1,NA,2,NA,NA,NA
+2023-07-24,Isom,Isom4,B,NA,NA,yes,Salix,2,NA,1,NA,NA,NA
+2023-07-24,Isom,Isom4,B,NA,NA,yes,Salix,2,NA,1,NA,NA,NA
+2025-08-08,Isom,Isom4,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,47fc65ea-5da4-41a3-901e-c8a5dae8955b
+2025-08-08,Isom,Isom4,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,a018727f-1d52-4ca1-8308-133b9246dd48
+2025-08-08,Isom,Isom4,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,1dbbfd9e-7b4d-4756-885c-bb46281340d9
+2023-07-24,Isom,Isom4,C,NA,NA,yes,Betula,1,NA,1.4,NA,NA,NA
+2023-07-24,Isom,Isom4,C,NA,NA,yes,Betula,1,NA,1.4,NA,NA,NA
+2023-07-24,Isom,Isom4,C,NA,NA,yes,Salix,7,NA,1.1,NA,NA,NA
+2023-07-24,Isom,Isom4,C,NA,NA,yes,Salix,7,NA,1.1,NA,NA,NA
+2023-07-24,Isom,Isom4,C,NA,NA,yes,Salix,2,NA,1.5,NA,NA,NA
+2023-07-24,Isom,Isom4,C,NA,NA,yes,Salix,2,NA,1.5,NA,NA,NA
+2023-07-24,Isom,Isom4,C,NA,NA,yes,Salix,2,NA,1.6,NA,NA,NA
+2023-07-24,Isom,Isom4,C,NA,NA,yes,Salix,2,NA,1.6,NA,NA,NA
+2025-08-08,Isom,Isom4,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,7563f930-0923-477b-b010-e6adcc6a1859
+2025-08-08,Isom,Isom4,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,3ace0c1a-72be-4d72-9fd7-4f5a4cd6f9e5
+2025-08-08,Isom,Isom4,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,f50bed14-c7d7-4e41-ac7a-1a2908fc0eee
+2023-07-24,Isom,Isom5,A,NA,NA,yes,Salix,2,NA,1.4,NA,NA,NA
+2023-07-24,Isom,Isom5,A,NA,NA,yes,Salix,2,NA,1.4,NA,NA,NA
+2023-07-24,Isom,Isom5,A,NA,NA,yes,Salix,5,NA,2.1,NA,NA,NA
+2023-07-24,Isom,Isom5,A,NA,NA,yes,Salix,5,NA,2.1,NA,NA,NA
+2023-07-24,Isom,Isom5,A,NA,NA,yes,Betula,7,NA,0.6,NA,NA,NA
+2023-07-24,Isom,Isom5,A,NA,NA,yes,Betula,7,NA,0.6,NA,NA,NA
+2023-07-24,Isom,Isom5,A,NA,NA,yes,Betula,7,NA,0.7,NA,NA,NA
+2023-07-24,Isom,Isom5,A,NA,NA,yes,Betula,7,NA,0.7,NA,NA,NA
+2023-07-24,Isom,Isom5,A,NA,NA,yes,Salix,4,NA,0.2,NA,NA,NA
+2023-07-24,Isom,Isom5,A,NA,NA,yes,Salix,4,NA,0.2,NA,NA,NA
+2023-07-24,Isom,Isom5,A,NA,NA,yes,Salix,4,NA,0.8,NA,NA,NA
+2023-07-24,Isom,Isom5,A,NA,NA,yes,Salix,4,NA,0.8,NA,NA,NA
+2023-07-24,Isom,Isom5,A,NA,NA,yes,Alder,1,NA,1.2,NA,NA,NA
+2023-07-24,Isom,Isom5,A,NA,NA,yes,Alder,1,NA,1.2,NA,NA,NA
+2023-07-24,Isom,Isom5,A,NA,NA,yes,Alder,5,NA,1.3,NA,NA,NA
+2023-07-24,Isom,Isom5,A,NA,NA,yes,Alder,5,NA,1.3,NA,NA,NA
+2025-08-08,Isom,Isom5,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,b7bc93c7-7436-4bac-9d32-0dec8e17f296
+2025-08-08,Isom,Isom5,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,b1149122-503f-4d4e-9dfb-206d5ca476f2
+2025-08-08,Isom,Isom5,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,5c4ba476-caca-45b3-ad46-30a04086f8c9
+2023-07-24,Isom,Isom5,B,NA,NA,yes,Betula,2,"Plot b, corrected cmt",0.3,NA,NA,NA
+2023-07-24,Isom,Isom5,B,NA,NA,yes,Betula,2,"Plot b, corrected cmt",0.3,NA,NA,NA
+2023-07-24,Isom,Isom5,B,NA,NA,yes,Salix,1,"Plot b, corrected cmt",1,NA,NA,NA
+2023-07-24,Isom,Isom5,B,NA,NA,yes,Salix,1,"Plot b, corrected cmt",1,NA,NA,NA
+2023-07-24,Isom,Isom5,B,NA,NA,yes,Uknown,2,"Plot b, corrected cmt",1.4,NA,NA,NA
+2023-07-24,Isom,Isom5,B,NA,NA,yes,Uknown,2,"Plot b, corrected cmt",1.4,NA,NA,NA
+2023-07-24,Isom,Isom5,B,NA,NA,yes,Salix,1,"Plot b, corrected cmt",1.1,NA,NA,NA
+2023-07-24,Isom,Isom5,B,NA,NA,yes,Salix,1,"Plot b, corrected cmt",1.1,NA,NA,NA
+2023-07-24,Isom,Isom5,B,NA,NA,yes,Salix,2,"Plot b, corrected cmt",0.9,NA,NA,NA
+2023-07-24,Isom,Isom5,B,NA,NA,yes,Salix,2,"Plot b, corrected cmt",0.9,NA,NA,NA
+2023-07-24,Isom,Isom5,B,NA,NA,yes,Salix,2,"Plot b, corrected cmt",1,NA,NA,NA
+2023-07-24,Isom,Isom5,B,NA,NA,yes,Salix,2,"Plot b, corrected cmt",1,NA,NA,NA
+2025-08-08,Isom,Isom5,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,03c15ba7-190c-43cc-93b8-17cffd8b4a2a
+2025-08-08,Isom,Isom5,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,56dac528-17f7-49c7-968a-a2d6ac46286a
+2025-08-08,Isom,Isom5,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,c61601aa-0dc9-4ddc-90c9-979e959f7b5d
+2023-07-24,Isom,Isom5,C,NA,NA,yes,Salix,3,NA,0.4,NA,NA,NA
+2023-07-24,Isom,Isom5,C,NA,NA,yes,Salix,3,NA,0.4,NA,NA,NA
+2023-07-24,Isom,Isom5,C,NA,NA,yes,Betula,3,NA,0.4,NA,NA,NA
+2023-07-24,Isom,Isom5,C,NA,NA,yes,Betula,3,NA,0.4,NA,NA,NA
+2023-07-24,Isom,Isom5,C,NA,NA,yes,Betula,10,NA,0.3,NA,NA,NA
+2023-07-24,Isom,Isom5,C,NA,NA,yes,Betula,10,NA,0.3,NA,NA,NA
+2023-07-24,Isom,Isom5,C,NA,NA,yes,Betula,4,NA,0.6,NA,NA,NA
+2023-07-24,Isom,Isom5,C,NA,NA,yes,Betula,4,NA,0.6,NA,NA,NA
+2023-07-24,Isom,Isom5,C,NA,NA,yes,Salix,4,NA,2,NA,NA,NA
+2023-07-24,Isom,Isom5,C,NA,NA,yes,Salix,4,NA,2,NA,NA,NA
+2023-07-24,Isom,Isom5,C,NA,NA,yes,Betula,3,NA,0.4,NA,NA,NA
+2023-07-24,Isom,Isom5,C,NA,NA,yes,Betula,3,NA,0.4,NA,NA,NA
+2023-07-24,Isom,Isom5,C,NA,NA,yes,Betula,2,NA,1,NA,NA,NA
+2023-07-24,Isom,Isom5,C,NA,NA,yes,Betula,2,NA,1,NA,NA,NA
+2025-08-08,Isom,Isom5,C,9 m,This plot had a LOT of built up litter from both grass and leaf. Found to moss or burned material,no,NA,NA,NA,NA,NA,NA,e07a2bc1-7fab-40d7-89ee-c93fcb6c1a22
+2025-08-08,Isom,Isom5,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,3775941e-fa1d-40fd-ad5e-c5245391a30e
+2025-08-08,Isom,Isom5,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,a886b245-8c28-4f71-9301-a0f9b0202383
+2024-07-15,Lost Horse,LoHo1,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo1,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo1,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo1,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo1,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo1,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo1,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo1,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo1,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo2,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo2,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo2,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo2,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo2,B,6 m,NA,yes,Salix,3,NA,0.2,0.3,0.5,NA
+2024-07-15,Lost Horse,LoHo2,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo2,C,6 m,NA,yes,Salix,4,NA,0.5,0.15,0.2,NA
+2024-07-15,Lost Horse,LoHo2,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo3,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo3,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo3,A,9 m,NA,yes,Salix,1,NA,0.4,NA,NA,NA
+2024-07-15,Lost Horse,LoHo3,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo3,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo3,B,9 m,NA,yes,Salix,1,NA,0.65,NA,NA,NA
+2024-07-15,Lost Horse,LoHo3,B,3 m,NA,yes,Salix,3,NA,0.2,0.3,0.2,NA
+2024-07-15,Lost Horse,LoHo3,B,3 m,NA,yes,Salix,4,NA,0.4,0.2,0.3,NA
+2024-07-15,Lost Horse,LoHo3,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo3,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo3,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo4,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo4,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo4,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo4,B,6 m,NA,yes,Salix,6,NA,0.44,0.33,0.25,NA
+2024-07-18,Lost Horse,LoHo4,B,6 m,NA,yes,Salix,12,NA,0.3,0.52,0.22,NA
+2024-07-18,Lost Horse,LoHo4,B,6 m,NA,yes,Salix,10,NA,0.42,0.29,0.39,NA
+2024-07-18,Lost Horse,LoHo4,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo4,B,9 m,NA,yes,Salix,9,NA,0.6,0.32,0.25,NA
+2024-07-18,Lost Horse,LoHo4,C,3 m,NA,yes,Salix,4,NA,0.37,0.26,0.3,NA
+2024-07-18,Lost Horse,LoHo4,C,3 m,NA,yes,Salix,16,NA,0.64,0.44,0.35,NA
+2024-07-18,Lost Horse,LoHo4,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo4,C,6 m,NA,yes,Salix,3,NA,0.56,0.6,0.75,NA
+2024-07-18,Lost Horse,LoHo5,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo5,A,9 m,NA,yes,Salix,5,NA,0.57,0.25,0.52,NA
+2024-07-18,Lost Horse,LoHo5,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo5,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo5,B,9 m,NA,yes,Salix,6,NA,0.19,0.36,0.28,NA
+2024-07-18,Lost Horse,LoHo5,B,9 m,NA,yes,Salix,13,NA,0.69,0.87,0.42,NA
+2024-07-18,Lost Horse,LoHo5,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo5,C,9 m,NA,yes,Salix,5,NA,0.58,0.51,0.34,NA
+2024-07-18,Lost Horse,LoHo5,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo5,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo6,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo6,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo6,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo6,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo6,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo6,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo6,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo6,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo6,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr1,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr1,A,9 m,Aligned plot with pole rather than meter,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr1,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr1,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr1,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr1,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr1,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr2,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr2,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr2,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr2,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr2,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr2,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-07,McCoy Creek,McCr3,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-07,McCoy Creek,McCr3,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-07,McCoy Creek,McCr3,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-07,McCoy Creek,McCr3,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-07,McCoy Creek,McCr3,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-07,McCoy Creek,McCr3,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr4,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr4,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr4,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr4,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr4,C,3 m,"Spruce spp unclear, too small to tell",no,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr4,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr5,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr5,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr5,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr5,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr5,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr5,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr6,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr6,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr6,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr6,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr6,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr6,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,McDonald,McDo1,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,8f1dd2e5-352c-4f76-af9e-aad22e5b3028
+2025-07-25,McDonald,McDo1,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,5ff40283-6373-4874-ac45-cef85e4a9471
+2025-07-25,McDonald,McDo1,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,091daa80-5faf-49ab-91f4-64591be561fb
+2025-07-25,McDonald,McDo1,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,6d64c888-88af-4fb6-ad43-57e17defa681
+2025-07-25,McDonald,McDo1,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,44ca6163-1894-481c-9728-17a4f941c481
+2025-07-25,McDonald,McDo1,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,dd75a06e-b2e9-4f42-acac-f9b513264c2a
+2025-07-25,McDonald,McDo1,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,db84178d-0b3b-4856-8ec5-425bf257d0e7
+2025-07-25,McDonald,McDo1,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,446724ed-70f7-4c56-8b2b-b58ad647e6b3
+2025-07-25,McDonald,McDo1,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,89909cbe-b59f-4b81-bdce-c09a7ef674aa
+2025-07-25,McDonald,McDo2,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,10e872ce-f0cd-4703-a9b1-1ae57e953fa4
+2025-07-25,McDonald,McDo2,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,286394ad-b373-412e-8380-b44ff38766ae
+2025-07-25,McDonald,McDo2,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,2d8c7645-afe9-4742-936a-680363e4889a
+2025-07-25,McDonald,McDo2,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,a47e609a-76e6-46ca-8e75-614b155d61b7
+2025-07-25,McDonald,McDo2,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,cde4d8fa-14cf-4190-901c-a61f2f68f757
+2025-07-25,McDonald,McDo2,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,5c1a5ede-e40c-4cb0-8a36-0ec8418cd94e
+2025-07-25,McDonald,McDo2,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,fc492e71-5b74-4fea-80c3-d7a33ce15444
+2025-07-25,McDonald,McDo2,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,9c391107-a86d-4afc-bad2-a1f0663769c6
+2025-07-25,McDonald,McDo2,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,a72d4772-a354-4de2-bcf4-8d8b5c221c52
+2025-07-25,McDonald,McDo3,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,e95da108-71a6-4533-ba0f-92b56c91b4d1
+2025-07-25,McDonald,McDo3,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,a1da8b7a-3f01-4dba-abdc-8acc3d4b9b26
+2025-07-25,McDonald,McDo3,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,8dd087e5-4657-44ab-b309-96e4b818e218
+2025-07-25,McDonald,McDo3,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,7e508714-3a90-4ed3-84e3-2680839f5419
+2025-07-25,McDonald,McDo3,B,9 m,Cone ball on site,no,NA,NA,NA,NA,NA,NA,4604bff0-f78e-4c97-9fe3-73fe847a19ec
+2025-07-25,McDonald,McDo3,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,f1dfeb76-857c-4b6e-a5cd-933b470418b5
+2025-07-25,McDonald,McDo3,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,b60364b7-f5d1-4bdc-b14e-f4f7f36eaee8
+2025-07-25,McDonald,McDo3,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,b20fe406-e7b0-4270-96ce-e331b8ac9cce
+2025-07-25,McDonald,McDo3,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,e97fee73-2231-48db-992b-9be8ed24757c
+2025-07-29,McDonald,McDo4,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,a188f825-69a3-4bca-ba84-70cb175f2faa
+2025-07-29,McDonald,McDo4,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,36247492-9983-428c-8753-f42d1c71b7de
+2025-07-29,McDonald,McDo4,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,0066c0a6-d296-439e-af57-dfb4d18d462a
+2025-07-29,McDonald,McDo4,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,aa4f08ee-e3c8-406f-9805-76eba4b9b853
+2025-07-29,McDonald,McDo4,B,3 m,Patch of deeply burned area. Some mineral present with tree root exposed,no,NA,NA,NA,NA,NA,NA,619d6342-c7af-41a0-a7a6-5acbdf864a38
+2025-07-29,McDonald,McDo4,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,e3d0a8fc-57cc-4b94-9370-786050b09d8d
+2025-07-29,McDonald,McDo4,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,91489ac1-c624-40b3-a2f0-47c729f1f12b
+2025-07-29,McDonald,McDo4,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,f15b2bd2-bc6c-48ce-9efc-947085f304c9
+2025-07-29,McDonald,McDo4,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,772bf92f-0bf1-4537-9076-e2d7f8265f16
+2025-07-29,McDonald,McDo5,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,24d5be4b-504d-4775-a331-1d64a9b2ddb8
+2025-07-29,McDonald,McDo5,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,6a2ae9b7-06a5-486d-bc59-187f294bfd11
+2025-07-29,McDonald,McDo5,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,d3d1b783-02b1-48f3-9ea1-49aa7e98e1dd
+2025-07-29,McDonald,McDo5,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,c55a8b52-059e-4d10-b1bf-57a7f7ba1042
+2025-07-29,McDonald,McDo5,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,9ae2e1d6-1520-4665-886c-2681fd3428ad
+2025-07-29,McDonald,McDo5,B,9 m,Yellow jacket nest right next to plot on left side of tape. Sampled on right side.,no,NA,NA,NA,NA,NA,NA,7af800da-3132-440e-9e86-c7df73dac4d3
+2025-07-29,McDonald,McDo5,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,57e33edb-b52f-45e3-b1a2-3f8d951587de
+2025-07-29,McDonald,McDo5,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,1c9a470c-a0d3-45a9-882b-cf31978ac159
+2025-07-29,McDonald,McDo5,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,e39986cd-4bb8-4153-9896-c373d601fcaa
+2025-07-29,McDonald,McDo6,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,a060a80f-c2f3-4def-be0b-5afd14e68569
+2025-07-29,McDonald,McDo6,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,0222110e-7b11-46b6-b49c-921f8e52da31
+2025-07-29,McDonald,McDo6,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,e2eb5df6-47b4-444b-814c-1fdc85f91521
+2025-07-29,McDonald,McDo6,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,ffb6b81e-bc64-49f0-9961-f3ca865db597
+2025-07-29,McDonald,McDo6,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,94ae8ba3-c789-4509-bf01-014fd0618c8e
+2025-07-29,McDonald,McDo6,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,0357a872-9e9c-4cd3-af56-ab4a04dd9e7a
+2025-07-29,McDonald,McDo6,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,fb16cbf3-a98d-48f0-8aa4-a4df30fbc3b2
+2025-07-29,McDonald,McDo6,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,ada8e42c-3dbf-41b5-9e25-c2d860593e3e
+2025-07-29,McDonald,McDo6,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,1495725c-31a8-4b10-860b-73171af9092e
+2024-08-01,Munson Creek,MuCr1,A,9 m,Quadrat placed at 9m only to capture seedlings. No other data gathered at this spot.,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr1,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr1,A,0 m,"0m, not 9m. Entered as 9 due to fulcrum set up.",no,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr1,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr1,B,3 m,NA,yes,Salix,1,NA,1.04,NA,NA,NA
+2024-08-01,Munson Creek,MuCr1,B,6 m,NA,yes,Salix,6,NA,0.84,0.53,0.36,NA
+2024-08-01,Munson Creek,MuCr1,B,6 m,NA,yes,Salix,4,NA,0.59,0.67,0.64,NA
+2024-08-01,Munson Creek,MuCr1,B,6 m,NA,yes,Salix,6,NA,0.55,0.47,0.5,NA
+2024-08-01,Munson Creek,MuCr1,B,6 m,NA,yes,Salix,7,NA,0.49,0.63,0.96,NA
+2024-08-01,Munson Creek,MuCr1,B,9 m,Quadrat placed at 9m just to capture seedlings. No other data collected at 9m,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr1,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr1,C,3 m,NA,yes,Salix,2,NA,0.4,0.28,NA,NA
+2024-08-01,Munson Creek,MuCr1,C,9 m,Added extra quadrat to capture seedlings. Did not collect data for anything other than seedlings.,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr2,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr2,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr2,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr2,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr2,B,3 m,2nd pic is Unkn liverwort in ground cover,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr2,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr2,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr3,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr3,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr3,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr3,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr3,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr3,C,3 m,NA,yes,Salix,1,NA,0.56,NA,NA,NA
+2024-08-01,Munson Creek,MuCr3,C,3 m,NA,yes,Salix,3,NA,0.33,0.7,0.35,NA
+2024-08-04,Munson Creek,MuCr4,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-04,Munson Creek,MuCr4,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-04,Munson Creek,MuCr4,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-04,Munson Creek,MuCr4,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-04,Munson Creek,MuCr4,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-04,Munson Creek,MuCr4,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-04,Munson Creek,MuCr5,A,6 m,NA,yes,Salix,6,NA,1.1,0.71,0.56,NA
+2024-08-04,Munson Creek,MuCr5,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-04,Munson Creek,MuCr5,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-04,Munson Creek,MuCr5,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-04,Munson Creek,MuCr5,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-04,Munson Creek,MuCr5,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr1,A,3 m,NA,yes,Salix,13,NA,1.23,1.55,1.72,NA
+2024-07-30,Nugget Creek,NuCr1,A,6 m,NA,yes,Salix,1,NA,1.83,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr1,B,3 m,NA,yes,Salix,3,NA,0.35,0.94,0.24,NA
+2024-07-30,Nugget Creek,NuCr1,B,3 m,NA,yes,Salix,2,NA,0.32,0.37,NA,NA
+2024-07-30,Nugget Creek,NuCr1,B,3 m,NA,yes,Salix,1,NA,0.57,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr1,B,3 m,NA,yes,Salix,1,NA,0.64,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr1,B,6 m,NA,yes,Salix,2,NA,0.54,0.19,NA,NA
+2024-07-30,Nugget Creek,NuCr1,C,3 m,NA,yes,Salix,3,NA,0.12,0.48,0.8,NA
+2024-07-30,Nugget Creek,NuCr1,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr2,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr2,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr2,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr2,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr2,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr2,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr3,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr3,A,6 m,NA,yes,Salix,1,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr3,A,6 m,NA,yes,Salix,2,NA,0.55,0.6,NA,NA
+2024-07-30,Nugget Creek,NuCr3,A,6 m,NA,yes,Salix,2,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr3,A,6 m,NA,yes,Salix,1,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr3,A,6 m,NA,yes,Salix,1,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr3,A,6 m,NA,yes,Salix,1,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr3,A,6 m,NA,yes,Salix,1,NA,0.1,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr3,B,3 m,NA,yes,Salix,3,NA,0.65,0.46,0.57,NA
+2024-07-30,Nugget Creek,NuCr3,B,3 m,NA,yes,Salix,2,NA,0.69,1.21,NA,NA
+2024-07-30,Nugget Creek,NuCr3,B,6 m,NA,yes,Salix,1,NA,0.77,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr3,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr3,C,6 m,NA,yes,Salix,1,NA,0.94,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr3,C,6 m,NA,yes,Salix,1,NA,0.71,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr4,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr4,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr4,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr4,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr4,C,3 m,NA,yes,Salix,2,NA,0.3,0.09,NA,NA
+2024-07-31,Nugget Creek,NuCr4,C,3 m,NA,yes,Salix,1,NA,0.16,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr4,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr5,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr5,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr5,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr5,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr5,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr5,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr6,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr6,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr6,B,3 m,NA,yes,Salix,1,NA,0.14,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr6,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr6,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr6,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr1,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr1,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr1,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr1,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr1,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr1,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr1,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr1,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr2,A,6 m,NA,yes,Salix,1,NA,0.15,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr2,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr2,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr2,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr2,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr2,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr2,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr2,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr2,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr2,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr3,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr3,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr3,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr3,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr3,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr3,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr3,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr3,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr3,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr4,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr4,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr4,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr4,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr4,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr4,B,3 m,NA,yes,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr4,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr4,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr4,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr5,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr5,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr5,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr5,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr5,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr5,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr5,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr5,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr5,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,A,NA,NA,yes,Betula,4,NA,1.2,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,A,NA,NA,yes,Betula,4,NA,1.2,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,A,NA,NA,yes,Betula,6,NA,1.5,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,A,NA,NA,yes,Betula,6,NA,1.5,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,A,NA,NA,yes,Betula,1,NA,0.5,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,A,NA,NA,yes,Betula,1,NA,0.5,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr6,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr6,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr6,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,B,NA,NA,yes,Betula,1,NA,1.2,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,B,NA,NA,yes,Betula,1,NA,1.2,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,B,NA,NA,yes,Betula,1,NA,1.1,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,B,NA,NA,yes,Betula,1,NA,1.1,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,B,NA,NA,yes,Salix,1,NA,3.4,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,B,NA,NA,yes,Salix,1,NA,3.4,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,B,NA,NA,yes,Betula,7,NA,1.4,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,B,NA,NA,yes,Betula,7,NA,1.4,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,B,NA,NA,yes,Salix,1,NA,0.9,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,B,NA,NA,yes,Salix,1,NA,0.9,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,B,NA,NA,yes,Betula,1,NA,3,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,B,NA,NA,yes,Betula,1,NA,3,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,B,NA,NA,yes,Salix,1,NA,1.4,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,B,NA,NA,yes,Salix,1,NA,1.4,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr6,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr6,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr6,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,C,NA,NA,yes,Betula,5,NA,1.4,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,C,NA,NA,yes,Betula,5,NA,1.4,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,C,NA,NA,yes,Betula,1,NA,1.9,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,C,NA,NA,yes,Betula,1,NA,1.9,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,C,NA,NA,yes,Betula,1,NA,0.8,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,C,NA,NA,yes,Betula,1,NA,0.8,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,C,NA,NA,yes,Betula,1,NA,0.6,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,C,NA,NA,yes,Betula,1,NA,0.6,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr6,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr6,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr6,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Shovel Creek,ShCr6,C,6 m,NA,yes,Salix,1,NA,0.58,NA,NA,NA
+2024-07-22,Shovel Creek,ShCr6,C,6 m,NA,yes,Salix,1,NA,0.57,NA,NA,NA
+2024-07-22,Shovel Creek,ShCr6,C,6 m,NA,yes,Salix,1,NA,0.45,NA,NA,NA
+2024-07-22,Shovel Creek,ShCr6,C,6 m,NA,yes,Salix,3,NA,0.45,0.57,0.46,NA
+2024-07-22,Shovel Creek,ShCr6,C,6 m,NA,yes,Salix,1,NA,0.12,NA,NA,NA
+2024-07-22,Shovel Creek,ShCr6,C,6 m,NA,yes,Salix,1,NA,0.34,NA,NA,NA
+2024-07-22,Shovel Creek,ShCr6,C,6 m,NA,yes,Salix,1,NA,0.12,NA,NA,NA
+2024-07-22,Shovel Creek,ShCr6,C,6 m,NA,yes,Salix,1,NA,0.11,NA,NA,NA
+2025-07-26,Slate,Slat1,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,d9e2249a-cf69-4e6a-933a-de26c8f6589c
+2025-07-26,Slate,Slat1,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,f4d39121-eaf5-455b-b344-56b4ca2b19f2
+2025-07-26,Slate,Slat1,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,e5faf471-11eb-4db7-abfd-efbe0200ec5f
+2025-07-26,Slate,Slat1,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,2769cb6c-340a-49c9-ad62-8e8d00a5c8f5
+2025-07-26,Slate,Slat1,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,701aca6d-a3ce-4828-9f05-4c284a74f7c4
+2025-07-26,Slate,Slat1,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,c76ce187-ac20-4338-a523-221ab15d3f96
+2025-07-26,Slate,Slat1,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,57d750a3-2c66-4058-b88b-cdce9ddc626d
+2025-07-26,Slate,Slat1,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,63506163-81f4-44c5-ab21-26903531b53a
+2025-07-26,Slate,Slat1,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,c7730a47-dfab-4824-b364-95ea312d0c45
+2025-07-26,Slate,Slat2,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,d7a71612-758d-4cb2-9d7c-2335c4b4759f
+2025-07-26,Slate,Slat2,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,367bf1a8-2b56-4ad3-8bf6-56d7d7683ae9
+2025-07-26,Slate,Slat2,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,6c80b41a-9976-4afe-be20-70522871f96d
+2025-07-26,Slate,Slat2,B,6 m,Plot is in a paddle:/,no,NA,NA,NA,NA,NA,NA,53de925e-af0a-4cdc-bb65-a7a3a0c57e68
+2025-07-26,Slate,Slat2,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,c7d5e009-311c-4e6b-b8d5-63340897d819
+2025-07-26,Slate,Slat2,B,3 m,In a puddle,no,NA,NA,NA,NA,NA,NA,6fb43e28-b6c4-4cd5-bf76-e2e6d994a51f
+2025-07-26,Slate,Slat2,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,7a095a73-3eb4-42ac-b57e-e3a7c9f977b1
+2025-07-26,Slate,Slat2,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,81f84701-ab55-4520-a1fc-15ccbc331674
+2025-07-26,Slate,Slat2,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,ae8f4fc5-f14d-4d8e-a039-74d566c1c353
+2025-07-26,Slate,Slat3,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,c53759dc-75ca-4739-8175-b5e3b90b7b4a
+2025-07-26,Slate,Slat3,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,a49e8499-c732-4d23-ad53-875ddd160460
+2025-07-26,Slate,Slat3,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,d604bc3e-9d82-4dce-81a4-c3c88289e0a1
+2025-07-26,Slate,Slat3,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,119056a9-65bf-4d45-81bf-2f3fa021ce38
+2025-07-26,Slate,Slat3,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,40db856a-d037-40a0-bf9a-2e118078278f
+2025-07-26,Slate,Slat3,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,0830da40-76a2-45a8-848b-6947aae45e43
+2025-07-26,Slate,Slat3,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,df339016-bafc-4ec7-aca3-efcf44257685
+2025-07-26,Slate,Slat3,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,d29ee68d-ba63-4d98-a190-42c39152429e
+2025-07-26,Slate,Slat3,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,01fbec1b-3290-442f-b5c2-72040f2304fb
+2025-07-27,Slate,Slat4,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,24f46644-3746-45ec-9aa2-91b0ec841ea4
+2025-07-27,Slate,Slat4,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,"3b869349-be41-4148-87e3-0d38eded7241,794bf115-389d-4095-95cc-532fedfaaa97"
+2025-07-27,Slate,Slat4,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,fe256007-eaab-48b6-a91c-39645e05bf3d
+2025-07-27,Slate,Slat4,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,03a5e333-ecee-4960-9321-9d8d962e3fbc
+2025-07-27,Slate,Slat4,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,40d1233a-961b-48f4-bf91-468b11422a57
+2025-07-27,Slate,Slat4,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,92c9e3c8-4648-47f5-b978-02bf25ce7d45
+2025-07-27,Slate,Slat4,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,58f22121-7050-488f-88b0-25cc1919c4a9
+2025-07-27,Slate,Slat4,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,7e51e9d4-fdc5-4088-8233-f3921e2bc24b
+2025-07-27,Slate,Slat4,C,3 m,Big root ball in plot. Included in CWD,no,NA,NA,NA,NA,NA,NA,25b494bc-d9dd-4f9a-9c78-8ab415a44004
+2025-07-27,Slate,Slat5,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,f6c7ed12-d66b-472c-a36e-dc453f80850c
+2025-07-27,Slate,Slat5,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,d4451742-c5e3-4aa0-af4c-695b7935fbf6
+2025-07-27,Slate,Slat5,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,9d038771-983a-4c55-9bd1-4c663dc51fdd
+2025-07-27,Slate,Slat5,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,14223967-6421-4e6f-8b71-2ee635d38cf9
+2025-07-27,Slate,Slat5,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,489f5bda-8a0c-4d9d-b05c-ca2c949e6e26
+2025-07-27,Slate,Slat5,B,6 m,Root ball as CWD,no,NA,NA,NA,NA,NA,NA,76285cb0-ddb0-4fbf-b4c6-1ecb8b271610
+2025-07-27,Slate,Slat5,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,e8276a41-ce8b-429d-9412-a4e7cbd3a0c8
+2025-07-27,Slate,Slat5,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,048946c8-4fb6-4c43-b4fe-eea8585d44ad
+2025-07-27,Slate,Slat5,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,350ccffe-3127-4adc-b95c-f63c5a2d056f
+2025-07-27,Slate,Slat6,A,3 m,Cone ball in plot,no,NA,NA,NA,NA,NA,NA,c23fd613-b015-4c3e-ae5c-9f1e92715183
+2025-07-27,Slate,Slat6,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,5714fcbb-734a-4ce6-af07-8de6a3956177
+2025-07-27,Slate,Slat6,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,fd8d17d7-7bae-4d96-8cd0-ba6d7529b77c
+2025-07-27,Slate,Slat6,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,95b9962f-fbe3-43b3-a487-39330515814c
+2025-07-27,Slate,Slat6,B,3 m,Pretty big black spruce in plot,no,NA,NA,NA,NA,NA,NA,118e7397-6d92-4a38-982f-d7718827f967
+2025-07-27,Slate,Slat6,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,f8b9ac43-3d96-46fd-a3b8-c8bc9c6b3809
+2025-07-27,Slate,Slat6,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,db207430-7f83-4d69-b350-c6bebcf91101
+2025-07-27,Slate,Slat6,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,e38d47a1-129d-48d5-b536-62398c394dc9
+2025-07-27,Slate,Slat6,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,1a88f0eb-d594-4be2-a75b-9062211cb087
+2024-08-03,Teklanika,Tekl1,A,3 m,NA,yes,Salix,2,NA,0.25,0.11,NA,NA
+2024-08-03,Teklanika,Tekl1,A,3 m,NA,yes,Salix,5,NA,0.22,0.2,0.23,NA
+2024-08-03,Teklanika,Tekl1,A,3 m,NA,yes,Salix,2,NA,0.14,0.21,NA,NA
+2024-08-03,Teklanika,Tekl1,A,6 m,NA,yes,Salix,4,NA,0.2,0.09,0.13,NA
+2024-08-03,Teklanika,Tekl1,B,6 m,NA,yes,Salix,15,NA,0.12,0.15,0.11,NA
+2024-08-03,Teklanika,Tekl1,B,6 m,NA,yes,Salix,5,NA,0.19,0.17,0.14,NA
+2024-08-03,Teklanika,Tekl1,B,6 m,NA,yes,Salix,14,NA,0.16,0.17,0.14,NA
+2024-08-03,Teklanika,Tekl1,B,3 m,NA,yes,Salix,7,NA,0.24,0.14,0.18,NA
+2024-08-03,Teklanika,Tekl1,B,3 m,NA,yes,Salix,8,NA,0.09,0.17,1,NA
+2024-08-03,Teklanika,Tekl1,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl1,C,6 m,NA,yes,Salix,1,NA,0.1,NA,NA,NA
+2024-08-03,Teklanika,Tekl2,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl2,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl2,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl2,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl2,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl2,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl3,A,6 m,NA,yes,Salix,4,NA,0.28,0.17,0.11,NA
+2024-08-03,Teklanika,Tekl3,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl3,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl3,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl3,C,3 m,NA,yes,Salix,6,NA,0.21,0.15,0.23,NA
+2024-08-03,Teklanika,Tekl3,C,3 m,NA,yes,Salix,2,NA,0.51,0.32,NA,NA
+2024-08-03,Teklanika,Tekl3,C,3 m,NA,yes,Salix,2,NA,0.09,0.17,NA,NA
+2024-08-03,Teklanika,Tekl3,C,6 m,NA,yes,Salix,6,NA,0.37,0.22,0.2,NA
+2024-08-03,Teklanika,Tekl3,C,6 m,NA,yes,Salix,3,NA,0.3,0.15,0.29,NA
+2024-08-02,Teklanika,Tekl4,A,3 m,NA,yes,Salix,4,NA,0.37,0.35,0.3,NA
+2024-08-02,Teklanika,Tekl4,A,3 m,NA,yes,Salix,3,NA,0.19,0.2,0.24,NA
+2024-08-02,Teklanika,Tekl4,A,6 m,NA,yes,Salix,18,NA,0.28,0.2,0.34,NA
+2024-08-02,Teklanika,Tekl4,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl4,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl4,C,3 m,NA,yes,Salix,12,NA,0.15,0.29,0.19,NA
+2024-08-02,Teklanika,Tekl4,C,6 m,NA,yes,Salix,9,NA,0.23,0.28,0.16,NA
+2024-08-02,Teklanika,Tekl4,C,6 m,NA,yes,Salix,9,NA,0.25,0.14,0.12,NA
+2024-08-02,Teklanika,Tekl4,C,6 m,NA,yes,Salix,6,NA,0.21,0.19,0.24,NA
+2024-08-02,Teklanika,Tekl4,C,6 m,NA,yes,Salix,3,NA,0.09,0.12,0.1,NA
+2024-08-02,Teklanika,Tekl5,A,3 m,NA,yes,Salix,12,NA,0.29,0.27,0.4,NA
+2024-08-02,Teklanika,Tekl5,A,3 m,NA,yes,Salix,2,NA,0.25,0.13,NA,NA
+2024-08-02,Teklanika,Tekl5,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl5,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl5,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl5,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl5,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl6,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl6,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl6,B,6 m,NA,yes,Salix,1,NA,0.15,NA,NA,NA
+2024-08-02,Teklanika,Tekl6,B,3 m,NA,yes,Salix,1,NA,0.2,NA,NA,NA
+2024-08-02,Teklanika,Tekl6,C,6 m,NA,yes,Salix,2,NA,0.27,0.26,NA,NA
+2024-08-02,Teklanika,Tekl6,C,3 m,NA,yes,Salix,14,NA,0.15,0.21,0.24,NA
+2024-08-02,Teklanika,Tekl6,C,3 m,NA,yes,Salix,6,NA,0.22,0.12,0.23,NA
+2024-08-02,Teklanika,Tekl6,C,3 m,NA,yes,Salix,7,NA,0.21,0.17,0.24,NA
+2025-08-02,Troublesome,Trou1,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,2100a99b-2e5d-4d4f-b38a-89daebcde61d
+2025-08-02,Troublesome,Trou1,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,d7e20fcf-48ad-482e-b35a-47dba361353e
+2025-08-02,Troublesome,Trou1,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,2a451d96-2056-4b31-b4e4-ea7d1d007015
+2025-08-02,Troublesome,Trou1,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,59ee5d16-8615-42b0-bf47-6b61c0d65eaa
+2025-08-02,Troublesome,Trou1,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,fa03d3c4-2e56-4a1c-807e-e635ede1ca9f
+2025-08-02,Troublesome,Trou1,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,478447e6-53e3-4b92-a8c5-3af62c2adf00
+2025-08-02,Troublesome,Trou1,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,4bc1b138-ad22-4729-8ff2-7ed8d558d144
+2025-08-02,Troublesome,Trou1,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,5fa57ea5-b3aa-435c-a9c4-931cbd2c5455
+2025-08-02,Troublesome,Trou1,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,09a886cc-a7c0-4286-ac88-d4cd87a68c87
+2025-08-02,Troublesome,Trou2,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,08f23783-ef0c-4f20-bb18-fb32fb8e8a3b
+2025-08-02,Troublesome,Trou2,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,a59219d2-0ef7-41ea-8216-d771510c0a15
+2025-08-02,Troublesome,Trou2,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,7f5accea-615d-4d62-8404-8bc53f430cb0
+2025-08-02,Troublesome,Trou2,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,782fcb25-7a48-4058-b5ed-cbd64e0242da
+2025-08-02,Troublesome,Trou2,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,e0b91b99-bb27-4cf8-b4ff-b302d25e46ee
+2025-08-02,Troublesome,Trou2,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,5597c7f8-0348-417d-a0e4-85c6708d055c
+2025-08-02,Troublesome,Trou2,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,8bb3e2c4-c576-4b62-8070-865f4271dabf
+2025-08-02,Troublesome,Trou2,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,91fffb3e-4e01-4f8a-a06e-953beaa50c68
+2025-08-02,Troublesome,Trou2,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,42be5835-ca64-4314-a357-fed314440db2
+2025-08-02,Troublesome,Trou3,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,71ccbd23-ca1e-4163-8469-09d828ee13ef
+2025-08-02,Troublesome,Trou3,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,c081bb00-bb1d-4623-9e95-70507f75a95a
+2025-08-02,Troublesome,Trou3,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,cab07c8c-c3e6-4c9c-8b86-0bc2db53beb0
+2025-08-02,Troublesome,Trou3,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,e3d6b0d6-90c7-435f-aba1-64eb07273e6c
+2025-08-02,Troublesome,Trou3,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,fe00832c-ff7f-4f98-991c-603f61bdab92
+2025-08-02,Troublesome,Trou3,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,d9a2f1ff-2ddf-4e31-a5ed-c86212974284
+2025-08-02,Troublesome,Trou3,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,51fb0973-0164-4b87-b9a5-354d590e98ce
+2025-08-02,Troublesome,Trou3,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,79ceeff8-bde7-4d7b-ac76-82da03802516
+2025-08-02,Troublesome,Trou3,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,81ea207f-a805-44b7-bc7f-4aeea6fd3bfb
+2025-08-05,Troublesome,Trou4,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,76cc0a7e-304e-4f03-861e-a5a27019ab8d
+2025-08-05,Troublesome,Trou4,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,ac67242c-aa1d-4a59-b24b-b142191afe4f
+2025-08-05,Troublesome,Trou4,A,9 m,Really messy plot. A lot going on,no,NA,NA,NA,NA,NA,NA,64243825-5e4a-461a-9868-da250c7e3107
+2025-08-05,Troublesome,Trou4,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,392ebec1-28af-4d41-8a18-4e3fb4f9b3ba
+2025-08-05,Troublesome,Trou4,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,2f2144ea-aa76-4575-8f1f-ca4d55f8d1ef
+2025-08-05,Troublesome,Trou4,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,fb39e2a9-9740-42bc-a124-acc83255e6b8
+2025-08-05,Troublesome,Trou4,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,73e5b2a8-6807-4056-adc8-0433ef2bd1e7
+2025-08-05,Troublesome,Trou4,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,2589bc6d-8fd6-4a2e-8019-61fd6a8257b4
+2025-08-05,Troublesome,Trou4,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,b0af785f-18d7-4c06-9a50-6f08a70122b7
+2025-08-05,Troublesome,Trou5,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,04157e24-a54d-43c4-af2e-4051787bdf0f
+2025-08-05,Troublesome,Trou5,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,2ee44829-6055-4a7c-bf84-cf3f92750620
+2025-08-05,Troublesome,Trou5,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,0ef72cea-9df6-4641-b090-5b0d8d6abf40
+2025-08-05,Troublesome,Trou5,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,e9c5cba7-87a3-4f68-9b83-0a90bdb3f4c6
+2025-08-05,Troublesome,Trou5,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,197bb533-359f-4995-b244-678b099c3a5f
+2025-08-05,Troublesome,Trou5,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,482772d8-5251-42dd-8cf6-a1532611e597
+2025-08-05,Troublesome,Trou5,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,ff0665dc-7491-4467-92d5-8092903d0c00
+2025-08-05,Troublesome,Trou5,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,fe236247-9b98-4562-8dd7-1a94a91f26a2
+2025-08-05,Troublesome,Trou5,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,b57848a0-8e6d-4721-8c88-021553893b70
+2025-08-01,Yukon Creek,YuCr1,A,3 m,Cone ball in plot,no,NA,NA,NA,NA,NA,NA,30166533-ee8f-49df-a3f5-603f94add9b1
+2025-08-01,Yukon Creek,YuCr1,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,52d8ac6f-d29e-404a-972e-151b34aae3f8
+2025-08-01,Yukon Creek,YuCr1,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,3c76a1ab-b72b-417f-aee2-2b620e749009
+2025-08-01,Yukon Creek,YuCr1,B,6 m,Hug burned alder in plot. Also difficult to do ground cover. Another dense plot were I could not see the ground. Did my best,no,NA,NA,NA,NA,NA,NA,dd83d537-0f50-4b0b-b8c2-ff8a17845b93
+2025-08-01,Yukon Creek,YuCr1,B,3 m,Ground cover for this plot was difficult given that I couldn’t really see the ground with a bunch of plant cover. Did my best:/,no,NA,NA,NA,NA,NA,NA,6ef71c62-44ac-48af-9dde-4eb50cda65af
+2025-08-01,Yukon Creek,YuCr1,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,871d2177-37db-4cac-b515-f3db120e5885
+2025-08-01,Yukon Creek,YuCr1,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,129b8c2e-5920-49bf-82b3-5ac4096dfd71
+2025-08-01,Yukon Creek,YuCr1,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,c2c02757-df72-47c7-8537-4ead4479b596
+2025-08-01,Yukon Creek,YuCr1,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,bd376bf6-4b41-4762-95eb-3d9bbd56d2b3
+2025-08-01,Yukon Creek,YuCr2,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,517d459c-b15e-4572-9765-4f6cc5372b1c
+2025-08-01,Yukon Creek,YuCr2,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,ee7d3173-3956-4700-ae75-17671c249f37
+2025-08-01,Yukon Creek,YuCr2,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,09362830-324a-4caf-891f-6538ddd12ac3
+2025-08-01,Yukon Creek,YuCr2,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,7088b9e7-eccc-4379-b418-5e73740b3a06
+2025-08-01,Yukon Creek,YuCr2,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,945dc8e2-33fc-47f1-9d83-01e994813688
+2025-08-01,Yukon Creek,YuCr2,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,d4aa02d2-918f-4131-b9b1-a11e54a9721b
+2025-08-01,Yukon Creek,YuCr2,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,1ce15ab2-c95f-4906-9184-b7aa2fbbd41b
+2025-08-01,Yukon Creek,YuCr2,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,7111dde1-9b86-4a29-85c9-df144ad78b7b
+2025-08-01,Yukon Creek,YuCr2,C,6 m,This site is difficult to do ground cover. There is a lot of horse tail making the ground hard to see,no,NA,NA,NA,NA,NA,NA,20312ff2-ec47-4236-9462-1c9735c59ccf
+2025-08-01,Yukon Creek,YuCr3,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,a02da16b-90bb-49b3-bf3c-705c3c057d7f
+2025-08-01,Yukon Creek,YuCr3,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,f3d8ab91-566f-4183-b4a0-af0ba2a0e15f
+2025-08-01,Yukon Creek,YuCr3,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,02c50af4-fbea-459f-822a-0b19a3cf5e9a
+2025-08-01,Yukon Creek,YuCr3,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,f0a787a2-0fef-4947-b68e-4637fec71495
+2025-08-01,Yukon Creek,YuCr3,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,c08282bc-c7ba-4178-8148-c8aea54b933c
+2025-08-01,Yukon Creek,YuCr3,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,1645756b-28a7-468c-8dd7-057c8fc39b92
+2025-08-01,Yukon Creek,YuCr3,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,21ff4ec8-69c2-4f77-859b-603b9ff28734
+2025-08-01,Yukon Creek,YuCr3,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,d7ac10a0-df45-44d3-99bd-3e9334a6b0b9
+2025-08-01,Yukon Creek,YuCr3,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,fe28bec5-fea9-4952-a121-84d4e5523a94
+2025-08-04,Yukon Creek,YuCr4,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,2b07a178-2dc0-4eee-808e-7ebcb76a04c0
+2025-08-04,Yukon Creek,YuCr4,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,2303968b-b0ff-48ec-a0e6-0b9b35b063de
+2025-08-04,Yukon Creek,YuCr4,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,b6fabba7-ea55-4915-96d6-c7dbc193ed53
+2025-08-04,Yukon Creek,YuCr4,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,81137c5c-0f8a-41c8-a4b1-7f5746f17c7b
+2025-08-04,Yukon Creek,YuCr4,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,a11eef0a-0384-4ad5-a6e9-edaa3bf207ff
+2025-08-04,Yukon Creek,YuCr4,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,f7f4e54f-0377-45ff-8cb8-34a9edaefc19
+2025-08-04,Yukon Creek,YuCr4,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,c9f50287-6638-4c7a-8ad6-f18e70c604d6
+2025-08-04,Yukon Creek,YuCr4,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,6fec94db-773d-41e6-b1a6-abe3da739d8d
+2025-08-04,Yukon Creek,YuCr4,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,c5064094-3300-4beb-b808-4fe50ccecb7c
+2025-08-04,Yukon Creek,YuCr5,A,3 m,NA,no,NA,NA,NA,NA,NA,NA,1bf0232f-37ef-4546-9c7e-94905d34bd13
+2025-08-04,Yukon Creek,YuCr5,A,9 m,NA,no,NA,NA,NA,NA,NA,NA,b168ade9-bbcb-4b89-8ce4-8876cd039e7c
+2025-08-04,Yukon Creek,YuCr5,A,6 m,NA,no,NA,NA,NA,NA,NA,NA,651a6eaa-fe40-4ba7-ac64-c02f9dd30289
+2025-08-04,Yukon Creek,YuCr5,B,3 m,NA,no,NA,NA,NA,NA,NA,NA,81438238-3da7-458a-abcb-e1b76546bbca
+2025-08-04,Yukon Creek,YuCr5,B,9 m,NA,no,NA,NA,NA,NA,NA,NA,c5cf30d4-ea96-4cc4-97d5-8774cb23ce74
+2025-08-04,Yukon Creek,YuCr5,B,6 m,NA,no,NA,NA,NA,NA,NA,NA,c34e7efc-2e17-4c2b-99c7-cb2620d4e682
+2025-08-04,Yukon Creek,YuCr5,C,9 m,NA,no,NA,NA,NA,NA,NA,NA,25e8bcca-13c2-4f5b-b60a-1def2682dddf
+2025-08-04,Yukon Creek,YuCr5,C,3 m,NA,no,NA,NA,NA,NA,NA,NA,0d57bd3c-3750-4e38-9a45-dc536078b09c
+2025-08-04,Yukon Creek,YuCr5,C,6 m,NA,no,NA,NA,NA,NA,NA,NA,2d31a006-f8de-498f-89fa-0563f97ce811

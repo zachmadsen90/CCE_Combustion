@@ -1,0 +1,973 @@
+date,fire_scar,site,plot,CollectionID,location..m.,green_moss,depth1,org_hit,thaw_d,thaw_hit,ar_sol_depth1,ar_sol_hit,ar_height1,ar_height2,ar_height3,ar_height_avg,collected,sample_id,sample_depth1,sample_depth2,sample_width1,sample_width2,sample_length1,sample_length2,organic_notes,min_depth,m1_depth1,m1_depth2,m2_depth1,m2_depth_2,min_coregrab,mineral_notes,general_notes,sample_photo
+2021-07-17,Aggie Creek,AgCr1,A,NA,NA,NA,7,Mineral,40,Rock,4,Mineral,NA,NA,NA,29,yes,111-A,7,7,10,10,9,9,NA,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr1,A,NA,NA,NA,23,Mineral,52,Rock,4.25,Mineral,NA,NA,NA,23.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr1,A,NA,NA,NA,8,Mineral,38,Rock,12.5,Mineral,NA,NA,NA,12.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr1,A,AGCR1A3,3,3.5,3,Mineral,29,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr1,A,AGCR1A6,6,8,2,Mineral,60,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Hole depth = organic layer depth for all,NA
+2025-07-21,Aggie Creek,AgCr1,A,AGCR1A9,9,8.5,3,Mineral,45,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr1,B,NA,NA,NA,14.5,Mineral,35,Rock,9,Mineral,NA,NA,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr1,B,NA,NA,NA,12.5,Mineral,32,Rock,12.5,Mineral,NA,NA,NA,14,yes,111-B,13,12,10,10,9.5,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr1,B,NA,NA,NA,18,Mineral,36,Rock,7.5,Mineral,NA,NA,NA,19.33333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr1,B,AGCR1B3,3,2,7,Mineral,54,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr1,B,AGCR1B6,6,9.5,3.5,Mineral,83,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr1,B,AGCR1B9,9,5,3.5,Mineral,60,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr1,C,NA,NA,NA,9.25,Mineral,42,Rock,16,Mineral,NA,NA,NA,11,yes,111-C,10,8.5,10,9,11,11,NA,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr1,C,NA,NA,NA,5.5,Mineral,47,Rock,6,Mineral,NA,NA,NA,15.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr1,C,NA,NA,NA,10.75,Mineral,40,Rock,0,Mineral,NA,NA,NA,22.33333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr1,C,AGCR1C3,3,6,9,"Mineral,Rock",71,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr1,C,AGCR1C6,6,10.5,4.5,Mineral,53,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr1,C,AGCR1C9,9,10,4,Rock,30,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr2,A,NA,NA,NA,10,Mineral,56,Rock,12.75,Rock,NA,NA,NA,20.83333333,yes,93-A,10,10.5,11,11,10,9.5,NA,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr2,A,NA,NA,NA,30.5,Rock,31,Rock,14.5,Rock,NA,NA,NA,6.833333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr2,A,NA,NA,NA,9.25,Mineral,57,Rock,27,Mineral,NA,NA,NA,8.333333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr2,A,AGCR2A3,3,1,10.5,Mineral,43,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr2,A,AGCR2A6,6,4.5,5.5,Mineral,17,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr2,A,AGCR2A9,9,0.5,14,Mineral,15,Rock,NA,NA,NA,NA,NA,NA,no,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr2,B,NA,NA,NA,6.5,"Mineral,Rock",17,Rock,15.5,Mineral,NA,NA,NA,6.5,yes,93-B,6.5,6.5,10.5,11,11,11,NA,6,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr2,B,NA,NA,NA,3.75,Mineral,14,Rock,5,Mineral,NA,NA,NA,16.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr2,B,NA,NA,NA,12,Rock,38,Rock,8.75,Mineral,NA,NA,NA,9.666666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr2,B,AGCR2B3,3,0.5,5,Mineral,20,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr2,B,AGCR2B6,6,0,3.5,Mineral,54,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr2,B,AGCR2B9,9,0,20.5,Mineral,70,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr2,C,NA,NA,NA,18,Rock,24,Rock,4.25,Rock,NA,NA,NA,12.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr2,C,NA,NA,NA,10.5,"Mineral,Rock",20,Rock,12.5,Rock,NA,NA,NA,3,yes,93-C,12,11,10.5,10,10,9.5,NA,4,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr2,C,NA,NA,NA,10,"Mineral,Rock",16,Rock,10.5,Rock,NA,NA,NA,12.16666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr2,C,AGCR2C3,3,4,5.5,Mineral,26,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr2,C,AGCR2C6,6,2.5,1.5,Mineral,31,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-21,Aggie Creek,AgCr2,C,AGCR2C9,9,3,3.5,Mineral,30,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr3,A,NA,NA,NA,48,Rock,49,Rock,19.5,Mineral,NA,NA,NA,17.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr3,A,NA,NA,NA,9.25,Mineral,40,Rock,9,Mineral,NA,NA,NA,14.33333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr3,A,NA,NA,NA,5.25,"Mineral,Rock",85,Rock,5.25,"Mineral,Rock",NA,NA,NA,17,yes,94-A,5.5,5.5,12,12,11,11.5,NA,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr3,A,AGCR3A6,6,0.5,7.5,Rock,17,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr3,A,AGCR3A9,9,0,3.5,Mineral,56,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr3,A,AGCR3A3,3,6,4.5,Mineral,53,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr3,B,NA,NA,NA,36,Rock,42,Rock,24.25,Rock,NA,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr3,B,NA,NA,NA,20,Mineral,71,Rock,11,Rock,NA,NA,NA,11.33333333,yes,94-B,20,18,10,11.5,11,8,Narrower at bottom,NA,NA,NA,NA,NA,None,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr3,B,NA,NA,NA,40.5,Mineral,52,Rock,21.5,Mineral,NA,NA,NA,16.16666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr3,B,AGCR3B3,3,1,19.5,Rock,82,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr3,B,AGCR3B6,6,1,7.5,Mineral,18,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr3,B,AGCR3B9,9,3,7.5,Mineral,22.5,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr3,C,NA,NA,NA,13.25,Mineral,36,Rock,13.25,Mineral,NA,NA,NA,13.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr3,C,NA,NA,NA,15.5,"Rock,Mineral",40,Rock,16,Mineral,NA,NA,NA,17.66666667,yes,94-C,16,16,11,12.5,12.5,12,NA,10,NA,NA,NA,NA,Grab,Gravelly,NA,NA
+2021-07-17,Aggie Creek,AgCr3,C,NA,NA,NA,20.75,"Rock,Mineral",32,Rock,26,Mineral,NA,NA,NA,12.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr3,C,AGCR3C3,3,1.5,1,Mineral,26.5,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr3,C,AGCR3C6,6,2,5.5,Mineral,46,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr3,C,AGCR3C9,9,2.5,3.5,Mineral,28,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,A,NA,NA,NA,27,Mineral,NA,NA,12.25,Mineral,NA,NA,NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,A,NA,NA,NA,13,Mineral,51,Frozen Ground,13,Mineral,NA,NA,NA,9.666666667,yes,89-A,13,13,10,10.5,11.5,11,NA,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,A,NA,NA,NA,22,Mineral,80,Frozen Ground,9.75,Mineral,NA,NA,NA,10.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr4,A,AGCR4A3,3,0.1,14.5,Mineral,112,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr4,A,AGCR4A6,6,10,20,"Mineral,Water",110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr4,A,AGCR4A9,9,10,9,Mineral,110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,B,NA,NA,NA,11,Mineral,NA,NA,11,Mineral,NA,NA,NA,6.75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,B,NA,NA,NA,14.5,"Mineral,Rock",75,Frozen Ground,21.5,Mineral,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,B,NA,NA,NA,8.5,Mineral,55,Frozen Ground,22.5,Mineral,NA,NA,NA,7,yes,89-B,9,8,11,11,10,10,NA,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr4,B,AGCR4 B3,3,15,13,"Mineral,Water",110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr4,B,AGCR4 B6,6,8,17,"Mineral,Water",110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr4,B,AGCR4 B9,9,1,18,"Mineral,Water",110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,C,NA,NA,NA,27,Mineral,56,Frozen Ground,11,Mineral,NA,NA,NA,5.333333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,C,NA,NA,NA,23.5,Mineral,36,Frozen Ground,35.5,Mineral,NA,NA,NA,5.833333333,yes,89-C,24,23,10,11.5,10.5,12,NA,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,C,NA,NA,NA,22.5,Mineral,40,Frozen Ground,20,Rock,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr4,C,AGCR4 C3,3,8,25,"Mineral,Water",110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr4,C,AGCR4 C6,6,7,13,"Mineral,Water",85,"Frozen Ground,Rock",NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr4,C,AGCR4 C9,9,5,23,"Mineral,Water",112,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr5,A,NA,NA,NA,12.5,Mineral,NA,NA,16.5,Mineral,NA,NA,NA,16,yes,110-A,13,12,10,11.5,10,11,NA,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr5,A,NA,NA,NA,14,Mineral,NA,NA,14,Mineral,NA,NA,NA,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr5,A,NA,NA,NA,11.5,Mineral,NA,NA,13.5,Mineral,NA,NA,NA,12.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr5,A,AGCR5A3,3,0.5,32.5,Mineral,110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr5,A,AGCR5A6,6,2,17,Mineral,110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr5,A,AGCR5A9,9,0.5,22,Mineral,110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr5,B,NA,NA,NA,8.5,Mineral,NA,NA,22,Mineral,NA,NA,NA,10.33333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr5,B,NA,NA,NA,12,Mineral,NA,NA,12,Mineral,NA,NA,NA,8.166666667,yes,110-B,12,12,12,12,9,9,NA,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr5,B,NA,NA,NA,8,Mineral,NA,NA,8,Mineral,NA,NA,NA,13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr5,B,AGCR5B3,3,0.1,10,Mineral,110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr5,B,AGCR5B6,6,0.1,10.3,Mineral,110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr5,B,AGCR5B9,9,6,15,Mineral,110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr5,C,NA,NA,NA,10,Mineral,73,Mineral,8,Mineral,NA,NA,NA,10,yes,110-C,10,10,12,12,10,10,NA,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr5,C,NA,NA,NA,9,Mineral,66,Mineral,16,Mineral,NA,NA,NA,14.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr5,C,NA,NA,NA,10,Mineral,72,Mineral,9.5,Mineral,NA,NA,NA,16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr5,C,AGCR5C3,3,3.5,6.5,Mineral,110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr5,C,AGCR5C9,9,0.5,13.5,Mineral,110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr5,C,AGCR5C6,6,2,10,Mineral,110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr6,A,NA,NA,NA,16.5,Mineral,72,Mineral,13.5,Mineral,NA,NA,NA,25.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr6,A,NA,NA,NA,16,Mineral,NA,NA,12.5,Mineral,NA,NA,NA,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr6,A,NA,NA,NA,8,Mineral,66,Mineral,7.5,Mineral,NA,NA,NA,15.66666667,yes,109-A,8,8,11.5,11,9,9,NA,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr6,A,AGCR6A3,3,2,10,Mineral,110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr6,A,AGCR6A6,6,7,7,Mineral,110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr6,A,AGCR6A9,9,6,8,Mineral,110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr6,B,NA,NA,NA,9.75,Mineral,66,Mineral,20,Mineral,NA,NA,NA,18.66666667,yes,109-B,9.5,10,12,12,11,11,NA,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr6,B,NA,NA,NA,13.25,Mineral,71,Mineral,10,Mineral,NA,NA,NA,20.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr6,B,NA,NA,NA,9.5,Mineral,NA,NA,11,NA,NA,NA,NA,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr6,B,AGCR6B3,3,3,5.5,Mineral,110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr6,B,AGCR6B9,9,3.5,6,Mineral,110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr6,B,AGCR6B6,6,5,15,Mineral,110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr6,C,NA,NA,NA,8.75,Mineral,73,Mineral,11,Mineral,NA,NA,NA,11.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr6,C,NA,NA,NA,9,Mineral,NA,NA,12.75,Mineral,NA,NA,NA,10.33333333,yes,109-C,9,8.5,11,12,10,9.5,NA,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr6,C,NA,NA,NA,12.5,Mineral,NA,NA,12.5,Mineral,NA,NA,NA,6.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr6,C,AGCR6C6,6,2,3.5,Mineral,110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr6,C,AGCR6C3,3,4,9,Mineral,110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-22,Aggie Creek,AgCr6,C,AGCR6C9,9,2,5.5,Mineral,110,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,NA,18,Mineral,40,Frozen Ground,18,Mineral,NA,NA,NA,10.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,NA,NA,NA,24,Mineral,39,Frozen Ground,30,Mineral,NA,NA,NA,8,yes,Chit29A,24,23.5,10,10.5,9.5,11,NA,NA,NA,NA,NA,NA,None,Hole filled with water.,NA,NA
+2025-08-03,Chitanana,Chit1,A,CHIT1A3,3,0,23,Mineral,52,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit1,A,CHIT1A6,6,0.1,21,Mineral,49,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit1,A,CHIT1A9,9,0.1,18,Mineral,77,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,NA,22,Mineral,40,Frozen Ground,25,Mineral,NA,NA,NA,3.5,yes,Chit29B,23,23,10,10.5,10.5,10.5,NA,NA,NA,NA,NA,NA,Core,Reached permafrost at 9 cm,NA,NA
+2023-07-08,Chitanana,Chit1,B,NA,NA,NA,22,Mineral,48,Frozen Ground,22,Mineral,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit1,B,CHIT1B3,3,3,26,Mineral,46,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit1,B,CHIT1B6,6,0.1,22,Mineral,52,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit1,B,CHIT1B9,9,0.1,20,Mineral,60,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-08,Chitanana,Chit1,C,NA,NA,NA,24,Mineral,53,Frozen Ground,24,Mineral,NA,NA,NA,8.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-08,Chitanana,Chit1,C,NA,NA,NA,17,Mineral,70,Frozen Ground,17,Mineral,NA,NA,NA,7,yes,Chit29C,24,24,9,9,10,9,NA,NA,NA,NA,NA,NA,Core,NA,NA,NA
+2025-08-03,Chitanana,Chit1,C,CHIT1C3,3,0,17,Mineral,55,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit1,C,CHIT1C6,6,0,18,Mineral,51,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit1,C,CHIT1C9,9,0.1,24.5,Mineral,58,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-09,Chitanana,Chit3,A,NA,NA,NA,36,Frozen Ground,42,Frozen Ground,34,Frozen Ground,NA,NA,NA,2.75,yes,Chit32A,31,32,9,9,10,10.5,Cut off green layer,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-09,Chitanana,Chit3,A,NA,NA,NA,34,Frozen Ground,34,Frozen Ground,29,Frozen Ground,NA,NA,NA,5.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit3,A,CHIT3A3,3,0,30,Mineral,52,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit3,A,CHIT3A6,6,0,43,Mineral,76,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit3,A,CHIT3A9,9,0.1,47,Frozen Ground,47,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-09,Chitanana,Chit3,B,NA,NA,NA,38.5,Frozen Ground,40,Frozen Ground,33,Frozen Ground,NA,NA,NA,6,yes,Chit32B,37.5,38.5,11.5,11,11,12,NA,NA,NA,NA,NA,NA,None,NA,NA,NA
+2023-07-09,Chitanana,Chit3,B,NA,NA,NA,27,Frozen Ground,27,Frozen Ground,39,Frozen Ground,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit3,B,CHIT3B3,3,0,42,Frozen Ground,42,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit3,B,CHIT3B6,6,0,40,Frozen Ground,40,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit3,B,CHIT3B9,9,0,45,Frozen Ground,45,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-09,Chitanana,Chit3,C,NA,NA,NA,42,Frozen Ground,42,Frozen Ground,38,Frozen Ground,NA,NA,NA,5.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-09,Chitanana,Chit3,C,NA,NA,NA,22,Frozen Ground,43,Frozen Ground,20,Frozen Ground,NA,NA,NA,2,yes,Chit32C,22,21,10.5,12,11,10.5,NA,NA,NA,NA,NA,NA,None,NA,NA,NA
+2025-08-03,Chitanana,Chit3,C,CHIT3C3,3,0.1,48,"Frozen Ground,Ice",48,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit3,C,CHIT3C6,6,0,45,Frozen Ground,45,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit3,C,CHIT3C9,9,0,43,Frozen Ground,43,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,NA,37,Frozen Ground,37,Frozen Ground,37,Frozen Ground,NA,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,NA,25,Mineral,35,Frozen Ground,31,Frozen Ground,NA,NA,NA,3,yes,Chit3A,25,25.5,10,10,11,10.5,NA,NA,NA,NA,NA,NA,Core,"Mineral soil is borderline organic, not the best sample. Only got 0-5.",NA,NA
+2025-08-03,Chitanana,Chit4,A,CHIT4A3,3,0,34,Mineral,49,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit4,A,CHIT4A6,6,0,28,Mineral,42,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit4,A,CHIT4A9,9,0,29,Mineral,41,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,NA,32,Mineral,51,Frozen Ground,37,Frozen Ground,NA,NA,NA,5.5,yes,Chit33B,28.5,27,10,9.5,10,10,NA,NA,NA,NA,NA,NA,None,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,NA,37,Frozen Ground,37,Frozen Ground,37,Frozen Ground,NA,NA,NA,7.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit4,B,CHIT4B3,3,0,30,Mineral,35,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit4,B,CHIT4B6,6,0,27,Mineral,42,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit4,B,CHIT4B9,9,0,34,Mineral,45,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,NA,31,Frozen Ground,34,Frozen Ground,38,Frozen Ground,NA,NA,NA,5.5,yes,Chit33c,29.5,30.5,11,10.5,11.5,11,NA,NA,NA,NA,NA,NA,None,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,NA,38,Frozen Ground,54,Frozen Ground,28,Frozen Ground,NA,NA,NA,7.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit4,C,CHIT4C3,3,0,25,Mineral,48,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit4,C,CHIT4C6,6,0,33,Mineral,49,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit4,C,CHIT4C9,9,0,36,Mineral,46,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-05,Dry Creek,DrCr1,A,NA,3,0,23,"Mineral,Water",64,Frozen Ground,27,"Mineral,Water",11.5,8,11,10.166666666666666,yes,DrCr1A,20,23,11,10.5,10,11.5,NA,NA,5,NA,5,NA,Core,NA,Hit water at 20cm,a968a64a-ec50-4df1-9181-14efcac670e0
+2024-08-05,Dry Creek,DrCr1,A,NA,6,0,27,"Mineral,Water",101,>100cm,28,"Mineral,Water",6.5,3,NA,4.75,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-05,Dry Creek,DrCr1,B,NA,3,0,30,Mineral,71,Frozen Ground,24.5,"Mineral,Water",6.5,5,NA,5.75,yes,DrCr1B,31,32,11,12,10.5,10.5,NA,NA,5,NA,5,NA,Core,NA,Sampled at 13.3 due to tree roots,06b318f5-8efb-40c6-be72-35964d0b2776
+2024-08-05,Dry Creek,DrCr1,B,NA,6,0.1,24,"Mineral,Water",55,Frozen Ground,30,"Mineral,Water",11,12,11,11.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-05,Dry Creek,DrCr1,C,NA,3,0.1,20,"Mineral,Water",73,Frozen Ground,33,"Mineral,Water",4,5,NA,4.5,yes,DrCr1C,21,22,10,10,10.5,10,NA,NA,5,NA,5,NA,Core,NA,Hit water at 15,NA
+2024-08-05,Dry Creek,DrCr1,C,NA,6,0,29,Mineral,68,Frozen Ground,28,"Mineral,Water",14,16,NA,15,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-05,Dry Creek,DrCr2,A,NA,3,0.1,31,"Mineral,Water",101,>100cm,24,"Mineral,Water",2.5,8,NA,5.25,yes,DrCr2A,32,31,11,11,10,10,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-08-05,Dry Creek,DrCr2,A,NA,6,0,33,Mineral,98,Frozen Ground,31,"Mineral,Water",6,NA,NA,6,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-05,Dry Creek,DrCr2,B,NA,3,0.1,22,Mineral,67,Frozen Ground,37,Mineral,1,NA,NA,1,yes,DrCr2B,25,23.5,10.5,10.5,11,11,NA,NA,5,NA,5,NA,Core,NA,No at roots visible on nearby trees,793836fd-cf73-4da9-9917-197b84ef0bd5
+2024-08-05,Dry Creek,DrCr2,B,NA,6,0.1,29,"Mineral,Water",73,Frozen Ground,29,"Mineral,Water",6,7,4,5.666666666666667,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-05,Dry Creek,DrCr2,C,NA,3,0.1,24,"Mineral,Water",98,Frozen Ground,37,"Mineral,Water",4.5,10,NA,7.25,yes,DrCr2C,21,23,11,12,19,9,NA,NA,5,NA,5,NA,Core,NA,NA,d8912997-6e53-4d57-87a4-6f86dbb7b11a
+2024-08-05,Dry Creek,DrCr2,C,NA,6,0.1,20,"Mineral,Water",101,>100cm,25,"Mineral,Water",1,2,4,2.3333333333333335,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Green moss depth at ar 2.5. Not included in SOL measurement,NA
+2024-08-05,Dry Creek,DrCr3,A,NA,3,0.1,24,"Mineral,Water",60,Frozen Ground,24,"Mineral,Water",6,2,3,3.6666666666666665,yes,DrCr3A,25,25,10,10.5,8,10,NA,NA,5,NA,5,NA,Core,NA,Hit water at 16,NA
+2024-08-05,Dry Creek,DrCr3,A,NA,6,0,23,"Mineral,Water",54,Frozen Ground,28,"Mineral,Water",2,4,NA,3,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Ar green moss is 0.5,NA
+2024-08-05,Dry Creek,DrCr3,B,NA,3,0.1,25,"Mineral,Water",47,Frozen Ground,24,"Mineral,Water",12,16,13,13.666666666666666,yes,DrCr3B,27,27,10,10,9,10,NA,NA,5,NA,5,NA,Core,NA,NA,ba682eea-674b-47ac-8353-3fd7a1515cb6
+2024-08-05,Dry Creek,DrCr3,B,NA,6,0,48,Frozen Ground,48,Frozen Ground,29,"Mineral,Water",10,7,5,7.333333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-05,Dry Creek,DrCr3,C,NA,3,0.1,21,Mineral,45,Frozen Ground,23.5,Mineral,13,6,15,11.333333333333334,yes,DrCr3C,23,24,12,11.5,10,10,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-08-05,Dry Creek,DrCr3,C,NA,6,0,35,"Mineral,Water",51,Frozen Ground,29,"Mineral,Water",16,5,NA,10.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr4,A,NA,3,0,4,Mineral,90,Mineral,4,Mineral,9,8,8,8.333333333333334,yes,DrCr4A,4.5,3,10,10,9.5,9.5,NA,NA,5,NA,5,NA,Core,NA,"Thaw depth I think was still mineral, but extremely dense and hard to push through, so couldn’t get it any further",NA
+2024-08-06,Dry Creek,DrCr4,A,NA,6,0,6.5,Mineral,73,Mineral,6,Mineral,10,9,10,9.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Same problem here with dense mineral, hard time getting probe deep",NA
+2024-08-06,Dry Creek,DrCr4,B,NA,3,0,6.5,Mineral,90,Mineral,6.5,Mineral,13,12,12,12.333333333333334,yes,DrCr4B,6.5,7,9,9,9,10,NA,NA,5,NA,5,NA,Core,NA,Mineral all the way down but really hard to press thaw probe through,NA
+2024-08-06,Dry Creek,DrCr4,B,NA,6,0,6,Mineral,57,Mineral,3,Mineral,8,8,9,8.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Mineral soil too dense too push thaw probe through,NA
+2024-08-06,Dry Creek,DrCr4,C,NA,3,0,11.5,Mineral,87,Mineral,7,Mineral,7,8,5,6.666666666666667,yes,DrCr4C,10,10,10,9,9.5,9,NA,NA,5,NA,5,NA,Core,NA,"Really hard packed mineral, hard to get thaw probe through",NA
+2024-08-06,Dry Creek,DrCr4,C,NA,6,0,12,Mineral,62,Mineral,7,Mineral,8,6,NA,7,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mineral very dense, hard to get that probe deep",NA
+2024-08-06,Dry Creek,DrCr5,A,NA,3,0,8,Mineral,93,Mineral,4,Mineral,16,15,16,15.666666666666666,yes,DrCr5A,8,7.5,10,10,10,9.5,NA,NA,5,NA,5,NA,Core,NA,Mineral too dense for thaw probe,NA
+2024-08-06,Dry Creek,DrCr5,A,NA,6,0,2,Mineral,67,Mineral,2.5,Mineral,13,11,12,12,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Mineral too dense for thaw probe,NA
+2024-08-06,Dry Creek,DrCr5,B,NA,3,0,9,Mineral,60,Mineral,7,Mineral,10,12,11,11,yes,DrCr5B,10,11.5,10,10.5,10,10,NA,NA,5,NA,5,NA,Core,NA,Mineral too dense to probe further,NA
+2024-08-06,Dry Creek,DrCr5,B,NA,6,0,3,Mineral,58,Mineral,4,Mineral,9,10,13,10.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Mineral too dense to probe,NA
+2024-08-06,Dry Creek,DrCr5,C,NA,3,0,4,Mineral,50,Mineral,2.5,Mineral,11,9,10,10,yes,DrCr5C,4,4.5,11,11,10,10,NA,NA,5,NA,5,NA,Core,NA,Sampled at 23.6 due to roots. Mineral too dense to probe,NA
+2024-08-06,Dry Creek,DrCr5,C,NA,6,0,3,Mineral,50,Mineral,1.5,Mineral,13,14,NA,13.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr6,A,NA,3,0,16,"Mineral,Water",101,>100cm,16,"Mineral,Water",4,3,4,3.6666666666666665,yes,DrCr6A,20,20,7,7,8.5,8,NA,NA,6,NA,4,NA,Core,NA,NA,NA
+2024-08-06,Dry Creek,DrCr6,A,NA,6,0,25,"Mineral,Water",101,>100cm,31,"Mineral,Water",8,7.5,5,6.833333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr6,B,NA,3,0,20.5,"Mineral,Water",101,>100cm,27,"Mineral,Water",7,NA,NA,7,yes,DrCr6B,22,22,10,10,10,10.5,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-08-06,Dry Creek,DrCr6,B,NA,6,0,36.5,"Mineral,Water",101,>100cm,39,"Mineral,Water",6,7,8,7,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr6,C,NA,3,0,21,Mineral,101,>100cm,23,Mineral,7,6,NA,6.5,yes,DrCr6C,20,21.5,10.5,10,9.5,10,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-08-06,Dry Creek,DrCr6,C,NA,6,0,26,Mineral,101,>100cm,24,Mineral,5,8,11,8,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob1,A,GLOB1A3,3,0,21,Mineral,50,Frozen Ground,22,Mineral,6,8,12,8.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob1,A,GLOB1A6,6,0,21.5,Mineral,54,Frozen Ground,32,Mineral,6,2,12,6.666666666666667,yes,A6,21,22,11,11.5,11,11.5,NA,NA,5,5,5,5,Grab,Hit ice,NA,NA
+2025-07-31,Globe,Glob1,A,GLOB1A9,9,0,21,"Mineral,Water",35,Frozen Ground,21,"Mineral,Water",8,7,7,7.333333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob1,B,GLOB1B3,3,0,14,Mineral,52,Frozen Ground,14,Mineral,9,12,4,8.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob1,B,GLOB1B6,6,1,25.5,"Mineral,Water",60,Frozen Ground,25,"Mineral,Water",2,4,5,3.6666666666666665,yes,B6,26,25,9,9.5,9,8.5,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-31,Globe,Glob1,B,GLOB1B9,9,0,35,"Mineral,Water",40,Frozen Ground,35,"Mineral,Water",12,9,7,9.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob1,C,GLOB1C3,3,0,20,"Mineral,Water",31,Frozen Ground,20,"Mineral,Water",8,13,3,8,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob1,C,GLOB1C6,6,0,11.5,Mineral,56,Frozen Ground,9,Mineral,4,3,8,5,yes,C6,11,11.5,10,10,9.5,9,NA,NA,5,5,5,5,Grab,NA,NA,NA
+2025-07-31,Globe,Glob1,C,GLOB1C9,9,0,17,Mineral,45,Frozen Ground,14.5,Mineral,9,2,17,9.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob2,A,GLOB2A6,6,0,29.5,Mineral,50,"Frozen Ground,Mineral,Water",30,Frozen Ground,2,2,5,3,yes,A6,29,30,10,11,9,9.5,NA,NA,5,5,5,5,Grab,NA,NA,NA
+2025-07-31,Globe,Glob2,A,GLOB2A3,3,0,17,Mineral,33,Frozen Ground,19,Mineral,16,13,13,14,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob2,A,GLOB2A9,9,0,22,"Mineral,Water",72,Frozen Ground,28,"Mineral,Water",6,3,6,5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob2,B,GLOB2B6,6,0,33.5,Mineral,42,Frozen Ground,30,Ice,2,2,4,2.6666666666666665,yes,B6,33.5,33,10.5,11,11,11.5,NA,NA,5,5,3,3,Grab,Hit ice,NA,NA
+2025-07-31,Globe,Glob2,B,GLOB2B3,3,0,25,Frozen Ground,48,Frozen Ground,26,Frozen Ground,9,4,4,5.666666666666667,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob2,B,GLOB2B9,9,0,63,Mineral,65,Frozen Ground,63,Mineral,7,4,5,5.333333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob2,C,GLOB2C6,6,0,19.5,Mineral,41,Frozen Ground,17,Mineral,5,3,1,3,yes,C6,19.5,19.5,9.5,9.5,10,10.5,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2025-07-31,Globe,Glob2,C,GLOB2C3,3,0,34,"Ice,Water",34,"Frozen Ground,Ice",22,"Mineral,Water",3,4,3,3.3333333333333335,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob2,C,GLOB2C9,9,0,25,"Mineral,Water",40,Frozen Ground,30,"Mineral,Water",4,4,4,4,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob3,A,GLOB3A6,6,0,18,Mineral,55,Frozen Ground,15,Mineral,8,7,5,6.666666666666667,yes,A6,18,17.5,9.5,10,9,9.5,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-31,Globe,Glob3,A,GLOB3A3,3,0,19,Mineral,52,Frozen Ground,18,Mineral,5,3,3,3.6666666666666665,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob3,A,GLOB3A9,9,0,28,Mineral,42,Frozen Ground,14,Mineral,2,10,1,4.333333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob3,B,GLOB3B3,3,0,32,Mineral,45,Frozen Ground,21,Mineral,3,3,1,2.3333333333333335,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob3,B,GLOB3B6,6,1.5,15.5,"Mineral,Water",66,Frozen Ground,12,Mineral,6,6,7,6.333333333333333,yes,B6,15.5,15.5,10,10,9.5,9,NA,NA,5,5,5,5,Grab,NA,NA,NA
+2025-07-31,Globe,Glob3,B,GLOB3B9,9,0,14,Mineral,68,Frozen Ground,14,Mineral,12,14,5,10.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob3,C,GLOB3C3,3,0,35,Mineral,50,Frozen Ground,21,Mineral,5,7,3,5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob3,C,GLOB3C6,6,0,17,Mineral,56,Frozen Ground,17,Mineral,11,11,6,9.333333333333334,yes,C6,16.5,17,9.5,10,8.5,8.5,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-31,Globe,Glob3,C,GLOB3C9,9,0,20,Mineral,51,Frozen Ground,16,Mineral,9,7,4,6.666666666666667,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob4,A,GLOB4A3,3,0,7,Mineral,110,>100cm,9,"Mineral,Rock",11,14,9,11.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob4,A,GLOB4A6,6,1.5,5.5,Mineral,96,Rock,10,Mineral,8,11,5,8,yes,A6,8,5.5,10,9.5,12.5,12.5,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-23,Globe,Glob4,A,GLOB4A9,9,1,11,"Mineral,Rock",103,Rock,14.5,Mineral,21,18,17,18.666666666666668,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob4,B,GLOB4B6,6,0,10.5,"Mineral,Rock",98,Rock,17,Mineral,12.5,14,17,14.5,yes,Glob4 b6,8,10,12,13,10,10.5,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-23,Globe,Glob4,B,GLOB4B3,3,0.1,20,Mineral,50.5,Rock,20,"Mineral,Rock",29,22,22,24.333333333333332,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob4,B,GLOB4B9,9,1.5,8,Mineral,72,Rock,8,Mineral,28,27,22,25.666666666666668,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob4,C,GLOB4C6,6,0.5,12,Mineral,100,"Mineral,Rock",11,Rock,10,14,12,12,yes,GLOB4 C 6,9.5,9,10.5,10,11,10.5,Crumble at bottom,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-23,Globe,Glob4,C,GLOB4C3,3,0,25.5,Mineral,68,Mineral,24,Mineral,17,26,18,20.333333333333332,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob4,C,GLOB4C9,9,0,5,Mineral,110,>100cm,15,Mineral,19,26,15,20,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob5,A,GLOB5 A6,6,0,13,Mineral,100,Rock,17,Mineral,24,12,13,16.333333333333332,yes,GLOB5 A,13,12.5,11.5,12,11,12,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2025-07-23,Globe,Glob5,A,GLOB5 A3,3,0,31.5,Mineral,57,Rock,26,Mineral,10,10.5,12,10.833333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob5,A,GLOB5 A9,9,0,17,Mineral,87,Rock,17.5,Mineral,18.5,19,13,16.833333333333332,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob5,B,GLOB5B3,3,0,10,Mineral,27,Rock,18,Mineral,14,14.5,10,12.833333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob5,B,GLOB5B9,9,0,8,Mineral,110,>100cm,11,Mineral,17,12,10,13,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob5,B,GLOB5B6,6,0,10,Mineral,108,Rock,9,Mineral,18,17,14,16.333333333333332,yes,B6,10,11.5,10,10,9.5,9,NA,NA,4,4,5,5,Core,NA,NA,NA
+2025-07-23,Globe,Glob5,C,GLOB5C3,3,0,4.5,Mineral,68,Rock,7.5,Mineral,9,4.5,7,6.833333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob5,C,GLOB5C9,9,0,24,"Mineral,Rock",52,Rock,23.5,Mineral,7,6.5,5,6.166666666666667,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob5,C,GLOB5C6,6,0,12,Mineral,38,Rock,22,Mineral,7,8,7.5,7.5,yes,C6,12.5,12,12.5,12.5,8,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob6,A,GLOB6A3,3,0,0,Mineral,18,Rock,0,Mineral,28.5,25,19,24.166666666666668,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob6,A,GLOB6A6,6,0.5,0,Mineral,15,Rock,0,Mineral,20,20.5,22,20.833333333333332,no,A6,0,0,0,0,0,0,No organic taken,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-23,Globe,Glob6,A,GLOB6A9,9,0.5,0,Mineral,35.5,Mineral,0,Mineral,26,25,23.5,24.833333333333332,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob6,B,GLOB6B3,3,0.5,0,Mineral,46,Rock,0,Mineral,30,24,23,25.666666666666668,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"AR hard to see, all trees fallen",NA
+2025-07-23,Globe,Glob6,B,GLOB6B6,6,0.5,0,Mineral,36,Rock,0,Mineral,15,13,10,12.666666666666666,yes,B6,0,0,0,0,0,0,No organic taken,NA,5,5,5,5,Core,Thick layer of ash above,NA,NA
+2025-07-23,Globe,Glob6,B,GLOB6B9,9,0,0,Mineral,28,Rock,0,Mineral,10,11,12,11,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob6,C,GLOB6C3,3,0.5,0,Mineral,22,Rock,0,Mineral,18,16,14.5,16.166666666666668,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob6,C,GLOB6C6,6,0.5,0,Mineral,55,Rock,0,Mineral,20,25.5,21.5,22.333333333333332,no,C6,0,0,0,0,0,0,No organic taken,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-23,Globe,Glob6,C,GLOB6C9,9,0.5,0,Mineral,36,Rock,0,Mineral,26,23,21.5,23.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays1,A,NA,3,NA,5,Mineral,82,Ice,5.5,Mineral,7.5,5,10,7.5,yes,Hays1A,4,6,10,10,12,11,NA,NA,6,NA,0,NA,Core,Top=0-6 cm no M2 gravel,NA,NA
+2024-07-14,Haystack,Hays1,A,NA,6,NA,11.5,Mineral,100,Ice,10.5,Mineral,5.5,10,NA,7.75,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays1,B,NA,3,NA,12,Mineral,120,Rock,1.5,Mineral,6,3,5,4.666666666666667,yes,Hays1B,11.5,11,12,12,12,13,NA,NA,5,NA,5,NA,Core,M1 and m2 both 5 cm,NA,NA
+2024-07-14,Haystack,Hays1,B,NA,6,NA,3,Mineral,65,Rock,7.5,Mineral,10,3,NA,6.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays1,B,NA,9,NA,10,Mineral,75,Frozen Ground,7,Mineral,6,8,NA,7,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays1,C,NA,3,NA,3,Mineral,78,Frozen Ground,5,Rock,11,10.5,10,10.5,yes,Hays1C,3,3,8,7,11,11.5,NA,NA,5,NA,5,NA,Core,"M1 5, m2 5 cm",NA,NA
+2024-07-14,Haystack,Hays1,C,NA,6,NA,13.5,Mineral,65,Frozen Ground,8,Mineral,9,8,13,10,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays1,C,NA,9,NA,5,Mineral,82,Frozen Ground,10,Mineral,9,8,9,8.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays2,A,NA,3,NA,5.5,Mineral,59,Rock,6,Mineral,6,7,NA,6.5,yes,Hays2A,6,5,9,10,9,10,NA,NA,5,NA,5,NA,Core,M1 and m2 both 5 cm,NA,NA
+2024-07-14,Haystack,Hays2,A,NA,6,NA,19,Mineral,75,Rock,6.5,Mineral,20,18,14,17.333333333333332,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays2,A,NA,9,NA,12,Mineral,100,Rock,5,Mineral,8,10,NA,9,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays2,B,NA,6,NA,10.5,Mineral,80,Rock,9.5,Mineral,20,10,15,15,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays2,B,NA,9,NA,13,Mineral,70,Rock,5.5,Mineral,5,7,12,8,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays2,B,NA,3,NA,11,Mineral,83,Rock,7,Mineral,10,13,17,13.333333333333334,yes,Hays2B,10,8,10,10,11,11,NA,NA,5,NA,5,NA,Core,M1 and m2 both 5 cm,NA,NA
+2024-07-14,Haystack,Hays2,C,NA,9,NA,11,Mineral,120,>100cm,11,Mineral,11,12,NA,11.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Thaw depth greater than 120,NA
+2024-07-14,Haystack,Hays2,C,NA,6,NA,18,"Mineral,Water",110,">100cm,Frozen Ground",6,Mineral,6,14,10,10,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays2,C,NA,3,NA,5.5,Mineral,100,Rock,17,Mineral,5,6,NA,5.5,yes,Hays2C,5.5,6,10,10.5,10,11,NA,NA,5,NA,5,NA,Core,"M1 and m2 both 5 cm, slightly compacted core",NA,NA
+2024-07-14,Haystack,Hays3,A,NA,9,NA,19,Mineral,68,Frozen Ground,7,Mineral,12,12,19,14.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays3,A,NA,6,NA,20,Mineral,82,Frozen Ground,15,Mineral,20,18,NA,19,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays3,A,NA,3,NA,7,Mineral,65,Rock,7,NA,10,8,NA,9,yes,Hays3A,8,6,10,10,10,11,NA,NA,5,NA,5,NA,Core,M1 and 2 bot cm,NA,NA
+2024-07-14,Haystack,Hays3,B,NA,9,NA,18.5,Mineral,67,Frozen Ground,6,Mineral,8,8,12,9.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays3,B,NA,6,NA,13,Mineral,50,Rock,3,Mineral,20,23,19,20.666666666666668,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays3,B,NA,3,NA,11,Mineral,65,Frozen Ground,10,Mineral,19,13,13,15,yes,Hays3B,6,6,11,10,13,13,NA,NA,5,NA,5,NA,Core,"Some compaction, m1 and m2 depth 5 cm",NA,NA
+2024-07-14,Haystack,Hays3,C,NA,9,NA,11,Mineral,68,Frozen Ground,9,Mineral,12,14,7,11,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays3,C,NA,6,NA,18,Mineral,85,Frozen Ground,16,Mineral,7,12,8,9,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays3,C,NA,3,NA,7,Mineral,82,Rock,13,Mineral,12,19,12,14.333333333333334,yes,Hays3C,7,7,13,12,8,9,NA,NA,5,NA,5,NA,Core,M1 and m2 5 cm deep,NA,NA
+2024-07-25,Haystack,Hays4,A,NA,3,NA,12,Mineral,69,Rock,5,Mineral,8,9,3,6.666666666666667,yes,Hays4A,12,11,10.5,10,10.5,10,NA,NA,5,NA,0,NA,Core,"Big rock after M1, no M2 sample",NA,c4b907e9-3b72-4dc3-b14e-5b50878bfc18
+2024-07-25,Haystack,Hays4,A,NA,6,NA,5,Rock,15,Rock,2,Mineral,9,11,8,9.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Ash remaining on ground,",NA
+2024-07-25,Haystack,Hays4,A,NA,9,NA,16,Mineral,26,Rock,12,Mineral,13,12,NA,12.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays4,B,NA,3,NA,16,Mineral,72,Rock,18,Rock,2.5,3.5,NA,3,yes,Hays4B,16,16,11,11,13,12.5,Crumbly at bottom,NA,5,NA,5,NA,Core,NA,Closest tree for AR was living,NA
+2024-07-25,Haystack,Hays4,B,NA,6,NA,9,"Rock,Mineral",92,Rock,9,Mineral,10,4,14,9.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays4,B,NA,9,NA,16,Mineral,65,Rock,12,Mineral,5,4,NA,4.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays4,C,NA,3,NA,10,Rock,65,Rock,4,Mineral,22,9,11.5,14.166666666666666,yes,Hays4C,7,8,10,10,11.5,11,NA,NA,8,NA,0,NA,Core,"Very crumbly, M1 and M2 combined","Removed 2cm of rock between org and mineral, hit rock after 8cm of mineral",NA
+2024-07-25,Haystack,Hays4,C,NA,6,NA,10.5,Mineral,50,Rock,6.5,Mineral,8,11,11,10,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,All ARs weird because fire burned on downslope side but not upslope. Limited roots available,NA
+2024-07-25,Haystack,Hays4,C,NA,9,NA,12,Mineral,64,Rock,0.5,Mineral,14,8,NA,11,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Nearest tree didn’t have visible ARs, went to second nearest",NA
+2024-07-25,Haystack,Hays5,A,NA,3,NA,8,"Mineral,Rock",38,Rock,7.5,Mineral,5.5,4,3,4.166666666666667,yes,Hays5A,7.5,8,11.5,11,12.5,13.5,1 cm rock removed between organic and mineral,NA,3,NA,0,NA,Core,Rock beneath 3 cm unable to remove,NA,NA
+2024-07-25,Haystack,Hays5,A,NA,6,NA,0.5,Mineral,65,Rock,5,Mineral,2,3.5,6,3.8333333333333335,no,NA,NA,NA,NA,NA,NA,NA,"Small amount of litter, then ash and mineral",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays5,A,NA,9,NA,13.5,Rock,50,Rock,11.5,Mineral,2.5,5,NA,3.75,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays5,B,NA,6,NA,17,Mineral,47,Rock,14.5,Mineral,12,7.5,NA,9.75,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays5,B,NA,9,NA,11.5,Mineral,88,Rock,7,Mineral,9,5,3.5,5.833333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays5,B,NA,3,NA,11.5,Mineral,20,Rock,5,Rock,9,3,NA,6,yes,Hays5B,11,10.5,12,12.5,11,10,"Large root below organic sample difficult to remove. Taking remainder of organic as separate sample using corer, in separate bag for processing. Depth 3 cm.",NA,5,NA,0,NA,Core,"Rock below M1 sample, no M2 sample",NA,NA
+2024-07-25,Haystack,Hays5,C,NA,3,NA,7,"Mineral,Rock",66,Rock,5.5,Mineral,3,NA,NA,3,yes,Hays5C,8,6,7.5,8,14,13,"Ash moss mineral mix at bottom of sample, sample uneven at an angle.",NA,5,NA,5,NA,Core,"M1 sample contains some organic, at interface",NA,NA
+2024-07-25,Haystack,Hays5,C,NA,6,NA,2,Mineral,67,Rock,12,Mineral,3,6,NA,4.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays5,C,NA,9,NA,9.5,Mineral,43,Rock,4.5,Mineral,11,18,20,16.333333333333332,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays6,A,NA,3,NA,7,"Mineral,Rock",24,Rock,3.5,Mineral,13.5,11.5,NA,12.5,yes,Hays6A,6.5,6,13,12,10,9.5,NA,NA,0,NA,0,NA,NA,No mineral soil sample taken too rocky and unable to remove rock,NA,NA
+2024-07-25,Haystack,Hays6,A,NA,6,NA,11,Mineral,52,Rock,14.5,Mineral,2.5,2.5,NA,2.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays6,A,NA,9,NA,16,Mineral,51,Rock,3.5,Mineral,13,8,15,12,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays6,B,NA,3,NA,12,Mineral,46,Rock,3,Mineral,10,11.5,NA,10.75,yes,Hays6B,9.5,10,11,10.5,11.5,10,"Bottom crumbly. Bottom 1.5 cm of organic came off with soil corer, in its own bag for processing.",NA,5,NA,5,NA,Core,NA,NA,NA
+2024-07-25,Haystack,Hays6,B,NA,6,NA,19,Mineral,66,Rock,8.5,Rock,8,19,15,14,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays6,B,NA,9,NA,12.5,Mineral,42,Rock,7,Mineral,13,3,10.5,8.833333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays6,C,NA,3,NA,26,Mineral,74,Rock,19,Rock,7,6,NA,6.5,yes,Hays6C,21,22,12,11,8,9,3 cm deep rock removed between organic and mineral,NA,5,NA,0,NA,Core,"Very rocky and difficult to remove mineral soil samples. Depth of M1 estimate based of hole depth, sample came out in multiple pieces because of rock. Surface contains some organic. No M2 sample because of rock",NA,NA
+2024-07-25,Haystack,Hays6,C,NA,6,NA,7,Mineral,78,Rock,18,Mineral,7,5,3,5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays6,C,NA,9,NA,8,Mineral,82,Rock,7,Mineral,8,12,17,12.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,A,NA,NA,NA,13.5,"Mineral,Rock",44,Rock,12.5,"Mineral,Rock",NA,NA,NA,8,yes,179-A,11,11,13,12,10,9,"Hit rock, missed a bit of organic on one side",NA,NA,NA,NA,NA,None,Too rocky,NA,NA
+2021-07-10,Hess Creek,HeCr1,A,NA,NA,NA,11.5,"Mineral,Rock",16,Rock,12.5,"Mineral,Rock",NA,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,A,NA,NA,NA,16,Rock,27,Rock,14,"Mineral,Rock",NA,NA,NA,7.666666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr1,A,NA,6,NA,9,Rock,24,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr1,A,NA,9,NA,11.5,Mineral,35,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr1,A,NA,3,NA,13.5,Rock,71,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,B,NA,NA,NA,8.75,Mineral,44,Rock,8,Rock,NA,NA,NA,4.666666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,B,NA,NA,NA,17.5,Rock,18,Rock,12,Rock,NA,NA,NA,2.666666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,B,NA,NA,NA,6.5,Rock,22,Rock,10,Rock,NA,NA,NA,6.666666667,yes,179-B,8,5,10,10,11,11,Rock,0,NA,NA,NA,NA,NA,None. Just big ass rocks,NA,NA
+2024-07-22,Hess Creek,HeCr1,B,NA,3,NA,11,Rock,59,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr1,B,NA,6,NA,11,Rock,48,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr1,B,NA,9,NA,12,Mineral,25,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,C,NA,NA,NA,3.75,Mineral,NA,NA,9,Mineral,NA,NA,NA,4.666666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,C,NA,NA,NA,7,Rock,50,Rock,11.5,Rock,NA,NA,NA,5.666666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,C,NA,NA,NA,10,Rock,55,Rock,12,Mineral,NA,NA,NA,4.333333333,yes,179-C,12,7,13,15,10.5,10.5,Hit rock on all sides,0,NA,NA,NA,NA,NA,Just rock,NA,NA
+2024-07-22,Hess Creek,HeCr1,C,NA,3,NA,13.5,Mineral,43,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Moved measurement to 23.7 due to large trunk at 23,NA
+2024-07-22,Hess Creek,HeCr1,C,NA,6,NA,6.6,Mineral,77,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr1,C,NA,9,NA,13,Rock,80,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr2,A,NA,NA,NA,2.5,Mineral,32,Rock,2.25,Mineral,NA,NA,NA,2.666666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr2,A,NA,NA,NA,1,Mineral,39,Rock,3,Mineral,NA,NA,NA,8.666666667,yes,170-A,1,1,8,8,15,14,NA,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-10,Hess Creek,HeCr2,A,NA,NA,NA,1,Mineral,20,Rock,0,Mineral,NA,NA,NA,19.33333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr2,A,NA,6,NA,1.5,Mineral,44,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr2,A,NA,9,NA,6,Mineral,43,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr2,A,NA,3,NA,3,Mineral,42,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr2,B,NA,NA,NA,0,Mineral,22,Rock,2,Mineral,NA,NA,NA,12.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr2,B,NA,NA,NA,1,Mineral,NA,NA,0,Mineral,NA,NA,NA,18,yes,170-B,1,1,11.5,11,12,11,Falling apart. No residual. All new since 2019.,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-10,Hess Creek,HeCr2,B,NA,NA,NA,1.75,Mineral,30,Rock,4,Mineral,NA,NA,NA,24.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr2,B,NA,3,NA,5,Mineral,39,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr2,B,NA,6,NA,0.5,Mineral,28,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Offset at 16.2 due to standing tree,NA
+2024-07-22,Hess Creek,HeCr2,B,NA,9,NA,1,Mineral,43,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr2,C,NA,NA,NA,4,Mineral,44,Rock,3.5,Mineral,NA,NA,NA,17.83333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr2,C,NA,NA,NA,2.5,Mineral,50,Rock,2,NA,NA,NA,NA,9.333333333,yes,170-C,3,2,112,1,12,11,NA,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-10,Hess Creek,HeCr2,C,NA,NA,NA,7,Mineral,85,Rock,3.25,Mineral,NA,NA,NA,9.666666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr2,C,NA,3,NA,8.5,Mineral,46,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr2,C,NA,6,NA,6,Mineral,37,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr2,C,NA,9,NA,8.5,Mineral,82,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-11,Hess Creek,HeCr3,A,NA,NA,NA,9.25,Mineral,NA,NA,NA,NA,NA,NA,NA,NA,yes,176-A,10,9,11,11,10,9,NA,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-11,Hess Creek,HeCr3,A,NA,NA,NA,40.5,Mineral,77,NA,12,Mineral,NA,NA,NA,12.33333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-11,Hess Creek,HeCr3,A,NA,NA,NA,23,Mineral,62,Rock,23,Mineral,NA,NA,NA,19.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,A,NA,3,NA,7,Mineral,101,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,A,NA,6,NA,26,Mineral,77,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,A,NA,9,NA,11,Mineral,56,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-11,Hess Creek,HeCr3,B,NA,NA,NA,8,Mineral,NA,NA,10,Mineral,NA,NA,NA,19,yes,176-B,8,9,10,10,10,9.5,NA,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-11,Hess Creek,HeCr3,B,NA,NA,NA,1.5,Mineral,NA,NA,1.5,Mineral,NA,NA,NA,8.166666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-11,Hess Creek,HeCr3,B,NA,NA,NA,45.5,Mineral,80,Frozen Ground,16.5,Mineral,NA,NA,NA,17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,B,NA,3,NA,15,Mineral,77,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,B,NA,6,NA,11.5,Mineral,79,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,B,NA,9,NA,7,Mineral,60,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-11,Hess Creek,HeCr3,C,NA,NA,NA,0,Mineral,NA,NA,0,Mineral,NA,NA,NA,10.33333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-11,Hess Creek,HeCr3,C,NA,NA,NA,21.25,Mineral,NA,NA,21.25,Mineral,NA,NA,NA,10.83333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-11,Hess Creek,HeCr3,C,NA,NA,NA,10,Mineral,NA,NA,10,Mineral,NA,NA,NA,9.333333333,yes,176-C,10,10,12,12,11,10,Legacy C combusted,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,C,NA,3,NA,27,Mineral,81,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Moved to 12.5 to avoid tussock,NA
+2024-07-22,Hess Creek,HeCr3,C,NA,6,NA,14,Mineral,101,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr3,C,NA,9,NA,13.5,Mineral,94,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,A,NA,NA,NA,23,Mineral,34,Frozen Ground,29,Mineral,NA,NA,NA,7,yes,126-A,22,22,12.5,11,11,11.5,Hit buried wood. Missed a little bit of organic soil at base of sample.,6,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,A,NA,NA,NA,32,Frozen Ground,32,Frozen Ground,32,Frozen Ground,NA,NA,NA,0.666666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,A,NA,NA,NA,29,Frozen Ground,29,Frozen Ground,29,Frozen Ground,NA,NA,NA,3.666666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr4,A,NA,6,NA,19,Mineral,101,>100cm,19,Mineral,5,7,4,5.333333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr4,A,NA,9,NA,26,Mineral,55,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr4,A,NA,3,NA,27,Mineral,58,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,B,NA,NA,NA,18.5,Mineral,63,Frozen Ground,25,Mineral,NA,NA,NA,5,yes,126-B,19,18,10,10,10,10,Perfect,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,B,NA,NA,NA,37,Mineral,65,Frozen Ground,19,Mineral,NA,NA,NA,15.33333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,B,NA,NA,NA,32,Mineral,46,Frozen Ground,32,Mineral,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr4,B,NA,3,NA,19,Mineral,91,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr4,B,NA,6,NA,28,Mineral,95,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr4,B,NA,9,NA,27,Mineral,101,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,C,NA,NA,NA,41,Mineral,55,Frozen Ground,29,Mineral,NA,NA,NA,15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,C,NA,NA,NA,27.5,Mineral,64,Frozen Ground,21,NA,NA,NA,NA,18.66666667,yes,126-C,24,22,12,8,12,8,Smaller at bottom than at top,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,C,NA,NA,NA,32.5,Mineral,NA,NA,33,Mineral,NA,NA,NA,5.666666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr4,C,NA,3,NA,25,Mineral,101,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr4,C,NA,6,NA,16,Mineral,89,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr4,C,NA,9,NA,46,Frozen Ground,46,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,A,NA,NA,NA,37,NA,46,Frozen Ground,31.5,Frozen Ground,NA,NA,NA,11.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,A,NA,NA,NA,8,Mineral,64,Frozen Ground,20,Mineral,NA,NA,NA,7,yes,164-A,7,8,13,13,9,9,NA,6,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,A,NA,NA,NA,31,Mineral,39,Frozen Ground,31,Mineral,NA,NA,NA,14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr5,A,NA,3,NA,10,Mineral,92,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr5,A,NA,6,NA,21,Mineral,101,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr5,A,NA,9,NA,11,Mineral,92,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,B,NA,NA,NA,7.5,Mineral,85,Frozen Ground,28,Frozen Ground,NA,NA,NA,5.666666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,B,NA,NA,NA,13.5,Mineral,75,Frozen Ground,27,Mineral,NA,NA,NA,10.33333333,yes,164-B,13,13,13,13,14,16,NA,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,B,NA,NA,NA,6.5,Mineral,85,Frozen Ground,5,Mineral,NA,NA,NA,19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr5,B,NA,3,NA,16,Mineral,101,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr5,B,NA,6,NA,43,Mineral,101,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr5,B,NA,9,NA,36,Mineral,101,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,C,NA,NA,NA,20.5,Mineral,66,Frozen Ground,20.5,Mineral,NA,NA,NA,10.83333333,yes,164-C,20,20,11,9,11,12,Narrower at bottom,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,C,NA,NA,NA,2.75,Mineral,NA,NA,7.5,Mineral,NA,NA,NA,2.666666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,C,NA,NA,NA,4,Mineral,73,Rock,11.5,Mineral,NA,NA,NA,7.666666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr5,C,NA,3,NA,36,Mineral,101,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr5,C,NA,6,NA,15,Mineral,75,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr5,C,NA,9,NA,26,Mineral,82,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,A,NA,NA,NA,18,Mineral,71,Frozen Ground,14.5,Mineral,NA,NA,NA,6.666666667,yes,173-A,15,14,11,7,14,12,Wedge of soil. Not the best sample.,10,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,A,NA,NA,NA,17.5,Mineral,NA,NA,18,Mineral,NA,NA,NA,11.33333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,A,NA,NA,NA,28.5,Mineral,63,Frozen Ground,19,Mineral,NA,NA,NA,6.666666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,B,NA,NA,NA,39.5,Frozen Ground,39,Frozen Ground,24.5,Mineral,NA,NA,NA,11.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,B,NA,NA,NA,23.5,Mineral,52,Frozen Ground,23.5,Mineral,NA,NA,NA,6.666666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,B,NA,NA,NA,22.5,Mineral,34,Mineral,22.5,Mineral,NA,NA,NA,3.5,yes,173-B,25,23,12,12,11,10,NA,8,NA,NA,NA,NA,Grab,NA,NA,NA
+2024-07-23,Hess Creek,HeCr6,B,NA,3,NA,16.5,Mineral,101,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr6,B,NA,6,NA,13,Mineral,85,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr6,B,NA,9,NA,23,Mineral,101,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,C,NA,NA,NA,21,Mineral,62,Frozen Ground,20.5,Mineral,NA,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,C,NA,NA,NA,42.5,"Mineral,Water",55,Frozen Ground,34,Mineral,NA,NA,NA,5.333333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,C,NA,NA,NA,36,Frozen Ground,36,Ice,14,Mineral,NA,NA,NA,4,yes,173-C,32,33,15,16,13,12,Falling apart at the bottom,0,NA,NA,NA,NA,None,NA,NA,NA
+2024-07-23,Hess Creek,HeCr6,C,NA,3,NA,27,Rock,101,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr6,C,NA,6,NA,22,Rock,101,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr6,C,NA,9,NA,36,Mineral,101,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-06-17,Isom,Isom1,A,NA,NA,NA,9.5,Mineral,30.4,Mineral,13.5,Mineral,NA,NA,NA,7.3,yes,Isom 1a,9,9.5,10.5,11,11,11,NA,9.5,NA,NA,NA,NA,Core,Wet sample not accurate,NA,NA
+2025-08-08,Isom,Isom1,A,ISOM1A3,3,1,11.5,Mineral,120,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom1,A,ISOM1A6,6,0,11,Mineral,120,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom1,A,ISOM1A9,9,0,16,Mineral,120,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-06-17,Isom,Isom1,B,NA,NA,NA,14,Mineral,25,Mineral,14,Mineral,NA,NA,NA,7.75,yes,Isom 1b,14,14,11,10,11,10,NA,14,NA,NA,NA,NA,Core,Bottom 5 frozen,NA,NA
+2025-08-08,Isom,Isom1,B,ISOM1B3,3,0,16,Mineral,118,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom1,B,ISOM1B6,6,0,21.5,Mineral,115,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom1,B,ISOM1B9,9,0,14.5,Mineral,92,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-06-17,Isom,Isom1,C,NA,NA,NA,14,Mineral,22,Mineral,22,Mineral,NA,NA,NA,7.25,yes,Isom 1c,13,13.5,9,11,12,13.5,NA,14,NA,NA,NA,NA,Core,Bottom 2cm frozen,NA,NA
+2025-08-08,Isom,Isom1,C,ISOM1C3,3,0,17,Mineral,62,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom1,C,ISOM1C6,6,0,20,Mineral,82,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom1,C,ISOM1C9,9,0,24,Mineral,63,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-06-18,Isom,Isom2,A,NA,NA,NA,28,Frozen Ground,28,Frozen Ground,19,Mineral,NA,NA,NA,5,yes,Isom 2a,14,14,12,12,10,10.5,NA,NA,NA,NA,NA,NA,None,Sold hardpan at mineral soil. 7cm airspace was felt between bottom of duff and top of mineral soil.,NA,NA
+2025-08-08,Isom,Isom2,A,ISOM2A3,3,0,19,Mineral,60,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom2,A,ISOM2A6,6,0,20,Mineral,58,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom2,A,ISOM2A9,9,2,17,Mineral,61,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-06-18,Isom,Isom2,B,NA,NA,NA,16,"Frozen Ground,Mineral",19,Frozen Ground,20,Mineral,NA,NA,NA,3.75,yes,Isom 2b,15,14,11,10.5,11.5,11.5,NA,NA,NA,NA,NA,NA,None,Frozen,NA,NA
+2025-08-08,Isom,Isom2,B,ISOM2B3,3,0.1,20.5,Mineral,72,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom2,B,ISOM2B6,6,0,27.5,Mineral,72,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom2,B,ISOM2B9,9,0.1,14,Mineral,64,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-06-18,Isom,Isom2,C,NA,NA,NA,20,Mineral,25,"Frozen Ground,Mineral",15,Mineral,NA,NA,NA,11.5,yes,Isom 2c,20,20,9.5,10,11,11,NA,NA,NA,NA,NA,NA,Core,Potentially sol in sample,NA,NA
+2025-08-08,Isom,Isom2,C,ISOM2C3,3,4,37,Mineral,62,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom2,C,ISOM2C6,6,1,25,Mineral,60,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom2,C,ISOM2C9,9,1,26,Mineral,51,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom3,A,NA,NA,NA,22,Mineral,61,Frozen Ground,26,Mineral,NA,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom3,A,NA,NA,NA,27,Mineral,65,Frozen Ground,12,Mineral,NA,NA,NA,9,yes,Isom 70A,25.5,25,9,10,10,10,NA,NA,NA,NA,NA,NA,None,Too wet,NA,NA
+2025-08-08,Isom,Isom3,A,ISOM3A3,3,0,11,Mineral,100,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom3,A,ISOM3A6,6,0,13.5,Mineral,111,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom3,A,ISOM3A9,9,0,12.5,Mineral,112,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom3,B,NA,NA,NA,19,Mineral,67,Frozen Ground,8,Mineral,NA,NA,NA,6.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom3,B,NA,NA,NA,18.5,Mineral,63,Frozen Ground,16,Mineral,NA,NA,NA,3.5,yes,Isom70B,19,19,10.5,10.5,10,11,NA,NA,NA,NA,NA,NA,Core,NA,NA,NA
+2025-08-08,Isom,Isom3,B,ISOM3B3,3,0,17,Mineral,102,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom3,B,ISOM3B6,6,0.1,14,Mineral,120,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom3,B,ISOM3B9,9,0,13.5,Mineral,120,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom3,C,NA,NA,NA,10,"Water,Mineral",72,Frozen Ground,17,Mineral,NA,NA,NA,18.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom3,C,NA,NA,NA,24.5,Mineral,60,Frozen Ground,26,Mineral,NA,NA,NA,6.5,yes,Isom70C,22,23,10,10,10,10.5,NA,NA,NA,NA,NA,NA,Core,NA,NA,NA
+2025-08-08,Isom,Isom3,C,ISOM3C3,3,0.1,17,Mineral,120,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom3,C,ISOM3C6,6,0,21,Mineral,120,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom3,C,ISOM3C9,9,0,20,Mineral,120,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom4,A,NA,NA,NA,15,Mineral,60,Frozen Ground,20,Mineral,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom4,A,NA,NA,NA,15.5,Mineral,59,Frozen Ground,20,Mineral,NA,NA,NA,5.5,yes,Isom71a,15,14,10,10,10,10,NA,NA,NA,NA,NA,NA,Core,NA,NA,NA
+2025-08-08,Isom,Isom4,A,ISOM4A3,3,1,14.5,"Mineral,Water",77,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom4,A,ISOM4A6,6,0.1,17,"Mineral,Water",85,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom4,A,ISOM4A9,9,0.1,20,"Mineral,Water",110,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom4,B,NA,NA,NA,21,Mineral,47,Frozen Ground,25,Mineral,NA,NA,NA,8,yes,Isom71c,22.5,22,10,9,11,9,NA,NA,NA,NA,NA,NA,Core,NA,NA,NA
+2023-07-24,Isom,Isom4,B,NA,NA,NA,30,Mineral,40,Frozen Ground,21,Mineral,NA,NA,NA,2.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom4,B,ISOM4B3,3,0,23,Mineral,78,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom4,B,ISOM4B6,6,0,15.5,Mineral,120,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom4,B,ISOM4B9,9,0,17,Mineral,109,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom4,C,NA,NA,NA,21,Mineral,72,Frozen Ground,15,Mineral,NA,NA,NA,5.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom4,C,NA,NA,NA,26.5,Mineral,60,Frozen Ground,17,Mineral,NA,NA,NA,3.5,yes,Isom71c,25,24,9.5,10,9.5,10,NA,NA,NA,NA,NA,NA,None,NA,NA,NA
+2025-08-08,Isom,Isom4,C,ISOM4C3,3,0,19,Mineral,120,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom4,C,ISOM4C6,6,0,28.5,Mineral,120,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom4,C,ISOM4C9,9,0,25,Mineral,120,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom5,A,NA,NA,NA,11,Mineral,58,Frozen Ground,16,Mineral,NA,NA,NA,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom5,A,NA,NA,NA,16,Mineral,54,Frozen Ground,16,Mineral,NA,NA,NA,12.5,yes,Isom 72A,16,15,9.5,9.5,9,9.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom5,A,ISOM5A3,3,0,22.5,Mineral,69,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom5,A,ISOM5A6,6,0.1,22.5,Mineral,68,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom5,A,ISOM5A9,9,0,22.5,Mineral,105,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom5,B,NA,NA,NA,16,Mineral,65,Frozen Ground,15,Mineral,NA,NA,NA,5.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom5,B,NA,NA,NA,22,Mineral,60,Frozen Ground,28,Mineral,NA,NA,NA,20,yes,Isom72B,21,21,10.5,10.5,10,10,NA,NA,NA,NA,NA,NA,Core,NA,NA,NA
+2025-08-08,Isom,Isom5,B,ISOM5B3,3,0,15,Mineral,101,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom5,B,ISOM5B6,6,0.1,15,Mineral,67,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom5,B,ISOM5B9,9,0,11.5,Mineral,90,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom5,C,NA,NA,NA,16,Mineral,70,Frozen Ground,11,Mineral,NA,NA,NA,14,yes,Isom72C,15.5,15.5,10,10,10,10,NA,NA,NA,NA,NA,NA,Core,NA,NA,NA
+2023-07-24,Isom,Isom5,C,NA,NA,NA,19,Mineral,62,Frozen Ground,26,Mineral,NA,NA,NA,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom5,C,ISOM5C3,3,0,21,Mineral,62,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom5,C,ISOM5C6,6,0.1,22,Mineral,60,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom5,C,ISOM5C9,9,0,16.5,Mineral,65,Frozen Ground,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Lost Horse,HeCr6,A,NA,6,NA,16,Mineral,101,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Lost Horse,HeCr6,A,NA,9,NA,11,Mineral,101,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-23,Lost Horse,HeCr6,A,NA,3,NA,24,Mineral,101,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo1,A,NA,9,NA,10,Mineral,54,Rock,7.5,Mineral,12,7,NA,9.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo1,A,NA,6,NA,6.5,Mineral,63,Rock,9,Mineral,19,13,5,12.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo1,A,NA,3,NA,1,Mineral,60,Rock,1.5,Mineral,19,12,1,10.666666666666666,yes,LoHo1A,9,10,13,12,12,10,Some green moss under burned moss,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-07-15,Lost Horse,LoHo1,B,NA,9,NA,1,Mineral,16,Rock,2,Mineral,24,25,13,20.666666666666668,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo1,B,NA,6,NA,16.5,Mineral,53,Rock,1,Mineral,18,17,11,15.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo1,B,NA,3,NA,7.5,Rock,55,Rock,0.5,Mineral,13,17,11,13.666666666666666,yes,LoHo1B,7.5,8,10,10,10.5,12,NA,NA,5,NA,5,NA,Core,Crumbly,NA,NA
+2024-07-15,Lost Horse,LoHo1,C,NA,9,NA,14.5,Mineral,63,Rock,0.5,Mineral,12,15,16,14.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo1,C,NA,6,NA,11.5,Mineral,21,Rock,12.5,Mineral,11,10,8,9.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo1,C,NA,3,NA,5,Mineral,32,Rock,1.5,Mineral,5,7,6.5,6.166666666666667,yes,LoHo1C,4.5,5,9,9,10,10,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-07-15,Lost Horse,LoHo2,A,NA,3,NA,11,Mineral,55,Rock,22,Mineral,8,4,3,5,yes,LoHo2A,11,10,11,10,10,10,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-07-15,Lost Horse,LoHo2,A,NA,9,NA,10,Mineral,120,>100cm,0.5,Mineral,23,20,NA,21.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo2,A,NA,6,NA,10.5,Mineral,74,Rock,8,Mineral,18,12,11,13.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo2,B,NA,3,NA,12,Mineral,83,Rock,11.5,Mineral,14,10,9,11,yes,LoHo2B,14,13.5,10.5,10.5,14,12,NA,NA,5,NA,3,NA,Core,Rocky,NA,NA
+2024-07-15,Lost Horse,LoHo2,B,NA,6,NA,9.5,Mineral,78,Rock,8.5,Mineral,3,5.5,4,4.166666666666667,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo2,B,NA,9,NA,14,Mineral,67,Rock,14,Mineral,4,6,5,5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo2,C,NA,3,NA,6,"Mineral,Rock",67,Rock,3.5,Mineral,21,18,19,19.333333333333332,yes,LoHo2C,7,5.5,8.5,10,9,NA,NA,NA,5,NA,5,NA,Core,Big rock removed before mineral,NA,NA
+2024-07-15,Lost Horse,LoHo2,C,NA,6,NA,13,Mineral,65,Rock,4,Mineral,13,11,13.5,12.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo2,C,NA,9,NA,5.5,Mineral,77,Rock,5.5,Mineral,16,18,24,19.333333333333332,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo3,A,NA,3,NA,10,Mineral,100,Rock,6.5,Mineral,9,10.5,13,10.833333333333334,yes,LoHo3A,10,10,9,9,11.5,12,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-07-15,Lost Horse,LoHo3,A,NA,6,NA,8.5,Mineral,75,Rock,1.5,Mineral,18,13,8,13,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo3,A,NA,9,NA,9.5,Mineral,85,Rock,9.5,Mineral,9,14,18,13.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo3,B,NA,9,NA,11,Mineral,67,Rock,8,Mineral,17,13,7,12.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo3,B,NA,6,NA,17,Mineral,83,Rock,18,Mineral,10,6,11,9,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo3,B,NA,3,NA,9.5,Mineral,120,">100cm,Rock",7.6,Mineral,6,5,4.5,5.166666666666667,yes,LoHo3B,8,7.5,10.5,11,10.5,11,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-07-15,Lost Horse,LoHo3,C,NA,9,NA,10.5,Mineral,74,Rock,8,Mineral,13,16,13,14,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo3,C,NA,6,NA,5.5,Mineral,89,Rock,6,Mineral,12,10,7.5,9.833333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo3,C,NA,3,NA,10.5,"Mineral,Rock",82,Frozen Ground,4.5,Mineral,22,20,21,21,yes,LoHo3C,10,9.5,10,11,10,10,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-07-18,Lost Horse,LoHo4,A,NA,3,NA,2,Mineral,54,Rock,0.1,Mineral,5,9,8,7.333333333333333,yes,LoHo4A,2,1.5,5.5,7,7,6.5,Vey thin burned organic layer,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-07-18,Lost Horse,LoHo4,A,NA,6,NA,3.5,Mineral,70,Ice,9,Mineral,13,18,8,13,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo4,A,NA,9,NA,6,Mineral,55,Rock,0.5,Mineral,28,18,17,21,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo4,B,NA,3,NA,0,Mineral,79,Rock,1,Mineral,21,18,22,20.333333333333332,yes,LoHo4B,0,0,0,0,0,0,"No organic, burned to mineral",NA,5,NA,5,NA,Core,"Really crumbly m1, top 2 cm ashy. Because no organic sample, top of m1 had fine pieces or organic material.",NA,NA
+2024-07-18,Lost Horse,LoHo4,B,NA,6,NA,15,Mineral,70,Ice,7,Mineral,12,4,4,6.666666666666667,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo4,B,NA,9,NA,11,Mineral,56,Rock,15,Mineral,4,9,9,7.333333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo4,C,NA,6,NA,13,Mineral,101,>100cm,12.5,Mineral,3,2,1,2,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo4,C,NA,3,NA,18,Mineral,92,Ice,1.5,Mineral,19,11,10,13.333333333333334,yes,LoHo4C,27.5,18,10,10,13,12.5,Big! Lots of dead moss,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-07-18,Lost Horse,LoHo4,C,NA,9,NA,11,Mineral,98,Ice,4,Mineral,12,6,10,9.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo5,A,NA,3,NA,16,Mineral,101,>100cm,2.5,Mineral,16,7,8,10.333333333333334,yes,LoHo5A,16,16,11,11,11,10,Roots!!,NA,5,NA,5,NA,Core,Removed 3 cm of rock between organic and mineral,NA,NA
+2024-07-18,Lost Horse,LoHo5,A,NA,6,NA,1.5,Mineral,86,Rock,1.5,Mineral,16,10,8.5,11.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo5,A,NA,9,NA,9.5,Mineral,78,Rock,1.5,Mineral,13,8.5,7,9.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo5,B,NA,3,NA,13,Mineral,73,Rock,8,Mineral,10.5,7.5,5,7.666666666666667,yes,LoHo5B,15,14,11,11,10,10,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-07-18,Lost Horse,LoHo5,B,NA,6,NA,18.5,Rock,100,>100cm,20,Rock,11,3.5,NA,7.25,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo5,B,NA,9,NA,1.5,Mineral,49,Rock,4,Mineral,18,15.5,22,18.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo5,C,NA,3,NA,17,"Mineral,Rock",89,Rock,20.5,Mineral,9,12.5,12,11.166666666666666,yes,LoHo5C,17,16,10,10,11.5,11.5,NA,NA,5,NA,0,NA,Core,NA,4cm of rock/mineral/organic that was removed,NA
+2024-07-18,Lost Horse,LoHo5,C,NA,6,NA,10.5,Mineral,88,Rock,15,Rock,4.5,5,NA,4.75,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo5,C,NA,9,NA,20,"Mineral,Rock",71,Rock,13,Mineral,14,7,5,8.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo6,A,NA,3,NA,12,"Mineral,Organic",85,Rock,3.5,Mineral,11,17,NA,14,yes,LoHo6A,13,12,11,10,12,12,NA,NA,5,NA,5,NA,Core,About 6 cm of rock removed between organic and mineral.,NA,NA
+2024-07-18,Lost Horse,LoHo6,A,NA,6,NA,4.5,"Mineral,Organic",78,Rock,5,"Mineral,Rock",16,12,12,13.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo6,A,NA,9,NA,5,"Mineral,Organic",61,Rock,7,Rock,11,10,NA,10.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo6,B,NA,3,NA,7,"Mineral,Organic",89,Rock,9,Rock,10,11,14,11.666666666666666,yes,LoHo6B,7,6,10,10,10,9.5,NA,NA,5,NA,5,NA,Core,About 2cm of rocks removed between organic and mineral,NA,NA
+2024-07-18,Lost Horse,LoHo6,B,NA,6,NA,9,"Mineral,Organic",93,Rock,9,"Mineral,Rock",14,10,NA,12,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo6,B,NA,9,NA,9,"Mineral,Organic",74,Rock,6.5,Rock,15,12,19,15.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo6,C,NA,3,NA,9.5,"Mineral,Organic",70,Rock,2.5,Mineral,10,8,NA,9,yes,LoHo6C,9,10,10,10.5,9,9,"This is crumbling and bottom is falling apart 
+Litter mixed in with it.",NA,5,NA,5,NA,Core,NA,Removed 6cm of rock between organic and mineral,NA
+2024-07-18,Lost Horse,LoHo6,C,NA,6,NA,8,"Mineral,Organic",53,Rock,4.5,"Mineral,Rock",17,12,NA,14.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo6,C,NA,9,NA,5,"Mineral,Organic",68,Rock,0.5,Mineral,18,17,NA,17.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr1,A,NA,3,NA,25,"Mineral,Water",57,Frozen Ground,27,"Mineral,Water",5,3,4,4,yes,McCr1A,24,25,12,11,10,9,"Sphagnum, standing water at 20 cm, mineral at 37",NA,5,NA,0,NA,Grab,"Unable to core volumetrically, m1 sample is approximate depth grab sample from core estimated based on hole depth. No m2 sample.","Very wet, standing water while sampling, ar hole depth to mineral",NA
+2024-07-28,McCoy Creek,McCr1,A,NA,6,NA,6.5,Mineral,48,Frozen Ground,22,Mineral,6,7,NA,6.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6.5 cm of standing water above soil surface,NA
+2024-07-28,McCoy Creek,McCr1,B,NA,3,NA,27,Mineral,39,Frozen Ground,27,Mineral,3,5.5,NA,4.25,yes,McCr1B,23.5,21,10,9,12,12,"Bottom 2.5 cm organic came off with corer, in own bag for processing",NA,5,NA,5,NA,Core,Top 2 cm mineral mixed with organic,"Sampling between tussocks, very wet, standing water at 30 cm depth, AR hole depth same as sample depth",NA
+2024-07-28,McCoy Creek,McCr1,B,NA,6,NA,23,"Water,Mineral",39,Frozen Ground,19,Mineral,11,10,12,11,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Standing water at 10 cm below surface,NA
+2024-07-28,McCoy Creek,McCr1,C,NA,3,NA,24,"Mineral,Water",56,Frozen Ground,34,Mineral,20,20,7,15.666666666666666,yes,McCr1C,23,24,9,9,13,12,NA,NA,5,NA,5,NA,Core,Char in mineral sample! Legacy c!,NA,NA
+2024-07-28,McCoy Creek,McCr1,C,NA,6,NA,28,Mineral,50,Frozen Ground,42,"Frozen Ground,Mineral",3,5.5,4,4.166666666666667,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr2,A,NA,3,NA,15,Mineral,46,Frozen Ground,17,Mineral,6,7,NA,6.5,yes,McCr2A,13,14,11,10,10,10,NA,NA,5,NA,5,NA,Core,NA,Sampled between 2 tussocks,NA
+2024-07-29,McCoy Creek,McCr2,A,NA,6,NA,29,Mineral,55,Frozen Ground,29,Mineral,8,12,NA,10,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AR and transect SOL the same hole measurement,NA
+2024-07-29,McCoy Creek,McCr2,B,NA,3,NA,13,Mineral,62,Frozen Ground,17,Mineral,7,7,10,8,yes,McCr2B,10,12,9,8,9,9,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-07-29,McCoy Creek,McCr2,B,NA,6,NA,19.5,Mineral,88,Frozen Ground,11,Mineral,10,12,NA,11,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr2,C,NA,3,NA,20,Mineral,39,Frozen Ground,30,Mineral,4,8,2,4.666666666666667,yes,McCr2C,22,20.5,6,9,11,10,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-07-29,McCoy Creek,McCr2,C,NA,6,NA,31,Mineral,47,Frozen Ground,31,Mineral,8,10,4,7.333333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AR Hole depth same as transect hole,NA
+2024-08-07,McCoy Creek,McCr3,A,NA,3,0,18.5,Mineral,61,Frozen Ground,16,Mineral,11,12,11,11.333333333333334,yes,McCr3A,19,20,10,10,10,10,NA,NA,5,NA,5,NA,Core,NA,NA,2fe2b587-0c51-4b79-8487-2f7fa6ce7fef
+2024-08-07,McCoy Creek,McCr3,A,NA,6,0,26,Mineral,73,"Rock,Frozen Ground",22,Mineral,13,8,NA,10.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-07,McCoy Creek,McCr3,B,NA,3,1,5,Mineral,81,Frozen Ground,2,Mineral,10,11,12,11,yes,McCr3B,5,5.5,10.5,10.5,10.5,10,Green moss here is Merchantia,NA,5,NA,5,NA,Core,NA,Ar on downed tree,"41e3c822-6c09-4f51-9248-4f0f1cfa9ce5,5eac3001-1f90-42df-818d-9d167557e1f2"
+2024-08-07,McCoy Creek,McCr3,B,NA,6,0.1,10,Mineral,80,Frozen Ground,15,Mineral,17,18,23,19.333333333333332,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-07,McCoy Creek,McCr3,C,NA,3,0,31.5,Mineral,48,Frozen Ground,40,Mineral,9.5,11.5,9,10,yes,McCr3C,31,31.5,11,11,10.5,10,NA,NA,5,NA,5,NA,Core,Hit frozen ground,NA,0ee3af13-f0ea-4bf5-b625-69eef1ba9bfa
+2024-08-07,McCoy Creek,McCr3,C,NA,6,0,51,Mineral,60,Frozen Ground,59,Mineral,2,3,2.5,2.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr4,A,NA,6,NA,7,Mineral,82,Rock,1.5,Mineral,14,23.5,23,20.166666666666668,no,NA,NA,NA,NA,NA,NA,NA,Burned moss hummock,NA,NA,NA,NA,NA,NA,NA,AR SOL is char and green moss,NA
+2024-07-28,McCoy Creek,McCr4,A,NA,3,NA,3,Mineral,86,Frozen Ground,5.5,Mineral,19,17,23,19.666666666666668,yes,McCr4A,3.5,4,9.5,10.5,12,12,Organic primarily char and charred CWD,NA,5,NA,5,NA,Core,"Top of mineral appears mixed with organic, lots of fine roots",NA,NA
+2024-07-28,McCoy Creek,McCr4,B,NA,6,NA,1,Mineral,101,>100cm,0.1,Mineral,22,20.5,NA,21.25,no,NA,NA,NA,NA,NA,NA,NA,All remaining organic is char,NA,NA,NA,NA,NA,NA,NA,"AR tree uprooted, measuring depth of AR to remaining soil on tree roots. Soil on roots is mineral, with green moss growing on top, depth here is the depth of green moss to mineral soil on exposed roots.",NA
+2024-07-28,McCoy Creek,McCr4,B,NA,3,NA,2.5,Mineral,101,>100cm,0.1,Mineral,23,24,NA,23.5,yes,McCr4B,1.5,1.5,9,9.5,10,10.5,NA,NA,5,NA,5,NA,Core,NA,"AR tree uprooted, measuring adventitious roots to remaining mineral soil on roots, only organic on AR tree is green moss",NA
+2024-07-28,McCoy Creek,McCr4,C,NA,6,NA,1,Mineral,101,>100cm,1,Mineral,7,8,8,7.666666666666667,no,NA,NA,NA,NA,NA,NA,NA,"Remaining organic is entirely char, both for transect and AR",NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr4,C,NA,3,NA,1.5,Mineral,101,>100cm,2.5,Mineral,18.5,22,25.5,22,yes,McCr4C,1.5,1.5,10,9.5,12,11.5,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-07-28,McCoy Creek,McCr5,A,NA,3,NA,35,Frozen Ground,35,Frozen Ground,34,Frozen Ground,1.5,3,3,2.5,yes,McCr5A,37,38,9,8,14,12,Frozen ground before mineral,NA,0,NA,0,NA,NA,"No mineral samples, hit frozen ground before mineral for both transect and AR",NA,NA
+2024-07-28,McCoy Creek,McCr5,A,NA,6,NA,37,"Mineral,Frozen Ground",42,Frozen Ground,37,"Frozen Ground,Mineral",8,10,13,10.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Tiny bit of mineral before frozen ground, AR and transect are same depth measurement hole",NA
+2024-07-28,McCoy Creek,McCr5,B,NA,3,NA,39,Mineral,60,Frozen Ground,22,Mineral,5,3,6,4.666666666666667,yes,McCr5B,36,38,12,10,11,10,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-07-28,McCoy Creek,McCr5,B,NA,6,NA,47,"Frozen Ground,Mineral",57,Frozen Ground,33,"Water,Mineral",13.5,3,NA,8.25,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr5,C,NA,3,NA,43,Mineral,55,Frozen Ground,29.5,Mineral,5,2,6,4.333333333333333,yes,McCr5C,40,38,9,11,10,7,NA,NA,5,NA,0,NA,Core,NA,"No m2 sample, hit frozen ground at bottom of m1 sample",NA
+2024-07-28,McCoy Creek,McCr5,C,NA,6,NA,33,Mineral,50,Frozen Ground,36,Frozen Ground,3,2,4,3,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr6,A,NA,3,NA,28,Mineral,68,Frozen Ground,32,Mineral,3.5,4,NA,3.75,yes,McCr6A,23,25,12,8,10,11,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-07-29,McCoy Creek,McCr6,A,NA,6,NA,41,Mineral,48,Frozen Ground,31,Mineral,4,6,NA,5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr6,B,NA,3,NA,23,Mineral,61,Frozen Ground,35,Mineral,21,12.5,6,13.166666666666666,yes,McCr6B,27,24,11,9,11.5,23,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-07-29,McCoy Creek,McCr6,B,NA,6,NA,37,Mineral,56,Frozen Ground,30,Mineral,3,10,NA,6.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr6,C,NA,3,NA,20,"Mineral,Water",52,Frozen Ground,29,Mineral,18,5,NA,11.5,yes,McCr6C,20,19,10,11,11.5,10,NA,NA,5,NA,0,NA,Both,"M1 sample taken with corer, M2 sample grab below core hole, likely influenced by standing water","Sample taken at 3.5 m because of large CWD, water filling hole as coring",NA
+2024-07-29,McCoy Creek,McCr6,C,NA,6,NA,33,Mineral,51,Frozen Ground,31,Mineral,39,6,30,25,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,McDonald,McDo1,A,MCDO1A3,3,0,11.5,Mineral,90,Frozen Ground,2,Mineral,12,10,15,12.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,McDonald,McDo1,A,MCDO1A6,6,0,10,Mineral,91,Frozen Ground,1.5,Mineral,10,9,9,9.333333333333334,yes,Mcdo1a,10.5,9.5,10.5,10.5,10,11,NA,NA,5,5,5,5,NA,NA,NA,NA
+2025-07-25,McDonald,McDo1,A,MCDO1A9,9,0.1,1,Mineral,89,Frozen Ground,1,Mineral,12,10,16,12.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,McDonald,McDo1,B,MCDO1B3,3,0,14,Mineral,90,Frozen Ground,26,Mineral,5,6,7,6,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,McDonald,McDo1,B,MCDO1B6,6,0,12,Mineral,80,Frozen Ground,7,Mineral,4,6,10,6.666666666666667,yes,Mcdo1b,12,12,9,11,10.5,10.5,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-25,McDonald,McDo1,B,MCDO1B9,9,0,9.5,Mineral,85,Frozen Ground,4.5,Mineral,9,8.5,13,10.166666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,McDonald,McDo1,C,MCDO1 C3,3,0,12.5,Mineral,110,>100cm,11,Mineral,7,10,5,7.333333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,McDonald,McDo1,C,MCDO1 C6,6,0,17,Mineral,90,Frozen Ground,13,Mineral,3,4,1,2.6666666666666665,yes,McDo1 c,17,17,12,11.5,10,10.5,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-25,McDonald,McDo1,C,MCDO1 C9,9,0,3,Mineral,110,>100cm,3,Mineral,15,16,14,15,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,McDonald,McDo2,A,MCDO2A3,3,0,17,"Mineral,Water",65,"Frozen Ground,Ice",20,"Mineral,Water",4,8,6,6,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,McDonald,McDo2,A,MCDO2A6,6,0,23,"Mineral,Water",71,Ice,21,"Mineral,Water",7.5,2.5,2,4,yes,A6,17,16.5,10.5,11,11,10.5,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2025-07-25,McDonald,McDo2,A,MCDO2A9,9,0,22,"Mineral,Water",70,Ice,26,"Mineral,Water",11,6,7,8,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9m in water sampled a little further away,NA,NA
+2025-07-25,McDonald,McDo2,B,MCDO2B3,3,0,25,"Mineral,Water",50,Frozen Ground,28,"Mineral,Water",12,10,7,9.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,McDonald,McDo2,B,MCDO2B6,6,0,17,Mineral,55,Frozen Ground,30,"Mineral,Water",2,1.5,1,1.5,yes,B6,17,17.5,9,9.5,11,11.5,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2025-07-25,McDonald,McDo2,B,MCDO2B9,9,9,23,"Mineral,Water",55,Frozen Ground,21,"Mineral,Water",6,7,6.5,6.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,McDonald,McDo2,C,MCDO2C3,3,0,25,"Mineral,Water",53,Frozen Ground,21,"Mineral,Water",5,4,4,4.333333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,McDonald,McDo2,C,MCDO2C6,6,0,12,Mineral,50,Frozen Ground,21,Mineral,5,5,6,5.333333333333333,yes,C6,12,13,12,12.5,11,10.5,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2025-07-25,McDonald,McDo2,C,MCDO2C9,9,0,28.5,"Mineral,Water",51,Frozen Ground,21.5,Mineral,5,8.5,8,7.166666666666667,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,McDonald,McDo3,A,MCDO3A3,3,0,13.5,Mineral,75,Frozen Ground,13.5,Mineral,2,1,3,2,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,McDonald,McDo3,A,MCDO3A6,6,0,9.5,Mineral,72,Frozen Ground,16,Mineral,6,5,7,6,yes,McDo3 a,9.5,10,13,12.5,14,13.5,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-25,McDonald,McDo3,A,MCDO3A9,9,0,17,Mineral,78,Frozen Ground,4,Mineral,14,9,9,10.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,McDonald,McDo3,B,MCDO3B3,3,0,27,Mineral,75,Frozen Ground,25,Mineral,6,7,5,6,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,McDonald,McDo3,B,MCDO3B6,6,0.5,9.5,Mineral,105,Frozen Ground,6,Mineral,14,12,24,16.666666666666668,yes,McDo3 b,10.5,11.5,13,13.5,9.5,10,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-25,McDonald,McDo3,B,MCDO3B9,9,0,15,"Mineral,Water",110,>100cm,22,"Mineral,Water",3,4,3,3.3333333333333335,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,McDonald,McDo3,C,MCDO3C3,3,0.1,10.5,Rock,110,Frozen Ground,10.5,Mineral,19,21,17,19,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-25,McDonald,McDo3,C,MCDO3C6,6,0,13,Mineral,110,Frozen Ground,22,"Mineral,Water",6,7,6,6.333333333333333,yes,McDo3 c,12.5,13,10,10,9.5,10,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-25,McDonald,McDo3,C,MCDO3C9,9,0,17,Mineral,110,>100cm,10,Mineral,9,9,12,10,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo4,A,MCDO4A3,3,0,6,Mineral,101,Frozen Ground,6,Mineral,15,13,12,13.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo4,A,MCDO4A6,6,0,8,Mineral,90,Frozen Ground,12,"Mineral,Water",28,13,15,18.666666666666668,yes,A6,7,9.5,11.5,11.5,11,10.5,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2025-07-29,McDonald,McDo4,A,MCDO4A9,9,NA,28,Mineral,81,Frozen Ground,26,Mineral,24,30,16,23.333333333333332,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo4,B,MCDO4B3,3,0.1,7,Mineral,120,>100cm,21,Mineral,18,13,22,17.666666666666668,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo4,B,MCDO4B6,6,0,15,Mineral,120,>100cm,18,Mineral,16,15,4,11.666666666666666,yes,B6,15,15.5,11,11.5,8.5,9,NA,NA,5,NA,5,NA,Core,Very muddy can’t measure accurately,NA,NA
+2025-07-29,McDonald,McDo4,B,MCDO4B9,9,0,28,Mineral,75,Frozen Ground,29,Mineral,7,3,4,4.666666666666667,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo4,C,MCDO4C3,3,0,20,Mineral,105,Frozen Ground,28,Mineral,5,4,2,3.6666666666666665,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo4,C,MCDO4C6,6,0,15,"Mineral,Water",93,Frozen Ground,30,Mineral,6,5,5,5.333333333333333,yes,C6,14,15.5,10.5,10.5,11,10.5,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2025-07-29,McDonald,McDo4,C,MCDO4C9,9,0,28,"Mineral,Water",120,>100cm,28,"Mineral,Water",3,10,5,6,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo5,A,MCDO5A6,6,0,33.5,Mineral,42,Frozen Ground,37,"Mineral,Water",4,5,1,3.3333333333333335,yes,A6,33,34,12,9.5,12,11.5,Has mix mineral starts at 15.5,NA,5,NA,5,NA,Core,Half grab,NA,NA
+2025-07-29,McDonald,McDo5,A,MCDO5A3,3,0,26,Mineral,104,Rock,28.5,Mineral,3,3,3,3,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo5,A,MCDO5A9,9,0,15,Mineral,52,Frozen Ground,15,Mineral,13,16,14,14.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo5,B,MCDO5B3,3,0,19,Mineral,55,Frozen Ground,22,"Mineral,Water",5,4,3,4,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo5,B,MCDO5B6,6,0,36,"Ice,Water",32,Frozen Ground,25,"Mineral,Water",5,3,7,5,yes,B6,35.5,36,11,10,9.5,9.5,Transitions at 13.5,NA,NA,NA,NA,NA,NA,Ice can’t grab,NA,NA
+2025-07-29,McDonald,McDo5,B,MCDO5B9,9,0,36,"Mineral,Water",55,Ice,36,"Mineral,Water",16,14,5,11.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,Hit hornet nest went further than 1m,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo5,C,MCDO5C3,3,0,32,Mineral,48,Frozen Ground,24,Mineral,5,7,5,5.666666666666667,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo5,C,MCDO5C6,6,0,25.5,Mineral,45,Frozen Ground,25.5,Mineral,7,5,4,5.333333333333333,yes,C9,25,26,9,9.5,10,9,NA,NA,5,NA,5,NA,Grab,NA,NA,NA
+2025-07-29,McDonald,McDo5,C,MCDO5C9,9,0,48,"Frozen Ground,Mineral,Water",55,Frozen Ground,48,"Frozen Ground,Mineral,Water",3,5,4,4,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo6,A,MCDO6A6,6,0,21,Mineral,50,Frozen Ground,22,Mineral,7,6,6,6.333333333333333,yes,A6,21,21.5,10.5,11,8,8,NA,NA,5,5,5,5,Grab,Hit ice,NA,NA
+2025-07-29,McDonald,McDo6,A,MCDO6A3,3,0,15,Mineral,54,Frozen Ground,35,Mineral,5,4,2,3.6666666666666665,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo6,A,MCDO6A9,9,0,44,"Mineral,Water",61,Frozen Ground,44,"Mineral,Water",7,9,4,6.666666666666667,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo6,B,MCDO6B3,3,0,43,"Mineral,Water",55,Frozen Ground,36,"Mineral,Water",10,4,2,5.333333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo6,B,MCDO6B6,6,0,16,Mineral,45,Frozen Ground,16,Mineral,8,8,23,13,yes,B6,16,15.5,10.5,11,9,11,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-29,McDonald,McDo6,B,MCDO6B9,9,0,52,"Frozen Ground,Mineral",52.5,Frozen Ground,21.5,Mineral,27,21,15,21,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo6,C,MCDO6C3,3,0,27,Mineral,50,Frozen Ground,28,Mineral,4,7,28,13,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo6,C,MCDO6C6,6,0,1,Mineral,50,Frozen Ground,33,Mineral,4,5,2,3.6666666666666665,yes,C6,18,17.5,10,9.5,10.5,10.5,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-29,McDonald,McDo6,C,MCDO6C9,9,0,36,Mineral,47,Frozen Ground,34,Mineral,6,4,9,6.333333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr1,A,NA,3,0,15,Mineral,49,Rock,30,Mineral,5.5,3.5,NA,4.5,yes,MuCr1A,14,13.5,10,10,10,10.5,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-08-01,Munson Creek,MuCr1,A,NA,6,0,8,Mineral,51,Rock,5,Mineral,9.5,3,5,5.833333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr1,B,NA,3,0,6,Mineral,72,Rock,12.5,Mineral,1.5,2,7,3.5,yes,MuCr1B,7.5,4.5,10.5,11.5,11,10,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-08-01,Munson Creek,MuCr1,B,NA,6,0,17,Mineral,69,Rock,17,Mineral,7,5,6,6,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr1,C,NA,3,0,8.5,Mineral,82,Rock,6,Mineral,6,10,NA,8,yes,MuCr1C,10.5,5,10.5,11,12.5,12,"SOL is uneven, so sample may contain some mineral",NA,5,NA,5,NA,Core,Odd organic deposit below m1 and mixed with m2. Bottom 6 cm of mineral core,NA,"4e6679ca-d165-4b05-ad56-41a42003e1b6,3ec750c6-e573-4cbb-b785-edb4a79cd236"
+2024-08-01,Munson Creek,MuCr1,C,NA,6,0,32,Mineral,58,Frozen Ground,31,Mineral,14,9,18,13.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Between burned tussocks,NA
+2024-08-01,Munson Creek,MuCr2,A,NA,3,0.1,11,Mineral,18,Rock,10,Rock,18,16,20,18,yes,MuCr2A,9.5,8,11,11,11,10,Bottom uneven due to rocks,NA,0,NA,0,NA,NA,No mineral. Pure rock under organic,NA,"0f9bcacd-1611-47ba-8a96-a176b57eeb4f,59a4a4d3-127c-4dcc-8594-7b99bf2df5ed"
+2024-08-01,Munson Creek,MuCr2,A,NA,6,0,9.5,Rock,18,Rock,28,Rock,11,7,NA,9,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr2,B,NA,6,0,24,Rock,27,Rock,8,Rock,18,13,NA,15.5,yes,MuCr2B,22,20,9,11,10,11,NA,NA,0,NA,0,NA,Grab,"Removed 10 cm of rock between org and min. Took grab sample below that, unknown depth. In M1 bag. Still very rocky.",NA,787b3ef1-02c3-44cb-a3e9-75b74616630c
+2024-08-01,Munson Creek,MuCr2,B,NA,9,0,26,Rock,26,Rock,37,Rock,23,34,26,27.666666666666668,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr2,C,NA,3,0,22.5,Rock,65,Rock,5.5,Rock,32,27,NA,29.5,yes,MuCr2C,22,24,10.5,11,13,11,Sample taken from a burned sphagnum hummock. Mosaics of hummocks across hillside,NA,4,NA,0,NA,Grab,Too rocky to sample mineral. Removed 12 cm of rock and took grab sample of about 4 cm. Contains charcoal! In M1 bag.,"Sample taken on sphagnum hummock. No nearby trees also in hummock, tree AR measured at was burned almost to rock.",5da068de-cd63-4382-8bb8-7f349ed343d4
+2024-08-01,Munson Creek,MuCr2,C,NA,6,0,19,Rock,24,Rock,8,Rock,22,21,23,22,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr3,A,NA,3,0,22,Mineral,32,Frozen Ground,22,Mineral,15,13,17,15,yes,MuCr3A,22,20,10,10,11,10.5,NA,NA,5,NA,4.5,NA,Core,NA,NA,NA
+2024-08-01,Munson Creek,MuCr3,A,NA,6,0,24,Mineral,44,Frozen Ground,22,Mineral,15,6,12,11,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr3,B,NA,3,0,24,Mineral,45,Frozen Ground,25,Mineral,12,11,7.5,10.166666666666666,yes,MuCr3B,25,26,8,7,10,11,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-08-01,Munson Creek,MuCr3,B,NA,6,0,51,Mineral,62,Frozen Ground,51,Mineral,4,5,3,4,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Lightly burned sphagnum,NA
+2024-08-01,Munson Creek,MuCr3,C,NA,3,3.5,29,"Mineral,Water",42,Frozen Ground,27.5,Mineral,6,10,NA,8,yes,MuCr3C,24,26,12,11,10,9,Unburned sphagnum. Take that into account when thinking about green moss.,NA,3,NA,8,NA,Both,"M1 came off with brownie. Depth of 3 but length and width of brownie. M2 taken with corer below. As sampling hole filled with water, so depth might not be accurate. Cored until frozen ground",NA,d4c9102e-27ec-4abe-955b-7dd96c08e17d
+2024-08-01,Munson Creek,MuCr3,C,NA,6,0,19,"Mineral,Water",36,Frozen Ground,23,"Mineral,Water",3,4,NA,3.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-04,Munson Creek,MuCr4,A,NA,3,1.5,4.5,"Mineral,Rock",73,Rock,8,Mineral,5,6,5,5.333333333333333,yes,MuCr4A,6,5.5,10,10,10.5,10.5,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-08-04,Munson Creek,MuCr4,A,NA,6,0,9,Mineral,87,Rock,5.5,Mineral,5.5,8,7,6.833333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-04,Munson Creek,MuCr4,B,NA,3,0,9,Mineral,101,>100cm,9,"Mineral,Rock",14,24,20,19.333333333333332,yes,MuCr4B,11,12,8.5,9.5,10,9,Crumbly,NA,5,NA,5,NA,Core,NA,NA,26f0b36c-6aea-445e-a7ec-83194761c58b
+2024-08-04,Munson Creek,MuCr4,B,NA,6,0,34,"Mineral,Rock",101,"Rock,>100cm",38,"Mineral,Rock",14,10,NA,12,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-04,Munson Creek,MuCr4,C,NA,3,0,36,Rock,92,Rock,33,"Mineral,Rock",17,13,28,19.333333333333332,yes,MuCr4C,36.5,36.5,9,10.5,9.5,11,NA,NA,6.5,NA,6.5,NA,Core,"Top of mineral had organic soil plus large sand/gravel. Volumetric core taken to 13cm, but sample totally non consolidated, so fell apart immediately. Split in half for m1 and :2",NA,187f5313-0e62-4baf-a6f8-dcb6f3f5845a
+2024-08-04,Munson Creek,MuCr4,C,NA,6,0,19,"Mineral,Rock",89,Rock,9,"Mineral,Rock",16,9,17,14,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-04,Munson Creek,MuCr5,A,NA,3,0.1,30,Mineral,75,Rock,22,Mineral,6,7,NA,6.5,yes,MuCr5A,31,34,8,10,9.5,10,NA,NA,6,NA,3.5,NA,Core,"M1 very crumbly, both mixed with gravel",NA,NA
+2024-08-04,Munson Creek,MuCr5,A,NA,6,0.5,6,Mineral,48,Rock,19,"Mineral,Rock",9,8,7,8,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-04,Munson Creek,MuCr5,B,NA,3,0.1,23,Mineral,101,>100cm,24,"Mineral,Rock",13,11,16,13.333333333333334,yes,MuCr5B,29,27,9.5,10,9,9.5,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-08-04,Munson Creek,MuCr5,B,NA,6,0.5,30,"Mineral,Rock",101,>100cm,35,"Mineral,Rock",5,13,23,13.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-04,Munson Creek,MuCr5,C,NA,3,0,16,"Mineral,Rock",87,Rock,15,"Mineral,Rock",19,23,25,22.333333333333332,yes,MuCr5C,17,19,10,11,10,9.5,NA,NA,14.5,NA,0,NA,Core,"Mineral extremely gravelly, fell apart after removing from corer, all in M1",NA,dc97aa88-5f9f-4b9a-bab7-cc0d71e9b918
+2024-08-04,Munson Creek,MuCr5,C,NA,6,0,28,"Mineral,Rock",101,>100cm,34,"Mineral,Rock",35,54,47,45.333333333333336,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr1,A,NA,3,NA,5.5,Mineral,47,Rock,4.5,Mineral,14,19,15,16,yes,NuCr1A,7,5,8.5,9,8,8,NA,NA,5,NA,5,NA,Core,Top 2 cm mineral mixed with organic but clearly mineral,NA,NA
+2024-07-30,Nugget Creek,NuCr1,A,NA,6,NA,3.5,Mineral,51,Rock,3,Mineral,18,12,NA,15,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr1,B,NA,3,NA,5,Mineral,51,Rock,4.5,Mineral,20,23.5,21,21.5,yes,NuCr1B,5,3,10.5,10,10,10,NA,NA,5,NA,5,NA,Core,M1 includes mixed organic and some char,Sample surface polytrichum. Organic depths include green moss and brown moss.,NA
+2024-07-30,Nugget Creek,NuCr1,B,NA,6,NA,5,Mineral,55,Rock,12,Mineral,11,9,14,11.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Char and below on surface is a mix of organic and mineral,NA
+2024-07-30,Nugget Creek,NuCr1,C,NA,3,NA,7.5,Rock,63,Rock,14.5,Mineral,5,4,NA,4.5,yes,NuCr1C,7,8,9,11,10,10.5,Bottom 1 cm organic came off with mineral core in its own bag for processing,NA,5,NA,5,NA,Both,0.5 cm rock removed between the upper 2 and lower 3 cm of M2 sample,NA,NA
+2024-07-30,Nugget Creek,NuCr1,C,NA,6,NA,5,Mineral,53,Rock,3,Mineral,29.5,21,24.5,25,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"For all soils at this site - organic vs mineral not entirely clear, below char layer there is a mix of char, mineral, organic that is silty in texture and visually mineral but is held together with lots of fine roots.",NA
+2024-07-30,Nugget Creek,NuCr2,A,NA,3,NA,36.5,Rock,98,Rock,25,Mineral,19,17,1,12.333333333333334,yes,NuCr2A,31,30,9,6,11.5,9,NA,NA,0,NA,0,NA,NA,"Mineral soil not sampled, too rocky","Sampled at 3.1 m due to CWD, unable to sample mineral because too rocky.",NA
+2024-07-30,Nugget Creek,NuCr2,A,NA,6,NA,50,Mineral,61,Rock,19,Mineral,20,20,NA,20,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Closest tree to depth hole is in moss hummock with no exposed AR and same SOL depth. Recorded data for AR here is tree 1m away that has greater extent of burn than at transect,NA
+2024-07-30,Nugget Creek,NuCr2,B,NA,3,NA,42,Mineral,82,Rock,44,Mineral,2,0,NA,1,yes,NuCr2B,39,39,11,10,9,8,NA,NA,4.5,NA,4.5,NA,Both,NA,"Sampling at unburned sphagnum at 3m. M1 sample came off of bottom of organic sample, depth is estimated length and width are same dimensions as brownie. M2 sample taken as core below",NA
+2024-07-30,Nugget Creek,NuCr2,B,NA,6,NA,41,Rock,101,>100cm,9,Mineral,10,23,NA,16.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr2,C,NA,3,NA,17,Mineral,101,>100cm,8,Mineral,22,20,NA,21,yes,NuCr2C,17,18,8,5,9.5,9,NA,NA,4,NA,0,NA,Core,"M1 sample came off of bottom of organic sample, depth is estimated. Length and width are same dimensions as brownie. M2 sample taken as core below Very top of m1 mixed with organic, no m2 sample because too rocky to core. M1 was uneven, 5cm and 4cm",0.1m off transect to avoid cwd,NA
+2024-07-30,Nugget Creek,NuCr2,C,NA,6,NA,35,"Mineral,Rock",14,>100cm,101,"Mineral,Rock",7,17,5,9.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr3,A,NA,3,NA,11,Mineral,101,>100cm,3.5,Mineral,16,14,NA,15,yes,NuCr3A,11,9,11,11.5,10,9.5,NA,NA,5,NA,5,NA,Core,NA,"SOL depths include green moss (polytrichum) for sample, AR SOL depth does not include green moss",NA
+2024-07-30,Nugget Creek,NuCr3,A,NA,6,NA,7,Mineral,101,>100cm,9,Mineral,17.5,31,21,23.166666666666668,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AR SOL depth does not include green moss,NA
+2024-07-30,Nugget Creek,NuCr3,B,NA,3,NA,7.5,Mineral,60,Rock,3,Mineral,7.5,8,NA,7.75,yes,NuCr3B,7,5,9,8,11,10,NA,NA,5,NA,5,NA,Core,NA,"Depths include green moss (polytrichum) for sample, AR SOL depth does not include green moss",NA
+2024-07-30,Nugget Creek,NuCr3,B,NA,6,NA,8,Mineral,101,>100cm,3.5,Mineral,24,27,NA,25.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AR SOL depth does not include green moss,NA
+2024-07-30,Nugget Creek,NuCr3,C,NA,6,NA,6,Mineral,53,Rock,9,Mineral,16,19,9.5,14.833333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AR SOL depth does not include green moss,NA
+2024-07-30,Nugget Creek,NuCr3,C,NA,3,NA,5,Mineral,45,Rock,2,Mineral,18,16,11,15,yes,NuCr3C,6,4,8,9,11,11,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr4,A,NA,3,NA,30,Mineral,101,>100cm,42,Mineral,8,9,NA,8.5,yes,NuCr4A,35,34,10,6,11.5,10,"Organic sample difficult to remove due to roots, bottom very crumbly",NA,5,NA,5,NA,Core,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr4,A,NA,6,NA,52,Mineral,101,>100cm,5,Mineral,18,15,NA,16.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr4,B,NA,3,NA,18,Mineral,101,>100cm,13,Mineral,23,30,35,29.333333333333332,yes,NuCr4B,17,14,10,7,10,11,"Very crumbly bottom of sample, fell apart while sampling",NA,5,NA,5,NA,Core,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr4,B,NA,6,NA,7,Mineral,101,>100cm,18,Mineral,24,6.5,12,14.166666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr4,C,NA,3,NA,6,Mineral,101,>100cm,12,Mineral,46,23,NA,34.5,yes,NuCr4C,7,5,10,12,9,10,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr4,C,NA,6,NA,14,Mineral,88,Rock,7.5,Mineral,24,22,16,20.666666666666668,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr5,A,NA,3,NA,5.5,Mineral,86,Rock,3.5,Mineral,11,16,NA,13.5,yes,NuCr5A,6,5,7.5,7.5,9,9.5,NA,NA,3,NA,5,NA,Grab,"M1 sample is grab sample, approximated depth and volume using corer but unable to remove an intact core. Not measured exactly volumetrically and contains rocks.","1.5 cm rock removed between organic and mineral, AR SOL depth does not include green moss, transect SOL does (polytrichum)",NA
+2024-07-31,Nugget Creek,NuCr5,A,NA,6,NA,5,Mineral,64,Rock,12,Mineral,11,23.5,NA,17.25,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Depth includes green moss for transect, AR depths taken from downed tree to bottom of tree roots. AR SOL depth taken right next to downed AR tree and does not include green moss.",NA
+2024-07-31,Nugget Creek,NuCr5,B,NA,3,NA,3,Mineral,46,Rock,6.5,Mineral,36,33.5,34,34.5,yes,NuCr5B,3,2,10,8.5,9,9,NA,NA,5,NA,5,NA,Both,"M1 sample is volumetric, M2 sample is grab sample using area of corer but unable to get intact core due to rocks and crumbly soil. M2 depth is estimated and not sampled volumetrically","1 cm rock between organic and mineral removed while sampling, AR depths taken on downed tree to bottom of tree roots",NA
+2024-07-31,Nugget Creek,NuCr5,B,NA,6,NA,8.5,Mineral,53,Rock,7.5,Mineral,23,18.5,NA,20.75,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AR depths on downed tree to bottom of tree roots,NA
+2024-07-31,Nugget Creek,NuCr5,C,NA,3,NA,7,Mineral,37,Rock,7,Mineral,23,24,NA,23.5,yes,NuCr5C,7,9,7,8,10,10,NA,NA,7,NA,0,NA,Grab,"Too rocky and crumbly to core volumetrically, grab sample of mineral to 7 cm depth","No standing AR tree, measuring AR depths from AR roots to remaining soil on roots or to the bottom of large exposed stabilizing root if no soil is remaining on roots. AR soil depth same hole as transect, not including green moss",NA
+2024-07-31,Nugget Creek,NuCr5,C,NA,6,NA,9.5,Mineral,67,Rock,2.5,Mineral,29,33,NA,31,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"AR depths on downed tree to bottom of tree roots, AR SOL depth measured next to, does not include green moss",NA
+2024-07-31,Nugget Creek,NuCr6,A,NA,3,NA,3.5,"Mineral,Rock",93,Rock,3.5,Mineral,36,NA,NA,36,yes,NuCr6A,8,3.5,13,12,11,11,NA,NA,10,NA,5,NA,Both,"Very rocky below organic, m1 is a grab sample of 10 cm of mineral rock mix, m2 is a volumetric sample of core taken below this mixture","AR depth measured on downed tree to bottom of roots, OL depth doesn’t include green moss",NA
+2024-07-31,Nugget Creek,NuCr6,A,NA,6,NA,6.5,Mineral,36,Rock,1.5,Mineral,39,27,NA,33,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"AR measured on downed tree, depth AR to bottom of tree roots. AR SOL depth is depth of burned organic to mineral, total depth of organic surface to mineral is 3 cm.",NA
+2024-07-31,Nugget Creek,NuCr6,B,NA,3,NA,4,"Mineral,Rock",77,Rock,4,Mineral,23,21,30,24.666666666666668,yes,NuCr6B,3.5,5,10.5,10,11,11,NA,NA,7.5,NA,2,NA,Both,"Very rocky below organic, difficult to sample. M1 sample is grab sample of approximately top 7.5 cm, not sampled volumetrically. M2 sample taken below grab sample, 2 cm sampled volumetrically, unable to core deeper due to rock","AR measured on downed tree, measuring depth of AR to bottom of tree roots, depth in AR SOL is burned prefire organic with some mixture of post fire organic and mineral deposition. Depth of char layer alone is 1.5 cm",NA
+2024-07-31,Nugget Creek,NuCr6,B,NA,6,NA,8.5,Mineral,31,Rock,4,Mineral,34,35,NA,34.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"AR measured on downed tree, AR to bottom of roots, AR SOL doesn’t include green moss but does include mix of post fire organic mineral deposition, just char layer is 1.5 cm.",NA
+2024-07-31,Nugget Creek,NuCr6,C,NA,3,NA,7,"Mineral,Rock",71,Rock,4,Mineral,18,20,NA,19,yes,NuCr6C,7,9,11.5,10,12,10,NA,NA,4.5,NA,5,NA,Grab,"Both m1 and m2 are grab samples, not measured volumetrically, estimated depths. 2 cm of rock removed between organic and mineral.","Sampling at 3.6 m because of cwd. AR measured on downed tree, AR SOL depth same as transect soil depth hole but depth for AR SOL recorded here does not include green moss",NA
+2024-07-31,Nugget Creek,NuCr6,C,NA,6,NA,9.5,Mineral,68,Rock,4,Mineral,30,30,NA,30,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"AR measured on downed tree, AR SOL does not include green moss",NA
+2021-07-05,Shovel Creek,ShCr1,A,NA,NA,NA,23.5,Mineral,NA,Rock,33,Mineral,NA,NA,NA,14.33333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr1,A,NA,NA,NA,20.75,"Mineral,Rock",NA,Rock,11.25,NA,NA,NA,NA,2.833333333,yes,18-A,21,20.5,15,15,12,12.5,NA,NA,NA,NA,NA,NA,None collected. Too rocky,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr1,A,NA,NA,NA,1,Mineral,NA,Rock,0,Mineral,NA,NA,NA,11.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr1,A,NA,3,NA,52,Rock,52,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr1,A,NA,9,NA,23,Mineral,48,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr1,A,NA,6,NA,17.5,Mineral,32,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr1,B,NA,NA,NA,34.5,Rock,NA,Rock,45.5,Rock,NA,NA,NA,4.333333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr1,B,NA,NA,NA,17.5,Mineral,NA,Rock,25.5,Mineral,NA,NA,NA,7.5,yes,18-B,17,15,12,12.5,11,12,NA,5,NA,NA,NA,NA,"Grab, hit rock",NA,NA,NA
+2021-07-05,Shovel Creek,ShCr1,B,NA,NA,NA,24,Mineral,NA,Rock,33.5,Mineral,NA,NA,NA,4.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr1,B,NA,9,NA,21,Mineral,56,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr1,B,NA,6,NA,41,Mineral,68,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,This is sphagnum,NA
+2024-07-16,Shovel Creek,ShCr1,B,NA,3,NA,19.5,Mineral,58,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr1,C,NA,NA,NA,20.5,Mineral,NA,Rock,26,Mineral,NA,NA,NA,4.833333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr1,C,NA,NA,NA,16.5,Mineral,NA,Rock,17,Mineral,NA,NA,NA,11,yes,18-C,16,16.5,15,15.5,14,12.5,NA,10,NA,NA,NA,NA,"Grab, hit rock",NA,NA,NA
+2021-07-05,Shovel Creek,ShCr1,C,NA,NA,NA,24,Mineral,NA,Rock,30.5,Mineral,NA,NA,NA,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr1,C,NA,9,NA,26.5,Mineral,58,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr1,C,NA,6,NA,28.5,Mineral,92,Ice,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr1,C,NA,3,NA,44,Mineral,53,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Sphagnum,NA
+2021-07-05,Shovel Creek,ShCr2,A,NA,NA,NA,19,Mineral,NA,Rock,0,Mineral,NA,NA,NA,5,yes,26-A,18,17,13,14,9.5,9.5,NA,10,NA,NA,NA,NA,"Grab, hit rock",NA,NA,NA
+2021-07-05,Shovel Creek,ShCr2,A,NA,NA,NA,0,Mineral,NA,Rock,0,Mineral,NA,NA,NA,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr2,A,NA,NA,NA,0.25,Mineral,NA,Rock,0,Mineral,NA,NA,NA,22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr2,A,NA,3,NA,9.5,Mineral,27,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr2,A,NA,6,NA,9.5,Mineral,25,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr2,A,NA,9,NA,9.5,Mineral,20,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr2,B,NA,NA,NA,1.75,Mineral,NA,Rock,3.5,Mineral,NA,NA,NA,30.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr2,B,NA,NA,NA,2.25,Mineral,NA,NA,0,Mineral,NA,NA,NA,28.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr2,B,NA,NA,NA,2.75,Mineral,NA,Rock,2.25,Mineral,NA,NA,NA,21,yes,26-B,2,2.5,10,9,11,10.5,NA,12,NA,NA,NA,NA,"Grab, hit mineral",NA,NA,NA
+2024-07-16,Shovel Creek,ShCr2,B,NA,3,NA,12,Mineral,101,>100cm,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr2,B,NA,6,NA,8,Mineral,75,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr2,B,NA,9,NA,7,Mineral,22,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr2,C,NA,NA,NA,5,Mineral,NA,Mineral,2.25,Mineral,NA,NA,NA,34.33333333,yes,26-C,5.5,5,12,12,10,10,NA,10,NA,NA,NA,NA,"Grab, hit rock",NA,NA,NA
+2021-07-05,Shovel Creek,ShCr2,C,NA,NA,NA,11.5,Mineral,NA,Rock,3.25,Mineral,NA,NA,NA,21.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr2,C,NA,NA,NA,2,Mineral,NA,Rock,0,Mineral,NA,NA,NA,33.33333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr2,C,NA,3,NA,11.5,Mineral,23,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr2,C,NA,6,NA,20.5,Mineral,43,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Unburned pile compared to others,NA
+2024-07-16,Shovel Creek,ShCr2,C,NA,9,NA,11,Mineral,53,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr3,A,NA,NA,NA,0,Mineral,NA,NA,0,Mineral,NA,NA,NA,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr3,A,NA,NA,NA,20.5,Mineral,NA,Rock,0,Mineral,NA,NA,NA,30.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr3,A,NA,NA,NA,13.5,Mineral,NA,Rock,5.5,Mineral,NA,NA,NA,27.66666667,yes,60-A,13.5,11,11,11,11.5,10,NA,10,NA,NA,NA,NA,"Grab, hit mineral",NA,NA,NA
+2024-07-16,Shovel Creek,ShCr3,A,NA,3,NA,3.5,Mineral,12,Mineral,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr3,A,NA,6,NA,12.5,Mineral,12.4,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr3,A,NA,9,NA,5,Mineral,26,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr3,B,NA,NA,NA,4,Rock,NA,Rock,27,Rock,NA,NA,NA,12.33333333,yes,60-B,2.5,3,12,13,7.5,8,NA,9,NA,NA,NA,NA,"Took soil sample where mineral exposed, hit rock",NA,NA,NA
+2021-07-05,Shovel Creek,ShCr3,B,NA,NA,NA,0,Mineral,NA,NA,0,Mineral,NA,NA,NA,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr3,B,NA,NA,NA,0,Mineral,NA,Rock,0,Mineral,NA,NA,NA,31.33333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr3,B,NA,3,NA,5.5,Mineral,24,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr3,B,NA,6,NA,1.5,Rock,1.5,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr3,B,NA,9,NA,6,"Rock,Mineral",10,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr3,C,NA,NA,NA,0,Mineral,NA,Rock,0,Mineral,NA,NA,NA,16.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr3,C,NA,NA,NA,23,Mineral,NA,Rock,17.5,Mineral,NA,NA,NA,10.33333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr3,C,NA,NA,NA,4.75,Mineral,NA,NA,24.5,Mineral,NA,NA,NA,17,yes,60-C,4.5,4.5,11.5,11,7,7.5,NA,10,NA,NA,NA,NA,"Grab, hit rock",NA,NA,NA
+2024-07-16,Shovel Creek,ShCr3,C,NA,3,NA,3.5,Mineral,17,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr3,C,NA,6,NA,9.5,Mineral,52,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr3,C,NA,9,NA,5.5,Rock,5.5,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr4,A,NA,NA,NA,19.5,Mineral,NA,Rock,25,Rock,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr4,A,NA,NA,NA,43.5,Frozen Ground,45,Frozen Ground,44,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr4,A,NA,NA,NA,38.5,Mineral,NA,Rock,0,Mineral,NA,NA,NA,13,yes,8-A,39,40,9,10,7.5,9,NA,9,NA,NA,NA,NA,"Hit rock, grab",NA,NA,NA
+2024-07-16,Shovel Creek,ShCr4,A,NA,3,NA,27,Rock,27,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr4,A,NA,6,NA,33,Rock,33,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr4,A,NA,9,NA,3.5,Rock,3.5,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr4,B,NA,NA,NA,2.25,Rock,NA,Rock,0,Rock,NA,NA,NA,16.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr4,B,NA,NA,NA,21,Mineral,NA,Rock,0,Rock,NA,NA,NA,12.66666667,yes,8-B,8.5,9,10,10,7,7,NA,8,NA,NA,NA,NA,"Grab, hit rock",NA,NA,NA
+2021-07-05,Shovel Creek,ShCr4,B,NA,NA,NA,7.5,Mineral,NA,Rock,12,Mineral,NA,NA,NA,12.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr4,B,NA,3,NA,0,Rock,0,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr4,B,NA,6,NA,5.5,Rock,5.5,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr4,B,NA,9,NA,0,Rock,0,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr4,C,NA,NA,NA,0,Rock,NA,Rock,8.25,Rock,NA,NA,NA,26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr4,C,NA,NA,NA,20.5,Rock,NA,Rock,16,Rock,NA,NA,NA,28,yes,8-C,20,21,12,12,11,10.5,Buried wood in organic,NA,NA,NA,NA,NA,"None, hit rock",NA,NA,NA
+2021-07-05,Shovel Creek,ShCr4,C,NA,NA,NA,29.5,Rock,NA,Rock,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr4,C,NA,3,NA,27,Rock,27,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr4,C,NA,6,NA,17.5,Rock,17.5,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr4,C,NA,9,NA,62,Rock,62,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-03,Shovel Creek,ShCr5,A,NA,NA,NA,7.25,Mineral,NA,NA,0,Mineral,NA,NA,NA,16.66666667,yes,41-A,6,7,9,8.8,10,10,NA,7,NA,NA,NA,NA,grab,rocky,NA,NA
+2021-07-03,Shovel Creek,ShCr5,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-03,Shovel Creek,ShCr5,A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr5,A,NA,3,NA,13.5,Rock,15,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr5,A,NA,6,NA,2.5,Mineral,10,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr5,A,NA,9,NA,11.5,Mineral,14,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-03,Shovel Creek,ShCr5,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-03,Shovel Creek,ShCr5,B,NA,NA,NA,10,"Mineral, Rock",NA,NA,0,Mineral,NA,NA,NA,11,yes,41-B,10,11,13,14,12,12,NA,5,NA,NA,NA,NA,grab,rocky,NA,NA
+2021-07-03,Shovel Creek,ShCr5,B,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr5,B,NA,3,NA,0.5,Rock,0.5,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr5,B,NA,6,NA,25,Mineral,45,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Unburned moss patch,NA
+2024-07-17,Shovel Creek,ShCr5,B,NA,9,NA,16,Mineral,18,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-03,Shovel Creek,ShCr5,C,NA,NA,NA,3.75,"Mineral, Rock",NA,NA,3.5,Mineral,NA,NA,NA,13,yes,41-C,3.5,3,11,10.5,10,10,NA,10,NA,NA,NA,NA,grab,rocky,NA,NA
+2021-07-03,Shovel Creek,ShCr5,C,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-03,Shovel Creek,ShCr5,C,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr5,C,NA,3,NA,5.5,Rock,5.5,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr5,C,NA,6,NA,8,"Rock,Mineral",8,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr5,C,NA,9,NA,3.5,Mineral,9.5,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,A,NA,NA,NA,1.75,"Rock,Mineral",NA,NA,4.25,Mineral,NA,NA,NA,25,yes,47-A,2,2,9.5,9.5,11,11,NA,7,NA,NA,NA,NA,Grab,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,A,NA,NA,NA,15,Rock,15,Rock,4,Mineral,NA,NA,NA,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,A,NA,NA,NA,16.5,Rock,25,Rock,2,NA,NA,NA,NA,18.33333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr6,A,NA,3,NA,2.5,Mineral,8,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr6,A,NA,6,NA,14,Mineral,41,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr6,A,NA,9,NA,8.5,Mineral,9,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,B,NA,NA,NA,14.75,Mineral,NA,NA,17,Mineral,NA,NA,NA,8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,B,NA,NA,NA,12.25,Rock,NA,NA,6.5,Mineral,NA,NA,NA,13.66666667,yes,47-B,13,12,11,11,12,11,NA,NA,NA,NA,NA,NA,None,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,B,NA,NA,NA,1,Mineral,NA,NA,2,Mineral,NA,NA,NA,15.33333333,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr6,B,NA,3,NA,15,Mineral,23,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr6,B,NA,6,NA,14,Mineral,75,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr6,B,NA,9,NA,18,Mineral,24,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,C,NA,NA,NA,12.5,Rock,NA,NA,2,Mineral,NA,NA,NA,15.66666667,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,C,NA,NA,NA,7.5,Mineral,NA,NA,12.5,Rock,NA,NA,NA,11.16666667,yes,47-C,11,10.5,11,11.5,10,10,NA,NA,NA,NA,NA,NA,None,NA,NA,NA
+2021-07-20,Shovel Creek,ShCr6,C,NA,NA,NA,1,Mineral,NA,NA,0,"Mineral,Rock",NA,NA,NA,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr6,C,NA,3,NA,18,Mineral,23,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr6,C,NA,6,NA,12.5,Mineral,35,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-07-17,Shovel Creek,ShCr6,C,NA,9,NA,11.5,Mineral,38,Rock,NA,NA,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat1,A,SLAT1A6,6,0,8.5,Mineral,77,Frozen Ground,10.5,Mineral,9.5,12,8,9.833333333333334,yes,A6,9,9.5,10,10.5,10.5,11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat1,A,SLAT1A3,3,0,27.5,Mineral,65,Frozen Ground,27.5,Mineral,1.5,1,2,1.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat1,A,SLAT1A9,9,0,47,"Frozen Ground,Mineral,Water",54,Frozen Ground,40,"Frozen Ground,Mineral,Water",2,2,1,1.6666666666666667,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat1,B,SLAT1B3,3,0,25.5,Mineral,62,Frozen Ground,25.5,Mineral,8.5,10.5,9,9.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat1,B,SLAT1B6,6,0,23.5,Mineral,60,Frozen Ground,23.5,Mineral,19,16,6,13.666666666666666,yes,B6,23,23.5,11,11,10,10.5,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2025-07-26,Slate,Slat1,B,SLAT1B9,9,0,15,"Mineral,Water",55,Frozen Ground,27,Mineral,4,10,13,9,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat1,C,SLAT1C3,3,0,6,Mineral,64,Mineral,6,Mineral,5,5,6,5.333333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat1,C,SLAT1C6,6,0,21,"Mineral,Water",72,Frozen Ground,5,Mineral,11,14,12,12.333333333333334,yes,C6,21,20.5,11,12,11,12.5,NA,NA,5,NA,5,NA,Grab,NA,NA,NA
+2025-07-26,Slate,Slat1,C,SLAT1C9,9,0,12,Mineral,63,Frozen Ground,12,Mineral,6,6,6,6,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat2,A,SLAT2A6,6,0,14.5,Mineral,42,Frozen Ground,26.5,"Mineral,Water",8,10,7.5,8.5,yes,A6,14,15,10.5,11,11.5,11.5,NA,NA,5,5,5,5,Grab,"Super wet sample, soil lost form",NA,NA
+2025-07-26,Slate,Slat2,A,SLAT2A9,9,0,24.5,"Mineral,Water",39,Frozen Ground,27.5,"Mineral,Water",14,11.5,12.5,12.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat2,A,SLAT2A3,3,0,29.5,"Mineral,Water",66,Frozen Ground,37,"Mineral,Water",12,11,7,10,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat2,B,SLAT2B6,6,0,7.5,Mineral,64,Frozen Ground,13.5,Mineral,19,20.5,19,19.5,yes,B6,7.5,7,9,9.5,10,10.5,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-26,Slate,Slat2,B,SLAT2B9,9,0,17.5,Mineral,56,Frozen Ground,11,Mineral,17,18,13.5,16.166666666666668,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat2,B,SLAT2B3,3,0.5,12,Mineral,63,Frozen Ground,11,Mineral,10.5,13,15,12.833333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat2,C,SLAT2C6,6,0,15,Mineral,55,Frozen Ground,6,"Mineral,Water",14,12,13.5,13.166666666666666,yes,C6,14.5,15,11.5,10.5,10.5,11,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-26,Slate,Slat2,C,SLAT2C9,9,0,27.5,Mineral,56,Frozen Ground,28,"Mineral,Water",9,9.5,10.5,9.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat2,C,SLAT2C3,3,0,17.5,Mineral,45,Frozen Ground,25.5,"Mineral,Water",9,8.5,7,8.166666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat3,A,SLAT3A3,3,0,37,Frozen Ground,37,Frozen Ground,43,"Frozen Ground,Water",3,2,1,2,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat3,A,SLAT3A6,6,0,29,Mineral,42,Frozen Ground,54,"Frozen Ground,Water",3,2,1,2,yes,Slat3 a,19,21,12.5,11.5,11,10.5,Wider at top.,NA,5,5,5,5,NA,M1 was core. M2 was grab.,NA,NA
+2025-07-26,Slate,Slat3,A,SLAT3A9,9,NA,49,"Frozen Ground,Water",50,"Frozen Ground,Water",49,"Frozen Ground,Water",1,0.5,NA,0.75,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat3,B,SLAT3B3,3,0,26,"Mineral,Water",50,Frozen Ground,26,"Mineral,Water",5,3,3,3.6666666666666665,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat3,B,SLAT3B6,6,0,18,"Mineral,Water",42,Frozen Ground,16,"Mineral,Water",5,5,NA,5,yes,Slat3 b,18,18,10,12,11,10,"Very wet at bottom, falling apart",NA,5,NA,NA,NA,Grab,Grab sample. Too wet for core. No deeper grab.,NA,NA
+2025-07-26,Slate,Slat3,B,SLAT3B9,9,0,17.5,"Mineral,Water",45,Frozen Ground,16,"Mineral,Water",4,2,4,3.3333333333333335,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat3,C,SLAT3C3,3,0,18,"Mineral,Water",55,Frozen Ground,21,"Mineral,Water",2,7,8,5.666666666666667,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat3,C,SLAT3C9,9,0,24,"Mineral,Water",49,Frozen Ground,24,"Mineral,Water",4,4,1,3,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat3,C,SLAT3C6,6,0,16,"Mineral,Water",48,Frozen Ground,16,"Mineral,Water",5,8,8,7,yes,Slat3 c,16,16,13,9,10,10,Wider at top. Narrower at bottom,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-27,Slate,Slat4,A,SLAT4A3,3,0.5,0,Mineral,110,>100cm,0.5,Mineral,20,22,17.5,19.833333333333332,yes,A6,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2025-07-27,Slate,Slat4,A,SLAT4A6,6,0.5,0,Mineral,40,Rock,0,Mineral,18,19.5,22,19.833333333333332,yes,A6,5,4.5,10,10,9,9,At roughly 5m and further than 1m away horizontally from transect,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-27,Slate,Slat4,A,SLAT4A9,9,0.5,0,Mineral,99,Rock,0,Mineral,24,26,28.5,26.166666666666668,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat4,B,SLAT4B3,3,0.5,0,Mineral,110,>100cm,0.5,Mineral,24,24.5,23,23.833333333333332,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat4,B,SLAT4B6,6,0.5,0.5,Rock,66,Rock,0.5,Mineral,16,19.5,22,19.166666666666668,yes,B6,1,1,10,10,9.5,9.5,Had to go further than 1 m to find organic,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-27,Slate,Slat4,B,SLAT4B9,9,0.5,0,Mineral,110,>100cm,0,Mineral,23,19.5,23.5,22,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat4,C,SLAT4C3,3,0.5,0,Mineral,98,"Frozen Ground,Mineral",0,Mineral,19.5,20,15,18.166666666666668,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat4,C,SLAT4C6,6,0,0,Mineral,99,Mineral,0,Mineral,14,13.5,17,14.833333333333334,yes,C6,5.5,6,10,10,9.5,9,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-27,Slate,Slat4,C,SLAT4C9,9,0.5,0,Mineral,100,Mineral,0,Mineral,18,19.5,23,20.166666666666668,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat5,A,SLAT5A6,6,0,0,Mineral,90,Mineral,0,Mineral,20,21.5,20,20.5,yes,A6,7.5,8.5,10.5,11,10.5,10.5,Taken at 4m because there was no organic at 6,NA,5,5,5,5,Core,Taken at 4m,NA,NA
+2025-07-27,Slate,Slat5,A,SLAT5A3,3,0,0,Mineral,110,>100cm,0,Mineral,26.5,18.5,27,24,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat5,A,SLAT5A9,9,0.5,0,Mineral,110,>100cm,0,Mineral,15,11,11.5,12.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat5,B,SLAT5B3,3,0.5,0,Mineral,90,Mineral,0,Mineral,16,13.5,17,15.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat5,B,SLAT5B6,6,0.5,0,Mineral,110,>100cm,0,Mineral,17,21,22,20,yes,Slat5b,1.5,1.5,9,9,9.5,9.5,Sample collected further than 1m horizontally from transect because no organic present at 1m,NA,5,5,5,5,Core,Sample collected further than 1m,NA,NA
+2025-07-27,Slate,Slat5,B,SLAT5B9,9,0.1,0,Mineral,110,>100cm,0,Mineral,14,22,24,20,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Small ceratadon coverage everywhere.,NA
+2025-07-27,Slate,Slat5,C,SLAT5C3,3,0.1,0,Mineral,110,>100cm,0,Mineral,17,14,12,14.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat5,C,SLAT5C9,9,0,9.5,Mineral,110,>100cm,0,Mineral,17,12,14,14.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat5,C,SLAT5C6,6,0,8,Mineral,110,>100cm,9.5,Mineral,14.5,11,15,13.5,yes,C6,7.5,8.5,10.5,10.5,10.5,11,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-27,Slate,Slat6,A,SLAT6A3,3,0,11,Mineral,88,Mineral,0.5,Mineral,9,10.5,8,9.166666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat6,A,SLAT6A6,6,0,0,Mineral,110,>100cm,0,Mineral,17,18,15,16.666666666666668,yes,So,7.5,8.5,9,9,10,10.5,Lots of roots,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-27,Slate,Slat6,A,SLAT6A9,9,0,3.5,Mineral,110,>100cm,7,Mineral,15,14,9,12.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat6,B,SLAT6B3,3,0,0.5,Mineral,110,>100cm,0,Mineral,13,12,12,12.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat6,B,SLAT6B6,6,0,0,Mineral,100,>100cm,0,Mineral,16,15,NA,15.5,yes,SLAT6 b,3,2.5,9,9,9.5,9.5,Sample collected another m off transect,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-27,Slate,Slat6,B,SLAT6B9,9,0,5.5,Mineral,110,>100cm,0,Mineral,10,9,NA,9.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat6,C,SLAT6C3,3,0,0,Mineral,110,>100cm,0,Mineral,3,4,NA,3.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat6,C,SLAT6C6,6,0,0,Mineral,100,>100cm,0,Mineral,17,18,12,15.666666666666666,yes,Slat6c,2,1.5,10,10,10,9.5,Sampling at 28.5 to obtain organic,NA,5,5,5,5,Core,NA,NA,NA
+2025-07-27,Slate,Slat6,C,SLAT6C9,9,0.1,0,Mineral,100,>100cm,0,Mineral,18,13,21,17.333333333333332,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl1,A,NA,3,0,9.5,Mineral,58,Rock,18,Mineral,5,2,NA,3.5,yes,Tekl1A,10,8,8.5,9.5,9.5,9,Depth uneven because mineral uneven and not because Anastasia is bad at her job,NA,5,NA,5,NA,Core,NA,NA,bf0ff937-9438-433c-8ff8-dac9d3df4cc8
+2024-08-03,Teklanika,Tekl1,A,NA,6,0,19,Mineral,33,Rock,20,Mineral,4,4,5,4.333333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl1,B,NA,3,0,14,"Mineral,Rock",32,Rock,15.5,"Mineral,Rock",3.5,3,2,2.8333333333333335,yes,Tekl1B,14.5,14.5,10,10,10,10,NA,NA,5,NA,5,NA,Core,"Measured volumetrically but very rocky, so not totally confident about volume.",NA,NA
+2024-08-03,Teklanika,Tekl1,B,NA,6,0,14,Mineral,29,Rock,11,Mineral,2.5,3,NA,2.75,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl1,C,NA,3,0,7,"Mineral,Rock",25,Rock,9,"Mineral,Rock",3,2,NA,2.5,yes,Tekl1C,7,7.5,10,10,9.5,9,NA,NA,5,NA,5,NA,Both,"M1 volumetric, but very rocky so medium confidence. Large rock of 3cm in sample. 2 cm of rock removed between m1 and m2. M2 grab sample due to rockiness",NA,4b11a22e-efd3-4fc4-8922-8929e30e40e6
+2024-08-03,Teklanika,Tekl1,C,NA,6,0,13,"Mineral,Rock",34,Rock,14,"Mineral,Rock",4,3,6,4.333333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl2,A,NA,3,0.5,7.5,Mineral,70,Rock,15,Mineral,16,12,10,12.666666666666666,yes,Tekl2A,7,6.5,10,11,10,10,NA,NA,5,NA,5,NA,Core,NA,NA,be83b034-dea4-4882-a736-fb2d600998d4
+2024-08-03,Teklanika,Tekl2,A,NA,6,0.5,13.5,Mineral,65,Rock,8.5,Mineral,19,18,18,18.333333333333332,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl2,B,NA,3,0,9.5,Mineral,73,Rock,7,Mineral,13,10,12,11.666666666666666,yes,Tekl2B,9,8.5,10,10,8.5,9.5,NA,NA,5,NA,5,NA,Core,NA,Sampled at 13.2 because of cwd,NA
+2024-08-03,Teklanika,Tekl2,B,NA,6,0.5,5,Mineral,75,Rock,5,Mineral,13,8,NA,10.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl2,C,NA,3,0.1,6,Mineral,101,>100cm,11,Mineral,12,9,NA,10.5,yes,Tekl2C,7,6.5,10,9,10,10,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2024-08-03,Teklanika,Tekl2,C,NA,6,0,8,Mineral,86,Rock,20,Mineral,18,11,NA,14.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl3,A,NA,3,0,22,"Mineral,Water,Rock",101,>100cm,27,"Mineral,Water",5,6,7,6,yes,Tekl3A,22.5,24,11,11,9,8,Hit water at 13,NA,9,NA,0,NA,Core,"Coring into water and rock. Sample volumetric, but dicey",NA,NA
+2024-08-03,Teklanika,Tekl3,A,NA,6,0,19,"Water,Mineral,Rock",91,Rock,23,"Water,Rock,Mineral",7,5,NA,6,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl3,B,NA,3,0.1,16,"Mineral,Rock,Water",49,Rock,20,Rock,7,8,6,7,yes,Tekl3B,18.5,18.5,9,9,10,10,Large rocks included. Biggest rocks was half in half out of sample,NA,5,NA,3,NA,Core,Removed 2cm of rock between organic and mineral.,NA,"4e8fa214-7b67-4f0e-aff1-ab71c286d557,0f9d510e-c6cb-4339-b220-a2efa7ace5f1"
+2024-08-03,Teklanika,Tekl3,B,NA,6,0,22.5,"Mineral,Rock",61,Rock,21,Rock,3,3,5,3.6666666666666665,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl3,C,NA,3,0,21,"Mineral,Rock",51,Rock,21,"Mineral,Rock",4,5,NA,4.5,yes,Tekl3C,22.5,25,10.5,11.5,9,9.5,NA,NA,5,NA,3,NA,Core,Too rocky to core further,NA,NA
+2024-08-03,Teklanika,Tekl3,C,NA,6,0,19,Rock,66,Rock,22,"Rock,Mineral",2,3,6,3.6666666666666665,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl4,A,NA,3,0,8,Mineral,16,Rock,11,NA,2.5,1.5,NA,2,yes,Tekl4A,8,7.5,9.5,10,9.5,10,NA,NA,4,NA,5,NA,Both,M1 sampled with corer. Removed 5cm of rock. M2 is grab sample below that to a depth of 5 cm,Nearest tree had no Ar roots visible. SOL depth at it was 10. Measurements in data are from nearest tree with Ar,d84f191b-be6b-4b30-a49c-f01983eebfe4
+2024-08-02,Teklanika,Tekl4,A,NA,6,0,12,Mineral,28,Rock,6,Mineral,7,5,8,6.666666666666667,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl4,B,NA,3,0,7,Mineral,23,Rock,5,Mineral,3,2,1,2,yes,Tekl4B,7,8,11,10,10,9,NA,NA,4,NA,2,NA,Both,M1 sampled with corer. 2 cm of rock removed. M2 grab sample of 2cm,Sampled at 13.3 due to cwd,47021fe9-46c4-4b0d-8d01-a873ea8696fb
+2024-08-02,Teklanika,Tekl4,B,NA,6,0,7,Mineral,19,Rock,6,Mineral,10,10,11,10.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl4,C,NA,3,0,10,Mineral,24,Rock,11,Mineral,3,3,NA,3,yes,Tekl4C,12,10,9,10,9,9.5,NA,NA,5,NA,5,NA,Core,NA,NA,39bc04a7-284e-4933-ad4b-5878b7086ec0
+2024-08-02,Teklanika,Tekl4,C,NA,6,0,11,Mineral,27,Rock,11,Mineral,2,1,NA,1.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,AR and transect same depth hole,NA
+2024-08-02,Teklanika,Tekl5,A,NA,3,0,9,Mineral,58,Rock,21,Mineral,8,7,7,7.333333333333333,yes,Tekl5A,7.5,8,9.5,9,9,10,NA,NA,5,NA,5,NA,Core,NA,"Very rainy, sharpie not working, rely on rite in rain paper slips",e4579ffd-b283-4ff6-8c78-ceac405c5a6e
+2024-08-02,Teklanika,Tekl5,A,NA,6,0,15,Mineral,65,Rock,13,Mineral,6,5,NA,5.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl5,B,NA,3,0,33,"Mineral,Water",81,Rock,31,"Mineral,Water",12,13,NA,12.5,yes,Tekl5B,33,34,9.5,10,8,8.5,NA,NA,7,NA,0,NA,Grab,"No m2. M1 is a grab sample of 7cm. Organic hole filled with water, mineral sample mixed with water, couldn’t be sampled volumetrically","Too wet for labels, rely on paper slips",bd97a4c3-6d85-4eb5-853d-cfcfa834e50f
+2024-08-02,Teklanika,Tekl5,B,NA,6,0,15,Mineral,55,Rock,10,Mineral,2,7,4,4.333333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl5,C,NA,3,0,7.5,Mineral,57,Rock,8,Mineral,1,2,2,1.6666666666666667,yes,Tekl5C,6,7.5,10,10.5,10.5,10.5,NA,NA,5,NA,5,NA,Core,NA,"Too wet for labeling, rely on paper slips",7e805d36-618a-4ec5-a687-6d5983e3fd5b
+2024-08-02,Teklanika,Tekl5,C,NA,6,0,1,Mineral,84,Rock,6,Mineral,4,4,4,4,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl6,A,NA,3,0,9.5,Mineral,38,Rock,10,Mineral,5,4.5,10,6.5,yes,Tekl6A,8,8.5,11,11,10,10,NA,NA,5,NA,5,NA,Core,NA,NA,c885249a-f8a0-4013-839c-807f33550753
+2024-08-02,Teklanika,Tekl6,A,NA,6,0,16,Mineral,50,Rock,0.17,Mineral,3,4,2,3,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl6,B,NA,3,0,13,Mineral,60,Rock,9,Mineral,31,3,4.5,12.833333333333334,yes,Tekl6B,14,11,9,9,10.5,10,NA,NA,5,NA,5,NA,Core,NA,Sampled at 13.2 because of standing tree,fecfe12e-6d96-4300-b734-f5b0207189f7
+2024-08-02,Teklanika,Tekl6,B,NA,6,0,12,Mineral,27,Rock,11.5,Mineral,6,6,7,6.333333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl6,C,NA,3,0,9,Mineral,41,Rock,17,Mineral,7,4,5,5.333333333333333,yes,Tekl6C,7,10,9.5,10,8,7,NA,NA,5,NA,6,NA,Core,Took extra cm of m2 because impossible to cut precisely with rocks,NA,61a28974-10d5-4f7c-86e1-5888003808a1
+2024-08-02,Teklanika,Tekl6,C,NA,6,0,10,Mineral,54,Rock,9,Mineral,8,4,3,5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-02,Troublesome,Trou1,A,TROU1A3,3,0.1,13,Mineral,30,Rock,8,Mineral,6,2,6,4.666666666666667,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-02,Troublesome,Trou1,A,TROU1A6,6,0,8.5,Mineral,62,Rock,11,Mineral,8,10,5,7.666666666666667,yes,A6,8.5,8,10.5,10,11,11,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2025-08-02,Troublesome,Trou1,A,TROU1A9,9,0,10,"Mineral,Rock",36,Rock,14,"Mineral,Rock",9,7,5,7,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-02,Troublesome,Trou1,B,TROU1B3,3,0.1,48,Rock,48,Rock,8,"Mineral,Rock",8,5,4,5.666666666666667,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-02,Troublesome,Trou1,B,TROU1B6,6,0.1,9,Mineral,31,Rock,13,"Mineral,Rock",6,8,9,7.666666666666667,yes,B6,8.5,9,10,10.5,8.5,8,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2025-08-02,Troublesome,Trou1,B,TROU1B9,9,0,11,Mineral,12,Rock,9,Mineral,16,12,11,13,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-02,Troublesome,Trou1,C,TROU1C3,3,0,14,"Mineral,Rock",30,Rock,14,Mineral,12,16,12,13.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-02,Troublesome,Trou1,C,TROU1C6,6,0.1,8.5,Mineral,2.4,Rock,6,"Mineral,Rock",9,11,15,11.666666666666666,yes,C6,8,9,9.5,10,9,8.5,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2025-08-02,Troublesome,Trou1,C,TROU1C9,9,0.1,12,"Mineral,Rock",21,Rock,15,"Mineral,Rock",8,7,12,9,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-02,Troublesome,Trou2,A,TROU2A3,3,0.5,14,Mineral,83,Rock,13,Mineral,13,10,9,10.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-02,Troublesome,Trou2,A,TROU2A9,9,0,21,Mineral,88,Rock,13,Mineral,15,7,8,10,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-02,Troublesome,Trou2,A,TROU2A6,6,0,15,Mineral,89,Rock,25,Mineral,22,17,12,17,yes,A6,15,14.5,9,9.5,9.5,10,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-08-02,Troublesome,Trou2,B,TROU2B6,6,0,10,Mineral,76,"Mineral,Rock",NA,NA,NA,NA,NA,NA,yes,B6,9.5,10,8.5,8.5,10,9.5,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-08-02,Troublesome,Trou2,B,TROU2B3,3,0,9,Mineral,88,Rock,37,Mineral,4,12,16,10.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-02,Troublesome,Trou2,B,TROU2B9,9,0.5,7,Mineral,74,Rock,18,Mineral,11,2,2,5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-02,Troublesome,Trou2,C,TROU2C6,6,0,15,Mineral,83,Mineral,12,Mineral,10,2,11,7.666666666666667,yes,C6,14,15,10,9.5,9,10,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-08-02,Troublesome,Trou2,C,TROU2C3,3,11,15,Mineral,85,Rock,9,Mineral,6,7,9,7.333333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-02,Troublesome,Trou2,C,TROU2C9,9,0,13,Mineral,90,Mineral,23,Mineral,14,13,9.5,12.166666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-02,Troublesome,Trou3,A,TROU3A3,3,0.5,9,Mineral,41,Rock,12,Mineral,8,2,11,7,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-02,Troublesome,Trou3,A,TROU3A6,6,0,14.5,Mineral,48,Rock,3,Mineral,29,17,17,21,yes,A6,14,14.5,9.5,11,10,11,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-08-02,Troublesome,Trou3,A,TROU3A9,9,0,12,Mineral,42,Rock,2,Mineral,21,15,11,15.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-02,Troublesome,Trou3,B,TROU3B3,3,1,11,Mineral,53,Rock,11,Mineral,23,25,9,19,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-02,Troublesome,Trou3,B,TROU3B9,9,0.1,10,Mineral,59,Rock,2,Mineral,14,16,13,14.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-02,Troublesome,Trou3,B,TROU3B6,6,0,14,"Mineral,Rock",60,Rock,4,Mineral,16,17,20,17.666666666666668,yes,B6,13,14,8.5,9,9.5,10,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-08-02,Troublesome,Trou3,C,TROU3C3,3,0,11,Mineral,68,Rock,11,Mineral,11,17,10,12.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-02,Troublesome,Trou3,C,TROU3C6,6,0,18,Mineral,55,Rock,15,Mineral,12,6,9,9,yes,C6,18,17.5,9.5,10,10,11,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-08-02,Troublesome,Trou3,C,TROU3C9,9,0,4.5,Mineral,66,Rock,13,Mineral,16,3,7,8.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-05,Troublesome,Trou4,A,TROU4A3,3,0,23,Mineral,70,Rock,20,Mineral,17,3,17.5,12.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-05,Troublesome,Trou4,A,TROU4A6,6,0,24.5,Mineral,74,Frozen Ground,13,Mineral,3,6,1,3.3333333333333335,yes,A6,24,25,9.5,9.5,10,10.5,NA,NA,5,NA,5,NA,Core,NA,NA,NA
+2025-08-05,Troublesome,Trou4,A,TROU4A9,9,0.1,30,Mineral,91,Frozen Ground,30,Mineral,2,6,7,5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-05,Troublesome,Trou4,B,TROU4B3,3,0.1,32,Frozen Ground,52,Frozen Ground,25,Mineral,12,11,3,8.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-05,Troublesome,Trou4,B,TROU4B9,9,0,30,"Frozen Ground,Mineral",72,Mineral,19,Mineral,3,9,5,5.666666666666667,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-05,Troublesome,Trou4,B,TROU4B6,6,1,30,Mineral,48,Frozen Ground,36,Mineral,6,2,3,3.6666666666666665,yes,B6,29.5,30,10.5,10,8.5,8,NA,NA,5,5,5,5,NA,NA,NA,NA
+2025-08-05,Troublesome,Trou4,C,TROU4C3,3,0,25,Mineral,52,Frozen Ground,32,Mineral,3,5,2,3.3333333333333335,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-05,Troublesome,Trou4,C,TROU4C6,6,0,12,Mineral,69,Rock,25,Mineral,10,6,12,9.333333333333334,yes,C6,12,12.5,10,10,10,10.5,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-08-05,Troublesome,Trou4,C,TROU4C9,9,0.1,28,Mineral,48,Rock,30,Mineral,4,4,6,4.666666666666667,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-05,Troublesome,Trou5,A,TROU5A6,6,0,25,Frozen Ground,39,Frozen Ground,25,Frozen Ground,7,5,7,6.333333333333333,yes,A6,28,23,10,10,8.5,8,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-08-05,Troublesome,Trou5,A,TROU5A3,3,0,44,Mineral,55,Frozen Ground,44,Mineral,4,8,7,6.333333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-05,Troublesome,Trou5,A,TROU5A9,9,0,15,Mineral,55,Frozen Ground,37,Mineral,10,10,6,8.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-05,Troublesome,Trou5,B,TROU5B6,6,0,20,Mineral,59,Frozen Ground,47,Frozen Ground,5,4,4,4.333333333333333,yes,B6,19,22,9,9,8,7,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-08-05,Troublesome,Trou5,B,TROU5B3,3,0,54,Frozen Ground,54,Frozen Ground,22,Mineral,11,12,10,11,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-05,Troublesome,Trou5,B,TROU5B9,9,0,25,Mineral,44,Frozen Ground,30,Mineral,5,5,5,5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-05,Troublesome,Trou5,C,TROU5C6,6,0,12.5,Mineral,55,Frozen Ground,11,Mineral,3,3,4,3.3333333333333335,yes,C6,13,12,10,9,9.5,8.5,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-08-05,Troublesome,Trou5,C,TROU5C3,3,0,37,Mineral,50,Rock,34,Frozen Ground,8,5,2,5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-05,Troublesome,Trou5,C,TROU5C9,9,0,33,Mineral,55,Frozen Ground,33,Mineral,1,2,1,1.3333333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr1,A,YUCR1A6,6,0.5,0,Mineral,120,>100cm,15,Mineral,16,5,8,9.666666666666666,yes,A6,23,23.5,10.5,10,9,8.5,"Had to go off point to find organic, at 5m",NA,5,5,5,5,Core,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr1,A,YUCR1A3,3,3,10,Mineral,120,Frozen Ground,13,Mineral,15,12,16,14.333333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr1,A,YUCR1A9,9,0.1,45,Mineral,59,Frozen Ground,45,Mineral,15,11,10,12,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr1,B,YUCR1B3,3,5,0,Mineral,120,>100cm,0,Mineral,6,9,8,7.666666666666667,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr1,B,YUCR1B6,6,0.5,17,"Mineral,Water",105,Frozen Ground,32,"Mineral,Water",13,8,4,8.333333333333334,yes,B6,17,17,10.5,10,9.5,9,NA,NA,5,5,5,5,Grab,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr1,B,YUCR1B9,9,0,20,Mineral,102,Frozen Ground,17,Mineral,6,4,10,6.666666666666667,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr1,C,YUCR1C3,3,2,20,Mineral,83,Frozen Ground,15,Mineral,7,6,6,6.333333333333333,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr1,C,YUCR1C6,6,0.5,10.5,Mineral,67,Frozen Ground,22,Mineral,3,10,5,6,yes,C6,10,10.5,10.5,10.5,9,9,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr1,C,YUCR1C9,9,0.1,17,Mineral,51,Frozen Ground,17,Mineral,10,12,11,11,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr2,A,YUCR2A6,6,0.5,8.5,Mineral,120,>100cm,11,Mineral,25,21.5,22,22.833333333333332,yes,A6,8.5,8.5,10,10.5,9,9.5,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr2,A,YUCR2A3,3,0.1,3.5,Mineral,120,>100cm,11,Mineral,25.5,19,22,22.166666666666668,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr2,A,YUCR2A9,9,0.5,5,Mineral,94,Mineral,5.5,Mineral,21,19,12.5,17.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr2,B,YUCR2B6,6,0,6,Root,96,Rock,2,Mineral,15.5,17,14.5,15.666666666666666,yes,B6,5,7,10,10,10,9.5,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr2,B,YUCR2B3,3,0,17,Mineral,120,>100cm,2,Mineral,22,24.5,26,24.166666666666668,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr2,B,YUCR2B9,9,0.5,9,Mineral,120,>100cm,6.5,Mineral,18,20,14,17.333333333333332,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr2,C,YUCR2C6,6,0,10,Mineral,88,Mineral,3.5,Mineral,26,24.5,23.5,24.666666666666668,yes,C6,9.5,10.5,9.5,9,9.5,10,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr2,C,YUCR2C3,3,0.5,14.5,Mineral,101,Mineral,17.5,Mineral,13,15,16.5,14.833333333333334,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr2,C,YUCR2C9,9,0,13.5,Mineral,115,Rock,13.5,Mineral,25.5,24.5,19.5,23.166666666666668,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr3,A,YUCR3A3,3,1,4,Mineral,120,Frozen Ground,16,Mineral,15,24,23,20.666666666666668,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr3,A,YUCR3A9,9,0,25,Mineral,54,Frozen Ground,19,Mineral,11,13,17,13.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr3,A,YUCR3A6,6,0,19.5,Mineral,48,Frozen Ground,21,Mineral,19,9.5,18,15.5,yes,A6,19.5,19,10,10,10,11,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr3,B,YUCR3B3,3,0,13,Mineral,90,Frozen Ground,23,"Mineral,Water",15,9,11,11.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr3,B,YUCR3B9,9,4,26,Mineral,61,Frozen Ground,24,Mineral,15,14,4,11,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr3,B,YUCR3B6,6,0.1,6,Mineral,76,Frozen Ground,5,Mineral,7,12,5,8,yes,B6,6,5.5,9,10,10,9.5,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr3,C,YUCR3C3,3,10,36,Mineral,92,Frozen Ground,21,Mineral,14,12,12,12.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr3,C,YUCR3C9,9,0.1,12,Mineral,120,>100cm,12,Mineral,34,18,9,20.333333333333332,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr3,C,YUCR3C6,6,0,18.5,Mineral,75,Frozen Ground,4,Mineral,5,10,10,8.333333333333334,yes,C6,18,18.5,10,11,10,10.5,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-08-04,Yukon Creek,YuCr4,A,YUCR4A3,3,0.1,2,Mineral,34,Mineral,2,Mineral,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-04,Yukon Creek,YuCr4,A,YUCR4A6,6,0.1,4.5,Mineral,32,Mineral,1,Mineral,11,11,NA,11,yes,A6,4.5,4.5,9.5,9.5,10,10,NA,NA,5,NA,5,NA,Core,Crumbly and dry,NA,NA
+2025-08-04,Yukon Creek,YuCr4,A,YUCR4A9,9,1,2,Mineral,52,Mineral,2,Mineral,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-04,Yukon Creek,YuCr4,B,YUCR4B3,3,1,3,Mineral,29,Mineral,0.1,Mineral,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-04,Yukon Creek,YuCr4,B,YUCR4B6,6,0.1,2,Mineral,45,Mineral,6,Mineral,12,NA,NA,12,yes,B6,2,1.5,9,9,10,10,NA,NA,5,NA,5,NA,Core,Dry and crumbly,NA,NA
+2025-08-04,Yukon Creek,YuCr4,B,YUCR4B9,9,NA,4,Mineral,21,Mineral,2,Mineral,NA,NA,NA,NA,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-04,Yukon Creek,YuCr4,C,YUCR4C3,3,0,1,Mineral,46,Mineral,2,Mineral,6,9,14,9.666666666666666,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-04,Yukon Creek,YuCr4,C,YUCR4C6,6,0,0,Mineral,35,Mineral,3,Mineral,21,18,NA,19.5,yes,C6,10.5,11,9,9.5,10,9.5,Had to go farther then 1 meter away from the transect to find organic,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-04,Yukon Creek,YuCr4,C,YUCR4C9,9,1,1.5,Mineral,34,Mineral,2,Mineral,28,23,18,23,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-04,Yukon Creek,YuCr5,A,YUCR5A3,3,0.5,0,Mineral,61,Rock,0,Mineral,19.5,21.5,22,21,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-04,Yukon Creek,YuCr5,A,YUCR5A6,6,0.5,3.5,Mineral,51,Rock,0,Mineral,26,24.5,28,26.166666666666668,yes,A6,3.5,3.5,9.5,9.5,9,9,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-08-04,Yukon Creek,YuCr5,A,YUCR5A9,9,0.1,0.5,Mineral,25,Rock,0,Mineral,18,14,23,18.333333333333332,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-04,Yukon Creek,YuCr5,B,YUCR5B3,3,0.5,0.5,Mineral,58,Mineral,3.5,Mineral,25.5,21.5,22,23,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-04,Yukon Creek,YuCr5,B,YUCR5B6,6,0.5,0.5,Mineral,15,Rock,1.5,Mineral,27,25.5,34,28.833333333333332,yes,B6,13,13.5,10.5,10,9.5,10,Had to go further than 1m off transect to find organic sample,NA,5,5,5,5,Core,NA,NA,NA
+2025-08-04,Yukon Creek,YuCr5,B,YUCR5B9,9,0.5,1,Mineral,52,Rock,1.5,Mineral,30,32,34.5,32.166666666666664,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-04,Yukon Creek,YuCr5,C,YUCR5C6,6,0,2,Mineral,76,Mineral,2,Mineral,24.5,25,23.5,24.333333333333332,yes,C6,2,2,9,9,8,8,NA,NA,5,5,5,5,Core,NA,NA,NA
+2025-08-04,Yukon Creek,YuCr5,C,YUCR5C9,9,0.1,3,Mineral,57,Mineral,2.5,Mineral,19,24,23,22,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2025-08-04,Yukon Creek,YuCr5,C,YUCR5C3,3,0.5,2.5,Mineral,11,Rock,4,Mineral,33.5,37,33,34.5,no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

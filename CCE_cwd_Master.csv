@@ -1,0 +1,372 @@
+date,fire_scar,site,plot,species,diameter_cm,decay_class,combustion,cwd_notes,cwd_photo
+2021-07-17,Aggie Creek,AgCr1,A,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr1,B,unknown,6.4,hard,75,NA,NA
+2021-07-17,Aggie Creek,AgCr1,C,unknown,6.3,crumbly,75,NA,NA
+2021-07-17,Aggie Creek,AgCr2,A,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr2,B,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr2,C,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr3,A,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr3,B,NA,NA,NA,NA,NA,NA
+2021-07-17,Aggie Creek,AgCr3,C,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,A,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,B,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr4,C,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr5,A,black spruce,5.3,crumbly,75,NA,NA
+2021-07-18,Aggie Creek,AgCr5,B,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr5,C,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr6,A,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr6,B,NA,NA,NA,NA,NA,NA
+2021-07-18,Aggie Creek,AgCr6,C,NA,NA,NA,NA,NA,NA
+2023-07-08,Chitanana,Chit1,A,unknown,0.8,crumbly,50,NA,NA
+2025-08-03,Chitanana,Chit1,A,NA,NA,NA,NA,NA,NA
+2023-07-08,Chitanana,Chit1,B,unknown,2.7,crumbly,25,NA,NA
+2025-08-03,Chitanana,Chit1,B,NA,NA,NA,NA,NA,NA
+2023-07-08,Chitanana,Chit1,C,black spruce,3.1,crumbly,50,NA,NA
+2025-08-03,Chitanana,Chit1,C,NA,NA,NA,NA,NA,NA
+2023-07-09,Chitanana,Chit3,A,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit3,A,NA,NA,NA,NA,NA,NA
+2023-07-09,Chitanana,Chit3,B,unknown conifer,2.9,crumbly,25,NA,NA
+2023-07-09,Chitanana,Chit3,B,unknown conifer,0.7,crumbly,75,NA,NA
+2025-08-03,Chitanana,Chit3,B,NA,NA,NA,NA,NA,NA
+2023-07-09,Chitanana,Chit3,C,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit3,C,NA,NA,NA,NA,NA,NA
+2023-07-09,Chitanana,Chit4,A,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit4,A,NA,NA,NA,NA,NA,NA
+2023-07-09,Chitanana,Chit4,B,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit4,B,NA,NA,NA,NA,NA,NA
+2023-07-09,Chitanana,Chit4,C,NA,NA,NA,NA,NA,NA
+2025-08-03,Chitanana,Chit4,C,NA,NA,NA,NA,NA,NA
+2024-08-05,Dry Creek,DrCr1,A,NA,NA,NA,NA,NA,NA
+2024-08-05,Dry Creek,DrCr1,B,black spruce,4.5,crumbly,25,NA,NA
+2024-08-05,Dry Creek,DrCr1,B,black spruce,3.5,crumbly,25,NA,NA
+2024-08-05,Dry Creek,DrCr1,C,NA,NA,NA,NA,NA,NA
+2024-08-05,Dry Creek,DrCr2,A,NA,NA,NA,NA,NA,NA
+2024-08-05,Dry Creek,DrCr2,B,NA,NA,NA,NA,NA,NA
+2024-08-05,Dry Creek,DrCr2,C,NA,NA,NA,NA,NA,NA
+2024-08-05,Dry Creek,DrCr3,A,NA,NA,NA,NA,NA,NA
+2024-08-05,Dry Creek,DrCr3,B,black spruce,2.25,hard,25,NA,NA
+2024-08-05,Dry Creek,DrCr3,C,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr4,A,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr4,B,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr4,C,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr5,A,black spruce,8.6,hard,25,NA,NA
+2024-08-06,Dry Creek,DrCr5,B,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr5,C,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr6,A,NA,NA,NA,NA,NA,NA
+2024-08-06,Dry Creek,DrCr6,B,black spruce,1.37,soft,25,NA,NA
+2024-08-06,Dry Creek,DrCr6,C,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob1,A,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob1,B,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob1,C,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob2,A,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob2,B,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob2,C,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob3,A,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob3,B,NA,NA,NA,NA,NA,NA
+2025-07-31,Globe,Glob3,C,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob4,A,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob4,B,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob4,C,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob5,A,black spruce,6.1,hard,25,NA,NA
+2025-07-23,Globe,Glob5,A,black spruce,6.2,hard,25,NA,NA
+2025-07-23,Globe,Glob5,A,black spruce,6,hard,25,NA,NA
+2025-07-23,Globe,Glob5,B,black spruce,5.2,hard,25,NA,NA
+2025-07-23,Globe,Glob5,C,black spruce,10.4,crumbly,75,NA,NA
+2025-07-23,Globe,Glob6,A,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob6,B,NA,NA,NA,NA,NA,NA
+2025-07-23,Globe,Glob6,C,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays1,A,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays1,B,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays1,C,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays2,A,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays2,B,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays2,C,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays3,A,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays3,B,NA,NA,NA,NA,NA,NA
+2024-07-14,Haystack,Hays3,C,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays4,A,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays4,B,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays4,C,black spruce,4.2,hard,25,NA,NA
+2024-07-25,Haystack,Hays5,A,unknown,2.6,hard,75,Not included in browns transect,NA
+2024-07-25,Haystack,Hays5,B,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays5,C,black spruce,4.3,hard,50,Not included in browns transect,NA
+2024-07-25,Haystack,Hays6,A,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays6,B,NA,NA,NA,NA,NA,NA
+2024-07-25,Haystack,Hays6,C,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,A,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr1,A,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,B,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr1,B,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr1,C,NA,NA,NA,NA,NA,NA
+2024-07-22,Hess Creek,HeCr1,C,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr2,A,unknown,27.4,crumbly,75,NA,NA
+2021-07-10,Hess Creek,HeCr2,A,unknown,17.3,crumbly,25,NA,NA
+2021-07-10,Hess Creek,HeCr2,B,unknown,14.1,hard,50,NA,NA
+2021-07-10,Hess Creek,HeCr2,B,unknown,7.5,soft,25,NA,NA
+2021-07-10,Hess Creek,HeCr2,B,unknown,12,hard,50,NA,NA
+2021-07-10,Hess Creek,HeCr2,B,unknown,5.5,hard,75,NA,NA
+2021-07-10,Hess Creek,HeCr2,C,unknown,11.5,crumbly,75,NA,NA
+2021-07-10,Hess Creek,HeCr2,C,unknown,16.5,crumbly,25,NA,NA
+2021-07-10,Hess Creek,HeCr2,C,unknown,13.3,hard,50,NA,NA
+2021-07-10,Hess Creek,HeCr2,C,unknown,11.6,soft,50,NA,NA
+2021-07-11,Hess Creek,HeCr3,A,unknown,5.2,crumbly,75,NA,NA
+2021-07-11,Hess Creek,HeCr3,B,unknown,5.1,hard,75,NA,NA
+2021-07-11,Hess Creek,HeCr3,B,unknown,9,hard,75,NA,NA
+2021-07-11,Hess Creek,HeCr3,C,unknown,10.5,crumbly,75,NA,NA
+2021-07-11,Hess Creek,HeCr4,A,black spruce,5,hard,25,NA,NA
+2024-07-23,Hess Creek,HeCr4,A,NA,NA,NA,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,B,NA,NA,NA,NA,NA,NA
+2024-07-23,Hess Creek,HeCr4,B,NA,NA,NA,NA,NA,NA
+2021-07-11,Hess Creek,HeCr4,C,black spruce,5.4,hard,25,NA,NA
+2024-07-23,Hess Creek,HeCr4,C,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr5,A,black spruce,5,hard,75,NA,NA
+2021-07-10,Hess Creek,HeCr5,A,black spruce,7,hard,50,NA,NA
+2021-07-10,Hess Creek,HeCr5,B,black spruce,7,soft,75,NA,NA
+2021-07-10,Hess Creek,HeCr5,C,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,A,unknown,24.5,crumbly,25,NA,NA
+2021-07-10,Hess Creek,HeCr6,B,NA,NA,NA,NA,NA,NA
+2021-07-10,Hess Creek,HeCr6,C,unknown,5.5,hard,75,NA,NA
+2021-07-10,Hess Creek,HeCr6,C,unknown,8.1,soft,75,NA,NA
+2021-07-10,Hess Creek,HeCr6,C,unknown,7.5,hard,75,NA,NA
+2021-07-10,Hess Creek,HeCr6,C,unknown,5.2,hard,50,NA,NA
+2021-07-10,Hess Creek,HeCr6,C,unknown,5.7,crumbly,50,NA,NA
+2025-08-08,Isom,Isom1,A,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom1,B,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom1,C,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom2,A,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom2,B,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom2,C,black spruce,5.7,hard,50,NA,NA
+2023-07-24,Isom,Isom3,A,black spruce,2.2,hard,25,NA,NA
+2023-07-24,Isom,Isom3,A,black spruce,2.6,hard,25,NA,NA
+2025-08-08,Isom,Isom3,A,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom3,B,black spruce,3.1,crumbly,25,NA,NA
+2023-07-24,Isom,Isom3,B,black spruce,1.6,hard,25,NA,NA
+2023-07-24,Isom,Isom3,B,black spruce,2.1,hard,50,NA,NA
+2023-07-24,Isom,Isom3,B,unknown,4.7,crumbly,75,NA,NA
+2025-08-08,Isom,Isom3,B,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom3,C,unknown,2.4,soft,50,NA,NA
+2023-07-24,Isom,Isom3,C,black spruce,4.5,hard,50,NA,NA
+2023-07-24,Isom,Isom3,C,unknown,2.4,soft,75,NA,NA
+2025-08-08,Isom,Isom3,C,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom4,A,black spruce,3,crumbly,25,NA,NA
+2025-08-08,Isom,Isom4,A,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom4,B,black spruce,2.5,hard,50,NA,NA
+2025-08-08,Isom,Isom4,B,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom4,C,NA,NA,NA,NA,NA,NA
+2025-08-08,Isom,Isom4,C,NA,NA,NA,NA,NA,NA
+2023-07-24,Isom,Isom5,A,unknown,3,crumbly,75,NA,NA
+2025-08-08,Isom,Isom5,A,black spruce,5,hard,25,NA,NA
+2023-07-24,Isom,Isom5,B,black spruce,3.4,hard,25,NA,NA
+2023-07-24,Isom,Isom5,B,black spruce,3.3,hard,25,NA,NA
+2023-07-24,Isom,Isom5,B,black spruce,1.3,crumbly,50,NA,NA
+2025-08-08,Isom,Isom5,B,black spruce,17.7,hard,25,NA,NA
+2025-08-08,Isom,Isom5,B,black spruce,5.4,hard,25,NA,NA
+2023-07-24,Isom,Isom5,C,black spruce,2.4,hard,25,NA,NA
+2023-07-24,Isom,Isom5,C,black spruce,4,hard,25,NA,NA
+2023-07-24,Isom,Isom5,C,unknown,1.7,hard,50,NA,NA
+2023-07-24,Isom,Isom5,C,unknown,3.1,hard,75,NA,NA
+2023-07-24,Isom,Isom5,C,unknown,1.2,hard,75,NA,NA
+2025-08-08,Isom,Isom5,C,black spruce,6.9,hard,25,NA,NA
+2024-07-15,Lost Horse,LoHo1,A,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo1,B,black spruce,6.5,crumbly,25,NA,NA
+2024-07-15,Lost Horse,LoHo1,C,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo2,A,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo2,B,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo2,C,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo3,A,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,LoHo3,C,black spruce,10.5,crumbly,25,NA,NA
+2024-07-18,Lost Horse,LoHo4,A,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo4,B,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo4,C,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo5,A,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo5,B,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo5,C,unknown,2.7,hard,25,NA,NA
+2024-07-18,Lost Horse,LoHo6,A,unknown,3.1,hard,50,NA,NA
+2024-07-18,Lost Horse,LoHo6,B,NA,NA,NA,NA,NA,NA
+2024-07-18,Lost Horse,LoHo6,C,NA,NA,NA,NA,NA,NA
+2024-07-15,Lost Horse,Loho3,B,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr1,A,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr1,B,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr1,C,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr2,A,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr2,B,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr2,C,NA,NA,NA,NA,NA,NA
+2024-08-07,McCoy Creek,McCr3,A,NA,NA,NA,NA,NA,NA
+2024-08-07,McCoy Creek,McCr3,B,NA,NA,NA,NA,NA,NA
+2024-08-07,McCoy Creek,McCr3,C,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr4,A,NA,NA,NA,NA,NA,NA
+2024-07-28,McCoy Creek,McCr4,B,unknown,3,hard,100,NA,NA
+2024-07-28,McCoy Creek,McCr4,C,black spruce,3.5,hard,75,NA,NA
+2024-07-28,McCoy Creek,McCr4,C,black spruce,3,hard,75,NA,NA
+2024-07-29,McCoy Creek,McCr5,A,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr5,B,NA,NA,NA,NA,NA,NA
+2024-07-29,McCoy Creek,McCr5,C,black spruce,4.7,hard,25,NA,NA
+2025-07-26,McDonald,McDo1,A,NA,NA,NA,NA,NA,NA
+2025-07-26,McDonald,McDo1,B,NA,NA,NA,NA,NA,NA
+2025-07-26,McDonald,McDo1,C,NA,NA,NA,NA,NA,NA
+2025-07-26,McDonald,McDo2,A,NA,NA,NA,NA,NA,NA
+2025-07-26,McDonald,McDo2,B,NA,NA,NA,NA,NA,NA
+2025-07-26,McDonald,McDo2,C,NA,NA,NA,NA,NA,NA
+2025-07-25,McDonald,McDo3,A,NA,NA,NA,NA,NA,NA
+2025-07-25,McDonald,McDo3,B,NA,NA,NA,NA,NA,NA
+2025-07-25,McDonald,McDo3,C,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo4,A,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo4,B,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo4,C,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo5,A,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo5,B,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo5,C,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo6,A,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo6,B,NA,NA,NA,NA,NA,NA
+2025-07-29,McDonald,McDo6,C,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr1,A,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr1,B,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr1,C,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr2,A,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr2,B,black spruce,1.2,hard,50,NA,NA
+2024-08-01,Munson Creek,MuCr2,C,black spruce,1.09,hard,75,NA,NA
+2024-08-01,Munson Creek,MuCr2,C,black spruce,0.95,hard,50,NA,NA
+2024-08-01,Munson Creek,MuCr3,A,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr3,B,NA,NA,NA,NA,NA,NA
+2024-08-01,Munson Creek,MuCr3,C,NA,NA,NA,NA,NA,NA
+2024-08-04,Munson Creek,MuCr4,A,black spruce,0.89,hard,25,NA,NA
+2024-08-04,Munson Creek,MuCr4,A,black spruce,0.85,hard,25,NA,NA
+2024-08-04,Munson Creek,MuCr4,B,NA,NA,NA,NA,NA,NA
+2024-08-04,Munson Creek,MuCr4,C,NA,NA,NA,NA,NA,NA
+2024-08-04,Munson Creek,MuCr5,A,NA,NA,NA,NA,NA,NA
+2024-08-04,Munson Creek,MuCr5,B,NA,NA,NA,NA,NA,NA
+2024-08-04,Munson Creek,MuCr5,C,unknown,2.3,crumbly,0,NA,NA
+2024-07-30,Nugget Creek,NuCr1,A,NA,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr1,B,NA,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr1,C,NA,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr2,A,NA,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr2,B,NA,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr2,C,NA,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr3,A,NA,NA,NA,NA,NA,NA
+2024-07-30,Nugget Creek,NuCr3,B,black spruce,1.5,hard,25,NA,NA
+2024-07-30,Nugget Creek,NuCr3,C,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr4,A,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr4,B,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr4,C,black spruce,4.86,hard,25,NA,NA
+2024-07-31,Nugget Creek,NuCr5,A,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr5,B,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr5,C,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr6,A,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr6,B,NA,NA,NA,NA,NA,NA
+2024-07-31,Nugget Creek,NuCr6,C,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr1,A,black spruce,7,crumbly,50,NA,NA
+2024-07-16,Shovel Creek,ShCr1,A,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr1,B,NA,NA,NA,NA,NA,NA
+2024-07-16,Shovel Creek,ShCr1,C,NA,NA,NA,NA,NA,NA
+2021-07-05,Shovel Creek,ShCr2,A,unknown conifer,5.5,crumbly,75,NA,NA
+2021-07-05,Shovel Creek,ShCr2,B,unknown conifer,6,crumbly,50,NA,NA
+2021-07-05,Shovel Creek,ShCr2,B,unknown conifer,6,hard,50,NA,NA
+2021-07-05,Shovel Creek,ShCr2,C,unknown conifer,6.2,hard,75,NA,NA
+2021-07-05,Shovel Creek,ShCr3,A,unknown,7.7,crumbly,75,NA,NA
+2021-07-05,Shovel Creek,ShCr3,C,unknown,6.9,crumbly,75,NA,NA
+2021-07-05,Shovel Creek,ShCr3,C,unknown,12.4,crumbly,50,NA,NA
+2021-07-05,Shovel Creek,ShCr3,C,unknown,10.2,crumbly,25,NA,NA
+2021-07-05,Shovel Creek,ShCr4,A,black spruce,12.2,hard,25,NA,NA
+2021-07-05,Shovel Creek,ShCr4,B,black spruce,9.3,hard,25,NA,NA
+2021-07-05,Shovel Creek,ShCr4,B,unknown,7.8,crumbly,75,NA,NA
+2021-07-05,Shovel Creek,ShCr4,B,unknown,8.5,crumbly,75,NA,NA
+2021-07-05,Shovel Creek,ShCr4,C,black spruce,5.1,crumbly,75,NA,NA
+2021-07-05,Shovel Creek,ShCr4,C,unknown,9.3,crumbly,75,NA,NA
+2021-07-03,Shovel Creek,ShCr5,A,unknown,9.3,hard,75,NA,NA
+2021-07-03,Shovel Creek,ShCr5,B,unknown,10.7,crumbly,75,NA,NA
+2021-07-03,Shovel Creek,ShCr5,B,unknown,3.8,soft,25,NA,NA
+2021-07-03,Shovel Creek,ShCr5,C,black spruce,7.3,hard,50,NA,NA
+2021-07-03,Shovel Creek,ShCr5,C,unknown,9.9,hard,50,NA,NA
+2021-07-20,Shovel Creek,ShCr6,A,black spruce,9.1,hard,75,NA,NA
+2021-07-20,Shovel Creek,ShCr6,B,black spruce,4.2,hard,75,NA,NA
+2021-07-20,Shovel Creek,ShCr6,C,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat1,A,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat1,B,black spruce,14.5,crumbly,25,NA,NA
+2025-07-26,Slate,Slat1,C,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat2,A,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat2,B,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat2,C,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat3,A,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat3,B,NA,NA,NA,NA,NA,NA
+2025-07-26,Slate,Slat3,C,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat4,A,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat4,B,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat4,C,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat5,A,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat5,B,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat5,C,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat6,A,NA,NA,NA,NA,NA,NA
+2025-07-27,Slate,Slat6,B,black spruce,5.4,hard,50,NA,NA
+2025-07-27,Slate,Slat6,C,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl1,A,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl1,B,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl1,C,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl2,A,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl2,B,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl2,C,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl3,A,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl3,B,NA,NA,NA,NA,NA,NA
+2024-08-03,Teklanika,Tekl3,C,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl4,A,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl4,B,black spruce,2.6,hard,50,NA,NA
+2024-08-02,Teklanika,Tekl4,C,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl5,A,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl5,B,black spruce,2.68,soft,50,NA,NA
+2024-08-02,Teklanika,Tekl6,A,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl6,B,NA,NA,NA,NA,NA,NA
+2024-08-02,Teklanika,Tekl6,C,NA,NA,NA,NA,NA,NA
+2025-08-02,Troublesome,Trou1,A,black spruce,8,crumbly,0,Rotted wood,5323f894-b36f-45ff-8cef-4c1c048158b0
+2025-08-02,Troublesome,Trou1,B,black spruce,6.7,hard,25,NA,4a8998dc-7416-4ee4-84c3-27b852f096ec
+2025-08-02,Troublesome,Trou1,C,birch,6.4,hard,25,Hybridized birch shrub/tree,21b3ecd9-6842-4b30-9f6d-9791c5477cc9
+2025-08-02,Troublesome,Trou2,A,black spruce,10,crumbly,25,NA,NA
+2025-08-02,Troublesome,Trou2,B,NA,NA,NA,NA,NA,NA
+2025-08-02,Troublesome,Trou2,C,black spruce,12.3,soft,25,Broken tree looks like snag,59aa4602-15b1-4b91-a6cc-2150eecfe522
+2025-08-02,Troublesome,Trou3,A,NA,NA,NA,NA,NA,NA
+2025-08-02,Troublesome,Trou3,B,black spruce,5.3,hard,0,NA,NA
+2025-08-02,Troublesome,Trou3,C,NA,NA,NA,NA,NA,NA
+2025-08-05,Troublesome,Trou4,A,NA,NA,NA,NA,NA,NA
+2025-08-05,Troublesome,Trou4,B,NA,NA,NA,NA,NA,NA
+2025-08-05,Troublesome,Trou4,C,NA,NA,NA,NA,NA,NA
+2025-08-05,Troublesome,Trou5,A,NA,NA,NA,NA,NA,NA
+2025-08-05,Troublesome,Trou5,B,NA,NA,NA,NA,NA,NA
+2025-08-05,Troublesome,Trou5,C,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr1,A,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr1,B,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr1,C,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr2,A,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr2,B,black spruce,8.4,hard,25,NA,NA
+2025-08-01,Yukon Creek,YuCr2,C,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr3,A,black spruce,3.4,soft,50,NA,NA
+2025-08-01,Yukon Creek,YuCr3,A,black spruce,7,crumbly,50,NA,NA
+2025-08-01,Yukon Creek,YuCr3,B,NA,NA,NA,NA,NA,NA
+2025-08-01,Yukon Creek,YuCr3,C,NA,NA,NA,NA,NA,NA
+2025-08-04,Yukon Creek,YuCr4,A,black spruce,10.1,hard,25,NA,NA
+2025-08-04,Yukon Creek,YuCr4,A,black spruce,12.4,hard,25,NA,NA
+2025-08-04,Yukon Creek,YuCr4,A,black spruce,7.4,hard,25,NA,NA
+2025-08-04,Yukon Creek,YuCr4,A,black spruce,10,hard,0,NA,NA
+2025-08-04,Yukon Creek,YuCr4,A,black spruce,5.6,hard,0,NA,NA
+2025-08-04,Yukon Creek,YuCr4,A,black spruce,9.1,hard,0,NA,NA
+2025-08-04,Yukon Creek,YuCr4,A,black spruce,5,hard,25,NA,NA
+2025-08-04,Yukon Creek,YuCr4,A,black spruce,5.5,hard,25,NA,NA
+2025-08-04,Yukon Creek,YuCr4,B,black spruce,5.5,hard,0,NA,NA
+2025-08-04,Yukon Creek,YuCr4,B,black spruce,5.3,hard,0,NA,NA
+2025-08-04,Yukon Creek,YuCr4,B,black spruce,10.6,hard,0,NA,NA
+2025-08-04,Yukon Creek,YuCr4,B,black spruce,6.6,hard,25,NA,NA
+2025-08-04,Yukon Creek,YuCr4,B,black spruce,6.8,hard,0,NA,NA
+2025-08-04,Yukon Creek,YuCr4,B,black spruce,7,hard,0,NA,NA
+2025-08-04,Yukon Creek,YuCr4,B,black spruce,7.6,hard,0,NA,NA
+2025-08-04,Yukon Creek,YuCr4,B,black spruce,5.8,hard,0,NA,NA
+2025-08-04,Yukon Creek,YuCr4,B,black spruce,5.4,hard,0,NA,NA
+2025-08-04,Yukon Creek,YuCr4,C,black spruce,5.6,hard,0,NA,NA
+2025-08-04,Yukon Creek,YuCr4,C,black spruce,6.2,hard,50,NA,NA
+2025-08-04,Yukon Creek,YuCr4,C,black spruce,10.3,hard,25,NA,NA
+2025-08-04,Yukon Creek,YuCr4,C,black spruce,6.8,hard,0,NA,NA
+2025-08-04,Yukon Creek,YuCr4,C,black spruce,7.1,hard,0,NA,NA
+2025-08-04,Yukon Creek,YuCr4,C,black spruce,8.3,hard,50,NA,NA
+2025-08-04,Yukon Creek,YuCr4,C,black spruce,9.3,hard,50,NA,NA
+2025-08-04,Yukon Creek,YuCr4,C,black spruce,8.9,hard,0,NA,NA
+2025-08-04,Yukon Creek,YuCr4,C,black spruce,8.2,hard,0,NA,NA
+2025-08-04,Yukon Creek,YuCr4,C,black spruce,5.1,hard,0,NA,NA
+2025-08-04,Yukon Creek,YuCr5,A,NA,NA,NA,NA,NA,NA
+2025-08-04,Yukon Creek,YuCr5,B,NA,NA,NA,NA,NA,NA
+2025-08-04,Yukon Creek,YuCr5,C,black spruce,9.4,hard,25,NA,NA
