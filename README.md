@@ -9,7 +9,7 @@ Compiles pre-fire biomass, combustion, and post-fire biomass estimates at the pl
 
 ## Inputs
 
-All files read from `Field_Data/Analysis_Ready/`:
+All input files are read from `Field_Data/Analysis_Ready/` within the CCE shared Google Drive folder (Projects). File paths are set relative to the R Project file located in the root of that folder.
 
 - `CCE_soils_Master.csv`
 - `CCE_site_Master.csv`
