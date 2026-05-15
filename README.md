@@ -106,19 +106,6 @@ For trees measured by basal diameter only:
 | Live crown | `17.24 * DBH^2.30` | `7.36 * BD^2.46` |
 | Stemwood/bark | `98.26 * DBH^2.32` | `43.35 * BD^2.47` |
 
-**Larch / Tamarack (*Larix laricina*) — Ker (1980b), via Ter-Mikaelian & Korzukhin (1997)**
-
-DBH-only equations (no basal diameter equivalent available):
-
-| Component | Equation |
-|---|---|
-| Total biomass | `0.0946 * DBH^2.3572` |
-| Foliage | `0.0061 * DBH^1.9790` |
-| Branches (total) | `0.0178 * DBH^2.1727` |
-| Stemwood/bark | `0.0609 * DBH^2.4472` |
-
-Fine/coarse branch split uses deciduous proportions (15%/85%). Dead branch fraction uses the deciduous coefficient (1.4% of total biomass). Note: no basal diameter equations are available for larch; trees recorded without DBH will return NA for biomass.
-
 **White spruce (*Picea glauca*) — Alexander et al. (2012)**
 
 | Component | DBH equation | BD equation |
@@ -128,13 +115,26 @@ Fine/coarse branch split uses deciduous proportions (15%/85%). Dead branch fract
 | Live crown | `29.34 * DBH^2.24` | `3.01 * BD^2.79` |
 | Stemwood/bark | `48.44 * DBH^2.51` | `39.13 * BD^2.44` |
 
-Branch biomass for deciduous species and white spruce is derived from live crown minus foliage. Fine and coarse fractions are split as follows: deciduous = 15%/85%; white spruce = 60%/40%.
+**Larch / Tamarack (*Larix laricina*) — Ker (1980b), via Ter-Mikaelian & Korzukhin (1997)**
 
-Larch is reclassified as black spruce prior to allometry. Unknown species are apportioned by site-level relative basal area across known species.
+DBH-only equations from Ker (1980b). For larch trees without DBH, black spruce basal diameter equations (Boby et al. 2010) are used as a fallback.
+
+| Component | DBH equation | BD fallback (black spruce) |
+|---|---|---|
+| Total biomass | `0.0946 * DBH^2.3572` | sum of components below |
+| Foliage | `0.0061 * DBH^1.9790` | `18.3 * BD²` |
+| Branches (total) | `0.0178 * DBH^2.1727` | `10.6 * BD²` |
+| Stemwood/bark | `0.0609 * DBH^2.4472` | `12.0 * BD²` |
+
+Fine/coarse branch split uses deciduous proportions (15%/85%). Although larch is a conifer, it is deciduous and uses the deciduous dead branch fraction (1.4% of total biomass).
+
+Branch biomass for deciduous species and white spruce is derived from live crown minus foliage. Fine and coarse fractions are split as follows: deciduous species and larch = 15%/85%; white spruce = 60%/40%.
+
+Unknown species are apportioned by site-level relative basal area across all known species including larch.
 
 #### Combustion
 
-Field-recorded combustion scores (%) are applied to each biomass component. Dead branch biomass is estimated as a fixed fraction of total biomass: 8.8% for conifers, 1.4% for deciduous species (Boby et al. 2010).
+Field-recorded combustion scores (%) are applied to each biomass component. Dead branch biomass is estimated as a fixed fraction of total biomass: 8.8% for evergreen conifers (black spruce, white spruce), 1.4% for deciduous species and larch (Boby et al. 2010).
 
 #### Plot-level summary
 
@@ -151,6 +151,7 @@ Each plot is assigned a forest type based on a species dominance index — the m
 | POTR | Trembling aspen |
 | BENE | Paper birch |
 | POBA | Balsam poplar |
+| LALA | Larch |
 | MIXED.CON | Mixed conifer |
 | MIXED.DEC | Mixed deciduous |
 | MIXED | No dominant type |
@@ -258,5 +259,4 @@ The following errors were identified and corrected during verification against s
 
 ```r
 library(tidyverse)
-library(fs)
 ```
