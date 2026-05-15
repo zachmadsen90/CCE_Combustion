@@ -1,7 +1,7 @@
 # CCE Plot-Level Combustion
 
 **Author:** Zach Madsen  
-**Created for:** Paige Paulsen  
+**Created for:** CCE Project Combustion Metrics
 
 Compiles pre-fire biomass, combustion, and post-fire biomass estimates at the plot level across trees, snags, coarse woody debris (CWD), and soil. Output is a single analysis-ready CSV joined with site metadata.
 
