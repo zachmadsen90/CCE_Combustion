@@ -1,9 +1,9 @@
 # CCE Plot-Level Combustion
 
 **Author:** Zach Madsen  
-**Created for:** Xanthe Walker and CCE Project 
+**Created for:** Paige Paulsen  
 
-Compiles pre-fire biomass, combustion, and post-fire biomass estimates at the plot level across trees, snags, shrubs, coarse woody debris (CWD), and soil. Output is a single analysis-ready CSV joined with site metadata.
+Compiles pre-fire biomass, combustion, and post-fire biomass estimates at the plot level across trees, snags, coarse woody debris (CWD), and soil. Output is a single analysis-ready CSV joined with site metadata.
 
 ---
 
@@ -14,7 +14,6 @@ All input files are read from `Field_Data/Analysis_Ready/` within the CCE shared
 - `CCE_soils_Master.csv`
 - `CCE_site_Master.csv`
 - `CCE_combustion_Master.csv` — trees and snags
-- `CCE_shrub_Master.csv`
 - `CCE_cwd_Master.csv`
 
 ## Output
@@ -165,29 +164,7 @@ Pre-fire standing dead trees are treated separately using stem-only biomass (no 
 
 ---
 
-### 4. Shrubs
-
-**Plot area:** 3 m² (three 1 × 1 m quadrats)
-
-Shrub biomass is estimated using allometric equations from Berner et al. (2015), relating basal diameter to stem, branch, and new growth biomass:
-
-| Species | Component | Equation |
-|---|---|---|
-| *Alnus* | Stem | `4.28 * BD^3.68` |
-| *Alnus* | Branch | `2.23 * BD^3.19` |
-| *Alnus* | New growth | `10.88 * BD^1.55` |
-| *Salix* | Stem | `20.62 * BD^2.29` |
-| *Salix* | Branch | `5.19 * BD^2.37` |
-| *Salix* | New growth | `10.54 * BD^1.71` |
-| *Betula* | Stem | `17.47 * BD^2.36` |
-| *Betula* | Branch | `5.73 * BD^4.06` |
-| *Betula* | New growth | `4.57 * BD^2.45` |
-
-Pre-fire shrub biomass = stem + branch + new growth. No combustion scores were collected for shrubs; combustion and post-fire estimates are not calculated for this fuel type.
-
----
-
-### 5. Coarse Woody Debris (CWD)
+### 4. Coarse Woody Debris (CWD)
 
 **Small pieces (5–< 7 cm diameter):** Mass estimated using multipliers from Nalder et al. (2000) for Class III pieces in the Northwest Territories, converted to g C/m²:
 
@@ -221,13 +198,11 @@ combustion loss = prefire − postfire
 
 ---
 
-### 6. Plot-level summaries
+### 5. Plot-level summaries
 
-Each fuel type is summarized to the plot level before joining. All biomass values are divided by plot area to express as g/m². Carbon equivalents use a 0.5 conversion factor throughout.
+Each fuel type is summarized to the plot level before joining. All biomass values are divided by plot area to express as g/m². Carbon equivalents use a 0.5 conversion factor throughout. For trees and snags, individual tree biomass values within a plot are summed and then divided by the plot area (20 m²) to give g/m².
 
 **Trees and snags** are summarized separately. For live trees, plot-level outputs include total pre-fire biomass, combustion, and post-fire biomass (g/m²), tree density (stems/m²), and basal area (cm²/m²), plus carbon equivalents for all three biomass pools. Species-level density, basal area, and biomass are also calculated separately for each species. Snag outputs follow the same structure using stem-only biomass.
-
-**Shrubs** are summarized to pre-fire biomass (g/m²), density (stems/m²), basal area (cm²/m²), and carbon equivalent. No combustion or post-fire values are reported.
 
 **CWD** is summarized to pre-fire, combustion, and post-fire carbon (g C/m²) directly, as the equations output carbon rather than dry mass.
 
@@ -235,19 +210,17 @@ Each fuel type is summarized to the plot level before joining. All biomass value
 
 **Forest type** is assigned per plot based on the species dominance index described in Section 2.
 
-### 7. Final join and export
+### 6. Final join and export
 
-All plot-level summaries are joined sequentially by `fire_scar`, `site`, and `plot` using `full_join`, so that plots appearing in any fuel type dataset are retained even if absent from others. Missing snag, shrub, and CWD values are zero-filled after joining, indicating those fuel types were absent rather than unsampled.
+All plot-level summaries are joined sequentially by `fire_scar`, `site`, and `plot` using `full_join`, so that plots appearing in any fuel type dataset are retained even if absent from others. Missing snag and CWD values are zero-filled after joining, indicating those fuel types were absent rather than unsampled.
 
 Aboveground totals are then calculated across fuel types:
 
 ```
-prefire.above    = prefire.trees  + prefire.shrubs + prefire.snags
+prefire.above    = prefire.trees    + prefire.snags
 combustion.above = combustion.trees + combustion.snags
-postfire.above   = postfire.trees + postfire.snags
+postfire.above   = postfire.trees   + postfire.snags
 ```
-
-Shrubs are included in the pre-fire aboveground total but excluded from combustion and post-fire totals as combustion was not estimated for this fuel type.
 
 The site master (`CCE_site_Master.csv`) is joined last using a left join from the site master, attaching site-level metadata to each plot. Plots without a matching site entry are dropped. Unknown-species density and basal area columns are removed from the final output before export to `CCE_plot_combustion.csv`.
 
@@ -261,7 +234,9 @@ The following errors were identified and corrected during verification against s
 
 **Black spruce needle biomass (DBH < 2.7 cm):** The previous code used `3.9 * DBH²` but Boby et al. (2010) Appendix A, Table A2 specifies `3.9 * ln(DBH)` for trees in this size class. Corrected to `3.9 * log(DBH)` (`log()` in R computes the natural logarithm).
 
-**Larch reclassification removed:** The previous code reclassified all larch (*Larix laricina*) records as black spruce prior to allometry. Larch occurs at 6 sites in the CCE dataset (31 records). Species-specific allometric equations from Ker (1980b) via Ter-Mikaelian & Korzukhin (1997) have been added and larch is now treated as its own species. Combustion and post-fire estimates for shrubs were previously calculated assuming 100% combustion, as no field combustion scores were collected. These columns have been removed. Only pre-fire shrub biomass is now reported.
+**Larch reclassification removed:** The previous code reclassified all larch (*Larix laricina*) records as black spruce prior to allometry. Larch occurs at 6 sites in the CCE dataset (31 records). Species-specific allometric equations from Ker (1980b) via Ter-Mikaelian & Korzukhin (1997) have been added and larch is now treated as its own species.
+
+**Shrub section removed:** The shrub data was recorded post-fire as regeneration, not pre-fire biomass. The section has been removed from the script at Xanthe's request.
 
 **Nalder et al. citation year:** Previously cited as 1999 in code comments; corrected to 2000 (Nalder et al. 2000, *International Journal of Wildland Fire* 9:85–99).
 
@@ -270,7 +245,6 @@ The following errors were identified and corrected during verification against s
 ## References
 
 - Alexander, H.D., et al. 2012. Implications of increased deciduous cover on stand structure and aboveground carbon pools of Alaskan boreal forests. *Ecosphere* 3(5):45.
-- Berner, L.T., et al. 2015. Biomass allometry for alder, dwarf birch, and willow in boreal forest and tundra ecosystems. *Forest Ecology and Management* 337:110–118.
 - Boby, L.A., et al. 2010. Quantifying fire severity, carbon, and nitrogen emissions in Alaska's boreal forest. *Ecological Applications* 20:1633–1647.
 - Ker, M.F. 1980. Tree biomass equations for ten major species in Cumberland County, Nova Scotia. Canadian Forestry Service, Maritimes Forest Research Centre, Information Report M-X-108. 26 p.
 - Manies, K.L., et al. 2005. Woody debris along an upland chronosequence in boreal Manitoba and its impact on long-term carbon storage. *Canadian Journal of Forest Research* 35:472–482.
