@@ -1,7 +1,7 @@
 #=============================================================================#
 # Title: Plot Level Combustion Data
 # Created by: Zach Madsen
-# Created for: Paige Paulsen
+# Created for: CCE Project Combustion Metrics
 # Date Created: 05/05/2026
 #=============================================================================#
 
@@ -9,7 +9,6 @@
 # Libraries----
 #==================================#
 library(tidyverse)
-library(fs)
 
 #==================================#
 # Data----
@@ -17,7 +16,6 @@ library(fs)
 cce.soil   <- read.csv('Field_Data/Analysis_Ready/CCE_soils_Master.csv')
 cce.site   <- read_csv("Field_Data/Analysis_Ready/CCE_site_Master.csv")
 cce.trees  <- read_csv("Field_Data/Analysis_Ready/CCE_combustion_Master.csv")
-cce.shrubs <- read_csv("Field_Data/Analysis_Ready/CCE_shrub_Master.csv")
 cce.cwd    <- read_csv("Field_Data/Analysis_Ready/CCE_cwd_Master.csv")
 
 #=============================================================================#
@@ -89,12 +87,13 @@ rel.ba.site <- cce.trees %>%
     rel.ba.br = if_else(tree_species == "birch",        ba / site.ba, NA_real_),
     rel.ba.bs = if_else(tree_species == "black spruce", ba / site.ba, NA_real_),
     rel.ba.bp = if_else(tree_species == "poplar",       ba / site.ba, NA_real_),
-    rel.ba.ws = if_else(tree_species == "white spruce", ba / site.ba, NA_real_)
+    rel.ba.ws = if_else(tree_species == "white spruce", ba / site.ba, NA_real_),
+    rel.ba.la = if_else(tree_species == "larch",        ba / site.ba, NA_real_)
   )
 
 # Pivot to wide and fill NAs with 0
 rel.ba.wide <- rel.ba.site %>%
-  select(fire_scar, site, rel.ba.as, rel.ba.br, rel.ba.bs, rel.ba.bp, rel.ba.ws) %>%
+  select(fire_scar, site, rel.ba.as, rel.ba.br, rel.ba.bs, rel.ba.bp, rel.ba.ws, rel.ba.la) %>%
   pivot_longer(cols = starts_with("rel.ba"), names_to = "sp", values_to = "val") %>%
   filter(!is.na(val)) %>%
   pivot_wider(names_from = sp, values_from = val, values_fill = 0)
@@ -121,7 +120,7 @@ rel.ba.con <- cce.trees %>%
 cce.trees <- cce.trees %>%
   left_join(rel.ba.wide, by = c("fire_scar", "site")) %>%
   left_join(rel.ba.con,  by = c("fire_scar", "site")) %>%
-  mutate(across(any_of(c("rel.ba.as", "rel.ba.br", "rel.ba.bs", "rel.ba.bp", "rel.ba.ws",
+  mutate(across(any_of(c("rel.ba.as", "rel.ba.br", "rel.ba.bs", "rel.ba.bp", "rel.ba.ws", "rel.ba.la",
                          "rel.ba.bs.c", "rel.ba.ws.c")), ~ replace_na(., 0)))
 
 #--------------------------------------------------------------------#
@@ -289,22 +288,31 @@ cce.trees <- cce.trees %>%
   )
 
 # -- LARCH / TAMARACK (Ker 1980b, via Ter-Mikaelian & Korzukhin 1997) --
+# Note: no basal diameter equations available for larch; trees without DBH
+# fall back to black spruce basal diameter equations (Boby et al. 2010)
 cce.trees <- cce.trees %>%
   mutate(
     total.biomass.la = case_when(
-      tree_species == "larch" & !is.na(dbh) ~ 0.0946 * (dbh^2.3572),
+      tree_species == "larch" & !is.na(dbh)               ~ 0.0946 * (dbh^2.3572),
+      tree_species == "larch" & is.na(dbh)                ~ 18.3   * (basal_diameter^2) +
+        7.5    * (basal_diameter^2) +
+        3.1    * (basal_diameter^2) +
+        12.0   * (basal_diameter^2),
       TRUE ~ NA_real_
     ),
     foliage.la = case_when(
       tree_species == "larch" & !is.na(dbh) ~ 0.0061 * (dbh^1.9790),
+      tree_species == "larch" & is.na(dbh)  ~ 18.3   * (basal_diameter^2),
       TRUE ~ NA_real_
     ),
     branches.la = case_when(
       tree_species == "larch" & !is.na(dbh) ~ 0.0178 * (dbh^2.1727),
+      tree_species == "larch" & is.na(dbh)  ~ (7.5 + 3.1) * (basal_diameter^2),
       TRUE ~ NA_real_
     ),
     stemwood.bark.la = case_when(
       tree_species == "larch" & !is.na(dbh) ~ 0.0609 * (dbh^2.4472),
+      tree_species == "larch" & is.na(dbh)  ~ 12.0   * (basal_diameter^2),
       TRUE ~ NA_real_
     )
   ) %>%
@@ -394,6 +402,7 @@ cce.snags <- cce.trees %>%
       tree_species == "white spruce" & !is.na(dbh) ~ 48.44  * (dbh^2.51),
       tree_species == "white spruce" & is.na(dbh)  ~ 39.13  * (basal_diameter^2.44),
       tree_species == "larch"        & !is.na(dbh) ~ 0.0609 * (dbh^2.4472),
+      tree_species == "larch"        & is.na(dbh)  ~ 12.0   * (basal_diameter^2),
       TRUE ~ NA_real_
     ),
     combust.snag.ind  = stemwood.bark.snag * (stem_combustion / 100),
@@ -450,14 +459,16 @@ PLOTS.DENS <- cce.trees.live %>%
   pivot_wider(names_from = tree_species, values_from = sp.dens,
               names_glue = "{tree_species}.dens", values_fill = 0) %>%
   rename_with(~ str_replace_all(., c("black spruce" = "bs", "white spruce" = "ws",
-                                     "aspen" = "as", "birch" = "br", "poplar" = "bp")),
+                                     "aspen" = "as", "birch" = "br", "poplar" = "bp",
+                                     "larch" = "la")),
               ends_with(".dens")) %>%
   rename(any_of(c(as.pre.dens = "as.dens", br.pre.dens = "br.dens",
                   bs.pre.dens = "bs.dens", bp.pre.dens = "bp.dens",
-                  ws.pre.dens = "ws.dens")))
+                  ws.pre.dens = "ws.dens", la.pre.dens = "la.dens")))
 
 if (!"bp.pre.dens" %in% names(PLOTS.DENS)) PLOTS.DENS$bp.pre.dens <- 0
 if (!"ws.pre.dens" %in% names(PLOTS.DENS)) PLOTS.DENS$ws.pre.dens <- 0
+if (!"la.pre.dens" %in% names(PLOTS.DENS)) PLOTS.DENS$la.pre.dens <- 0
 
 # Total tree density
 PLOTS.DENS <- PLOTS.DENS %>%
@@ -472,11 +483,14 @@ PLOTS.BA <- cce.trees.live %>%
   pivot_wider(names_from = tree_species, values_from = sp.ba,
               names_glue = "{tree_species}.ba", values_fill = 0) %>%
   rename_with(~ str_replace_all(., c("black spruce" = "bs", "white spruce" = "ws",
-                                     "aspen" = "as", "birch" = "br", "poplar" = "bp")),
+                                     "aspen" = "as", "birch" = "br", "poplar" = "bp",
+                                     "larch" = "la")),
               ends_with(".ba")) %>%
   rename(any_of(c(as.pre.ba = "as.ba", br.pre.ba = "br.ba",
                   bs.pre.ba = "bs.ba", bp.pre.ba = "bp.ba",
-                  ws.pre.ba = "ws.ba")))
+                  ws.pre.ba = "ws.ba", la.pre.ba = "la.ba")))
+
+if (!"la.pre.ba" %in% names(PLOTS.BA)) PLOTS.BA$la.pre.ba <- 0
 
 # Species biomass (g/m2)
 PLOTS.BIOMASS <- cce.trees.live %>%
@@ -487,11 +501,13 @@ PLOTS.BIOMASS <- cce.trees.live %>%
     bp.pre.biomass  = sum(total.biomass.bp,      na.rm = TRUE) / PLOT_AREA_TREES,
     bs.pre.biomass  = sum(boby.total.biomass.bs, na.rm = TRUE) / PLOT_AREA_TREES,
     ws.pre.biomass  = sum(total.biomass.ws,      na.rm = TRUE) / PLOT_AREA_TREES,
+    la.pre.biomass  = sum(total.biomass.la,      na.rm = TRUE) / PLOT_AREA_TREES,
     as.comb.biomass = sum(coarse.as.comb + fine.as.comb + foliage.as.comb + dead.branches.as.comb, na.rm = TRUE) / PLOT_AREA_TREES,
     br.comb.biomass = sum(coarse.br.comb + fine.br.comb + foliage.br.comb + dead.branches.br.comb, na.rm = TRUE) / PLOT_AREA_TREES,
     bp.comb.biomass = sum(coarse.bp.comb + fine.bp.comb + foliage.bp.comb + dead.branches.bp.comb, na.rm = TRUE) / PLOT_AREA_TREES,
     bs.comb.biomass = sum(coarse.bs.comb + fine.bs.comb + foliage.bs.comb + dead.branches.bs.comb, na.rm = TRUE) / PLOT_AREA_TREES,
     ws.comb.biomass = sum(coarse.ws.comb + fine.ws.comb + foliage.ws.comb + dead.branches.ws.comb, na.rm = TRUE) / PLOT_AREA_TREES,
+    la.comb.biomass = sum(coarse.la.comb + fine.la.comb + foliage.la.comb + dead.branches.la.comb, na.rm = TRUE) / PLOT_AREA_TREES,
     .groups = "drop"
   ) %>%
   mutate(
@@ -500,8 +516,9 @@ PLOTS.BIOMASS <- cce.trees.live %>%
     bp.post.biomass = bp.pre.biomass - bp.comb.biomass,
     bs.post.biomass = bs.pre.biomass - bs.comb.biomass,
     ws.post.biomass = ws.pre.biomass - ws.comb.biomass,
+    la.post.biomass = la.pre.biomass - la.comb.biomass,
     total.tree.pre.biomass = as.pre.biomass + br.pre.biomass + bp.pre.biomass +
-      bs.pre.biomass + ws.pre.biomass
+      bs.pre.biomass + ws.pre.biomass + la.pre.biomass
   )
 
 #--------------------------------------------------------------------#
@@ -510,13 +527,14 @@ PLOTS.BIOMASS <- cce.trees.live %>%
 SPECIES.INDEX <- PLOTS.BIOMASS %>%
   left_join(PLOTS.DENS, by = c("fire_scar", "site", "plot")) %>%
   mutate(across(any_of(c("bs.pre.dens", "ws.pre.dens", "as.pre.dens",
-                         "br.pre.dens", "bp.pre.dens")), ~ replace_na(., 0))) %>%
+                         "br.pre.dens", "bp.pre.dens", "la.pre.dens")), ~ replace_na(., 0))) %>%
   mutate(
     PIMA = ((bs.pre.biomass / total.tree.pre.biomass) + (bs.pre.dens / total.tree.pre.dens)) / 2,
     PIGL = ((ws.pre.biomass / total.tree.pre.biomass) + (ws.pre.dens / total.tree.pre.dens)) / 2,
     POTR = ((as.pre.biomass / total.tree.pre.biomass) + (as.pre.dens / total.tree.pre.dens)) / 2,
     BENE = ((br.pre.biomass / total.tree.pre.biomass) + (br.pre.dens / total.tree.pre.dens)) / 2,
-    POBA = ((bp.pre.biomass / total.tree.pre.biomass) + (bp.pre.dens / total.tree.pre.dens)) / 2
+    POBA = ((bp.pre.biomass / total.tree.pre.biomass) + (bp.pre.dens / total.tree.pre.dens)) / 2,
+    LALA = ((la.pre.biomass / total.tree.pre.biomass) + (la.pre.dens / total.tree.pre.dens)) / 2
   ) %>%
   mutate(
     ForestType = case_when(
@@ -525,6 +543,7 @@ SPECIES.INDEX <- PLOTS.BIOMASS %>%
       BENE >= 0.66        ~ "BENE",
       POTR >= 0.66        ~ "POTR",
       POBA >= 0.66        ~ "POBA",
+      LALA >= 0.66        ~ "LALA",
       PIMA + PIGL >= 0.66 ~ "MIXED.CON",
       BENE + POTR >= 0.66 ~ "MIXED.DEC",
       TRUE                ~ "MIXED"
@@ -534,113 +553,10 @@ SPECIES.INDEX <- PLOTS.BIOMASS %>%
   select(fire_scar, site, plot, ForestType)
 
 #=============================================================================#
-# 3) Shrubs----
-#=============================================================================#
-# Quadrat area = 1m x 1m, 3 quadrats per plot = 3 m2 per plot
-PLOT_AREA_SHRUBS <- 3
-
-# Filter to rows with shrubs present and valid measurements
-cce.shrubs.filt <- cce.shrubs %>%
-  filter(shrub_regen_present == "yes",
-         !is.na(shrub_regen_count),
-         shrub_regen_count > 0)
-
-# Pivot BD measurements to long, replicate rows by count
-cce.shrubs.long <- cce.shrubs.filt %>%
-  pivot_longer(cols = c(s_bd1, s_bd2, s_bd3), names_to = "bd_rep", values_to = "bd") %>%
-  filter(!is.na(bd)) %>%
-  group_by(fire_scar, site, plot, location, shrub_regen_species) %>%
-  mutate(rep_weight = shrub_regen_count / n()) %>%
-  ungroup()
-
-# Shrub relative BA by site (for unknown species allometry — Berner et al. 2015)
-shrub.rel.ba <- cce.shrubs.long %>%
-  filter(!shrub_regen_species %in% c("Unknown", NA)) %>%
-  group_by(fire_scar, site, shrub_regen_species) %>%
-  summarise(ba = sum(pi * (bd / 2)^2, na.rm = TRUE), .groups = "drop") %>%
-  group_by(fire_scar, site) %>%
-  mutate(site.ba = sum(ba)) %>%
-  ungroup() %>%
-  mutate(
-    rel.ba.a = if_else(shrub_regen_species == "Alnus",  ba / site.ba, NA_real_),
-    rel.ba.s = if_else(shrub_regen_species == "Salix",  ba / site.ba, NA_real_),
-    rel.ba.b = if_else(shrub_regen_species == "Betula", ba / site.ba, NA_real_)
-  ) %>%
-  select(fire_scar, site, rel.ba.a, rel.ba.s, rel.ba.b) %>%
-  pivot_longer(starts_with("rel.ba"), names_to = "sp", values_to = "val") %>%
-  filter(!is.na(val)) %>%
-  pivot_wider(names_from = sp, values_from = val, values_fill = 0)
-
-cce.shrubs.long <- cce.shrubs.long %>%
-  left_join(shrub.rel.ba, by = c("fire_scar", "site")) %>%
-  mutate(across(any_of(c("rel.ba.a", "rel.ba.s", "rel.ba.b")), ~ replace_na(., 0)))
-
-if (!"rel.ba.a" %in% names(cce.shrubs.long)) cce.shrubs.long$rel.ba.a <- 0
-if (!"rel.ba.s" %in% names(cce.shrubs.long)) cce.shrubs.long$rel.ba.s <- 0
-if (!"rel.ba.b" %in% names(cce.shrubs.long)) cce.shrubs.long$rel.ba.b <- 0
-
-# Shrub allometry (Berner et al. 2015, g/stem)
-cce.shrubs.long <- cce.shrubs.long %>%
-  mutate(
-    AGB.shrub = case_when(
-      shrub_regen_species == "Alnus"   ~ 13.31 * (bd^3.15),
-      shrub_regen_species == "Salix"   ~ 27.58 * (bd^2.36),
-      shrub_regen_species == "Betula"  ~ 28.10 * (bd^2.97),
-      shrub_regen_species == "Unknown" ~ rel.ba.a * 13.31 * (bd^3.15) +
-        rel.ba.s * 27.58 * (bd^2.36) +
-        rel.ba.b * 28.10 * (bd^2.97),
-      TRUE ~ NA_real_
-    ),
-    stem.shrub = case_when(
-      shrub_regen_species == "Alnus"   ~ 4.28  * (bd^3.68),
-      shrub_regen_species == "Salix"   ~ 20.62 * (bd^2.29),
-      shrub_regen_species == "Betula"  ~ 17.47 * (bd^2.36),
-      shrub_regen_species == "Unknown" ~ rel.ba.a * 4.28  * (bd^3.68) +
-        rel.ba.s * 20.62 * (bd^2.29) +
-        rel.ba.b * 17.47 * (bd^2.36),
-      TRUE ~ NA_real_
-    ),
-    branch.shrub = case_when(
-      shrub_regen_species == "Alnus"   ~ 2.23  * (bd^3.19),
-      shrub_regen_species == "Salix"   ~ 5.19  * (bd^2.37),
-      shrub_regen_species == "Betula"  ~ 5.73  * (bd^4.06),
-      shrub_regen_species == "Unknown" ~ rel.ba.a * 2.23  * (bd^3.19) +
-        rel.ba.s * 5.19  * (bd^2.37) +
-        rel.ba.b * 5.73  * (bd^4.06),
-      TRUE ~ NA_real_
-    ),
-    ng.shrub = case_when(
-      shrub_regen_species == "Alnus"   ~ 10.88 * (bd^1.55),
-      shrub_regen_species == "Salix"   ~ 10.54 * (bd^1.71),
-      shrub_regen_species == "Betula"  ~ 4.57  * (bd^2.45),
-      shrub_regen_species == "Unknown" ~ rel.ba.a * 10.88 * (bd^1.55) +
-        rel.ba.s * 10.54 * (bd^1.71) +
-        rel.ba.b * 4.57  * (bd^2.45),
-      TRUE ~ NA_real_
-    )
-  ) %>%
-  mutate(
-    prefire.shrub.ind = stem.shrub + branch.shrub + ng.shrub
-  )
-
-# Plot-level shrub summary
-PLOTS.SHRUBS <- cce.shrubs.long %>%
-  group_by(fire_scar, site, plot) %>%
-  summarise(
-    prefire.shrubs    = sum(prefire.shrub.ind * rep_weight, na.rm = TRUE) / PLOT_AREA_SHRUBS,
-    dens.shrubs       = sum(rep_weight,                     na.rm = TRUE) / PLOT_AREA_SHRUBS,
-    basal.area.shrubs = sum(pi * (bd / 2)^2 * rep_weight,  na.rm = TRUE) / PLOT_AREA_SHRUBS,
-    .groups = "drop"
-  ) %>%
-  mutate(
-    prefire.shrubs.carbon = prefire.shrubs * 0.5
-  )
-
-#=============================================================================#
-# 4) CWD Carbon----
+# 3) CWD Carbon----
 #=============================================================================#
 # Plot transect = 10m, diameter in cm
-# Using Nalder et al. 1999 for <7cm, Ter-Mikaelian / Manies et al. 2005 for >=7cm
+# Using Nalder et al. 2000 for <7cm, Ter-Mikaelian et al. 2008 / Manies et al. 2005 for >=7cm
 # Output in g C / m2 (multiply Mg/ha by 50)
 cce.cwd <- cce.cwd %>%
   filter(!is.na(diameter_cm), diameter_cm >= 5) %>%
@@ -648,11 +564,12 @@ cce.cwd <- cce.cwd %>%
 
 if (!"rel.ba.bp" %in% names(rel.ba.wide)) rel.ba.wide$rel.ba.bp <- 0
 if (!"rel.ba.ws" %in% names(rel.ba.wide)) rel.ba.wide$rel.ba.ws <- 0
+if (!"rel.ba.la" %in% names(rel.ba.wide)) rel.ba.wide$rel.ba.la <- 0
 
 # Join site-level relative BA for unknown CWD species
 cwd.rel.ba <- rel.ba.wide %>%
   mutate(
-    rel.ba.dec = rel.ba.as + rel.ba.br + rel.ba.bp,
+    rel.ba.dec = rel.ba.as + rel.ba.br + rel.ba.bp + rel.ba.la,
     rel.ba.con = rel.ba.bs + rel.ba.ws
   ) %>%
   select(fire_scar, site, rel.ba.bs, rel.ba.ws, rel.ba.dec, rel.ba.con)
@@ -698,11 +615,10 @@ PLOTS.CWD <- cce.cwd %>%
   )
 
 #=============================================================================#
-# 5) Join all plot-level data----
+# 4) Join all plot-level data----
 #=============================================================================#
 PLOTS.ALL <- PLOTS.TREES %>%
   full_join(PLOTS.SNAGS,       by = c("fire_scar", "site", "plot")) %>%
-  full_join(PLOTS.SHRUBS,      by = c("fire_scar", "site", "plot")) %>%
   full_join(PLOTS.CWD,         by = c("fire_scar", "site", "plot")) %>%
   full_join(PLOTS.BIOMASS,     by = c("fire_scar", "site", "plot")) %>%
   full_join(PLOTS.DENS,        by = c("fire_scar", "site", "plot")) %>%
@@ -710,24 +626,23 @@ PLOTS.ALL <- PLOTS.TREES %>%
   full_join(SPECIES.INDEX,     by = c("fire_scar", "site", "plot")) %>%
   full_join(cce.plot.soil.sum, by = c("fire_scar", "site", "plot"))
 
-# Fill missing snag/shrub/cwd values with 0
+# Fill missing snag/cwd values with 0
 PLOTS.ALL <- PLOTS.ALL %>%
   mutate(across(c(prefire.snags, combustion.snags, postfire.snags,
                   prefire.snags.carbon, combustion.snags.carbon, postfire.snags.carbon,
-                  prefire.shrubs, prefire.shrubs.carbon,
                   prefire.cwd.carbon, combustion.cwd.carbon, postfire.cwd.carbon),
                 ~ replace_na(., 0)))
 
 # Aboveground totals (biomass, g/m2)
 PLOTS.ALL <- PLOTS.ALL %>%
   mutate(
-    prefire.above    = prefire.trees  + prefire.shrubs  + prefire.snags,
+    prefire.above    = prefire.trees    + prefire.snags,
     combustion.above = combustion.trees + combustion.snags,
-    postfire.above   = postfire.trees + postfire.snags
+    postfire.above   = postfire.trees   + postfire.snags
   )
 
 #=============================================================================#
-# 6) Join site master and export----
+# 5) Join site master and export----
 #=============================================================================#
 # Left join expands site master to plot level (A, B, C per site)
 PLOTS.FINAL <- cce.site %>%
@@ -735,7 +650,7 @@ PLOTS.FINAL <- cce.site %>%
   left_join(PLOTS.ALL, by = c("fire_scar", "site")) %>%
   select(-any_of(c("unknown.dens", "unknown conifer.dens", "NA.dens",
                    "unknown.ba", "unknown conifer.ba",
-                   "NA.ba", "bp.pre.ba")))
+                   "NA.ba", "bp.pre.ba", "la.pre.ba")))
 
 write_csv(PLOTS.FINAL, "Field_Data/Analysis_Ready/CCE_plot_combustion.csv")
 
